@@ -33,16 +33,9 @@
           However, past performance does not guarantee future results. Each case is unique and evaluated on its
           individual merits by immigration authorities.
         </p>
-        <!-- <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-              <div class="funfact-content">
-                <h2 class="count-box">
-                  <span data-stop="3045" data-speed="2500" class="count-text">00</span>
-                </h2>
-                <h6 class="title">Satisfied Clients</h6>
-              </div>
-            </div> -->
+        
       </div>
     </div>
   </section>
-  <script src="../code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <!-- ----------- Counter ---------- -->

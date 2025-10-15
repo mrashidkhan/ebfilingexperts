@@ -118,46 +118,42 @@
         </div> -->
                         <!-- Social Box -->
                         <ul class="social-box">
-                            <li>
-                                <a href="https://www.linkedin.com/company/eb1a-experts/" target="_blank"><img
-                                        src="images/inner-images/linkedin.png" alt="linkedin"></a>
-                            </li>
-                            <li>
-                                <a href="https://facebook.com/profile.php?id=61559213788286" target="_blank"><img
-                                        src="images/inner-images/facebook.png" alt="facebook"></a>
-                            </li>
-                            <li>
-                                <a href="https://instagram.com/eb1aexperts" target="_blank"><img
-                                        src="images/inner-images/instagram.png" alt="instagram"></a>
-                            </li>
-                            <li>
-                                <a href="https://x.com/eb1aexperts" target="_blank"><img
-                                        src="images/inner-images/social-media.png" alt="Twitter"></a>
-                            </li>
-                            <li>
-                                <a href="https://www.youtube.com/@eb1aexperts" target="_blank"><img
-                                        src="images/inner-images/youtube.png" alt="youtube"></a>
-                            </li>
-                            <li>
-                                <a href="https://medium.com/@eb1aexperts" target="_blank"><img
-                                        src="images/inner-images/medium.png" alt="medium"></a>
-                            </li>
-                        </ul>
+    <li>
+        <a href="https://www.linkedin.com/company/eb1a-experts/" target="_blank">
+            <img src="{{ asset('assets/images/inner-images/linkedin.png') }}" alt="linkedin">
+        </a>
+    </li>
+    <li>
+        <a href="https://facebook.com/profile.php?id=61559213788286" target="_blank">
+            <img src="{{ asset('assets/images/inner-images/facebook.png') }}" alt="facebook">
+        </a>
+    </li>
+    <li>
+        <a href="https://instagram.com/eb1aexperts" target="_blank">
+            <img src="{{ asset('assets/images/inner-images/instagram.png') }}" alt="instagram">
+        </a>
+    </li>
+    <li>
+        <a href="https://x.com/eb1aexperts" target="_blank">
+            <img src="{{ asset('assets/images/inner-images/social-media.png') }}" alt="Twitter">
+        </a>
+    </li>
+    <li>
+        <a href="https://www.youtube.com/@eb1aexperts" target="_blank">
+            <img src="{{ asset('assets/images/inner-images/youtube.png') }}" alt="youtube">
+        </a>
+    </li>
+    <li>
+        <a href="https://medium.com/@eb1aexperts" target="_blank">
+            <img src="{{ asset('assets/images/inner-images/medium.png') }}" alt="medium">
+        </a>
+    </li>
+</ul>
                         <!-- TrustBox script -->
-                        <script type="text/javascript" src="../widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
+                        <script type="text/javascript" src="https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
                         <!-- End TrustBox script -->
 
-                        <!-- TrustBox widget - Review Collector -->
-                        <!-- <div class="trustbox-widget">
-       <div class="trustpilot-widget" data-locale="en-US"
-        data-template-id="56278e9abfbbba0bdcd568bc"
-        data-businessunit-id="67c10f1c11f3ffaeab09b6f7" data-style-height="52px"
-        data-style-width="100%">
-        <a href="https://www.trustpilot.com/review/eb1aexperts.com" target="_blank"
-         rel="noopener">Trustpilot</a>
-       </div>
-      </div> -->
-                        <!-- End TrustBox widget -->
+
                     </div>
                 </div>
                 <!-- Footer Column -->
@@ -165,17 +161,14 @@
                     <div class="footer-widget links-widget">
                         <h5>Quick Links</h5>
                         <ul class="list-link">
-                            <li><a href="eb1a-visa.html">EB1A Visa</a></li>
-                            <li><a href="o-1avisa.html">O-1A Visa</a></li>
-                            <li><a href="eb2-niw.html">EB2-NIW</a></li>
-                            <li><a href="turing-ai.html">Turing AI</a></li>
-                            <li><a href="who-are-we.html">Who are we</a></li>
-                            <!-- <li><a href="partnerships-boundless.php">Boundless Partner</a></li> -->
-                            <li><a href="our-story.html">Our Story</a></li>
-                            <!-- <li><a href="javascript:void()">Pricing</a></li> -->
-                            <!-- <li><a href="resources.php">Resources</a></li> -->
-                            <!-- <li><a href="contact-us.php">Contact Us</a></li> -->
-                        </ul>
+    <li><a href="{{ route('eb1a-visa') }}">EB1A Visa</a></li>
+    <li><a href="{{ route('o1avisa') }}">O-1A Visa</a></li>
+    <li><a href="{{ route('eb2-niw') }}">EB2-NIW</a></li>
+    <li><a href="{{ route('turing-ai') }}">Turing AI</a></li>
+    <li><a href="{{ route('who-are-we') }}">Who are we</a></li>
+    <!-- <li><a href="{{ route('partnerships-boundless') }}">Boundless Partner</a></li> -->
+    <li><a href="{{ route('our-story') }}">Our Story</a></li>
+</ul>
                     </div>
                 </div>
                 <!-- Column -->
@@ -183,28 +176,7 @@
                 <div class="footer-column col-lg-2 col-md-6 col-sm-12 mobile-width-50 mobile-sm">
                     <div class="footer-widget news-widget">
                         <h5>Resources</h5>
-                        <!-- Footer Column -->
-                        <!-- <div class="widget-content">
-         <div class="post">
-          <div class="thumb"><a
-            href="how-eb1a-experts-tailor-eb1a-applications-for-success-in-the-tech-industry.php"><img
-             src="./images/inner-images/blogthumbnail1.png" alt=""></a></div>
-          <h6><a href="how-eb1a-experts-tailor-eb1a-applications-for-success-in-the-tech-industry.php">How EB1A Experts
-            Tailor EB1A
-            Applications for Success in the Tech Industry</a></h6>
-          <span class="date"> <img src="images/inner-images/calendar-footer.png" alt=""> March 01, 2025</span>
-         </div>
 
-         <div class="post">
-          <div class="thumb"><a
-            href="overcoming-common-challenges-in-the-eb1a-process-for-tech-professionals.php"><img
-             src="./images/inner-images/blogthumbnail2.png" alt=""></a></div>
-          <h6><a href="overcoming-common-challenges-in-the-eb1a-process-for-tech-professionals.php">
-            Overcoming Common
-            Challenges in the EB1A Process for Tech Professionals </a></h6>
-          <span class="date"> <img src="images/inner-images/calendar-footer.png" alt=""> February 08, 2025</span>
-         </div>
-        </div> -->
                         <ul class="list-link">
                             <li><a href="reviews.html">Testimonials</a></li>
                             <li><a href="case-studies.html">Case Studies</a></li>
@@ -231,12 +203,7 @@
                                     <strong class="address">548 Market St, #495094, San Francisco, CA, 94104 </strong>
 
                                 </li>
-                                <!-- <li>
-           <span class="icon bi bi-geo-alt-fill"></span>
-           <strong>India Office Address</strong>
-           Shanmukh Empire, Unit 302, S.A Society, Madhapur, Hyderabad,
-           Telangana, 500081
-          </li> -->
+
 
 
                         </ul>
@@ -390,8 +357,8 @@
     });
 </script>
 <!-- particles.js lib - https://github.com/VincentGarreau/particles.js -->
-<script src="../cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> <!-- stats.js lib -->
-<script src="../threejs.org/examples/js/libs/stats.min.html"></script>
+<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+<script src="https://threejs.org/examples/js/libs/stats.min.js"></script>
 <script>
     $(document).ready(function() {
         $('#home-carousel').on('slid.bs.carousel', function() {

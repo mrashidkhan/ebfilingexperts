@@ -33,7 +33,7 @@
           <a href="javascript:void()">What we do</a>
           <ul class="sub-menu dropdown-menu-submenu">
             <li><a href="{{ route('eb1a-visa') }}">EB1A Visa (Green Card)</a></li>
-<li><a href="{{ route('o-1avisa') }}">O1A (Work Visa)</a></li>
+<li><a href="{{ route('o1avisa') }}">O1A (Work Visa)</a></li>
 <li><a href="{{ route('eb2-niw') }}">EB2-NIW (Green Card)</a></li>
           </ul>
         </li>

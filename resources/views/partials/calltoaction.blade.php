@@ -23,18 +23,19 @@
         </div>
         <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 clipped">
           <div class="video-img">
-            <img src="images/inner-images/home-Thumb.jpg" alt="video Thumb">
+            <img src="{{ asset('assets/images/inner-images/home-Thumb.jpg') }}" alt="video Thumb">
             <!-- Animated button -->
             <div class="home3-btn-group">
-              <a href="images/inner-images/Trailer.mp4"
-                class="video-button video-popup d-xl-inline-flex d-lg-inline-flex d-md-inline-flex" tabindex="0"
-                rel="nofollow" type="video/mp4">
-                <span class="play-icon">
-                  <!-- <i aria-hidden="true" class="fas fa-play"></i> -->
-                  <img src="images/inner-images/play-button.png" alt="video play button">
-                </span>
-              </a>
-            </div>
+    <a href="{{ asset('assets/images/inner-images/Trailer.mp4') }}"
+        class="video-button video-popup d-xl-inline-flex d-lg-inline-flex d-md-inline-flex"
+        tabindex="0"
+        rel="nofollow"
+        type="video/mp4">
+        <span class="play-icon">
+            <img src="{{ asset('assets/images/inner-images/play-button.png') }}" alt="video play button">
+        </span>
+    </a>
+</div>
           </div>
           <div>
           </div>

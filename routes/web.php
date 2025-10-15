@@ -6,9 +6,9 @@ use App\Http\Controllers\PageController;
 // Public Routes
 Route::get('/seatselection', [PageController::class, 'selection'])->name('seatselection');
 Route::get('/', [PageController::class, 'index'])->name('index');
-Route::get('/aboutus', [PageController::class, 'aboutus'])->name('aboutus');
+Route::get('/eb1avisa', [PageController::class, 'eb1avisa'])->name('eb1a-visa');
 Route::get('/contactus', [PageController::class, 'contactus'])->name('contactus');
-Route::get('/gallery', [PageController::class, 'gallery'])->name('gallery');
+Route::get('/o1avisa', [PageController::class, 'o1avisa'])->name('o1avisa');
 Route::get('/activeevents', [PageController::class, 'activeevents'])->name('activeevents');
 Route::get('/posters', [PageController::class, 'posters'])->name('posters');
 Route::get('/upcomingposters', [PageController::class, 'upcomingposters'])->name('upcomingposters');
@@ -84,9 +84,9 @@ Route::get('/eb1a-visa', function () {
     return view('pages.eb1a-visa');
 })->name('eb1a-visa');
 
-Route::get('/o-1avisa', function () {
-    return view('pages.o-1avisa');
-})->name('o-1avisa');
+// Route::get('/o-1avisa', function () {
+//     return view('pages.o-1avisa');
+// })->name('o-1avisa');
 
 Route::get('/eb2-niw', function () {
     return view('pages.eb2-niw');

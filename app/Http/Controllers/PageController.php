@@ -18,11 +18,11 @@ class PageController extends Controller
 
     // }
 
-    public function aboutus()
+    public function eb1avisa()
     {
 
 
-    return view('pages.aboutus');
+    return view('pages.eb1avisa');
     }
 
 
@@ -36,7 +36,12 @@ class PageController extends Controller
 
 
 
+public function o1avisa()
+{
 
+
+    return view('pages.o1avisa');
+}
 
 
     public function testimonials()

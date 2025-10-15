@@ -1,4 +1,4 @@
-<body class="home">
+{{-- <body class="home"> --}}
   <!-- Google Tag Manager (noscript) -->
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W64MKKG3" height="0" width="0"
       style="display:none;visibility:hidden"></iframe></noscript>
@@ -22,62 +22,56 @@
   <div class="container">
     <div class="main-menu-inner">
       <div class="main-menu-logo">
-        <a href="index.html">
+        <a href="{{ route('index') }}">
           <img src="{{ asset('assets/images/inner-images/logo.png') }}" alt="logo" />
         </a>
       </div>
       <ul class="main-nav-menu">
-        <li><a href="index.html">Home</a></li>
+
+        <li><a href="{{ route('index') }}">Home</a></li>
         <li class="menu-has-sub">
           <a href="javascript:void()">What we do</a>
           <ul class="sub-menu dropdown-menu-submenu">
-            <li><a href="eb1a-visa.html">EB1A Visa (Green Card)</a></li>
-            <li><a href="o-1avisa.html">O1A (Work Visa)</a></li>
-             <li><a href="eb2-niw.html">EB2-NIW (Green Card)</a></li>
+            <li><a href="{{ route('eb1a-visa') }}">EB1A Visa (Green Card)</a></li>
+<li><a href="{{ route('o-1avisa') }}">O1A (Work Visa)</a></li>
+<li><a href="{{ route('eb2-niw') }}">EB2-NIW (Green Card)</a></li>
           </ul>
         </li>
         <li class="menu-has-sub">
-          <a href="who-are-we.html">Who are we</a>
+          <a href="{{ route('who-are-we') }}">Who are we</a>
           <ul class="dropdown-menu-submenu">
           <li class="menu-has-sub has-sub-child">
-                  <a href="our-story.html">Our Story</a>
+
+                  <a href="{{ route('our-story') }}">Our Story</a>
               <ul class="sub-menu dropdown-menu-submenu">
-                <li><a href="why-choose-us.html">Why Choose Us?</a></li>
-                <li><a href="leadership-team.html">Leadership Team</a></li>
-                <li><a href="reports.html">Reports</a></li>
+                <li><a href="{{ route('why-choose-us') }}">Why Choose Us?</a></li>
+<li><a href="{{ route('leadership-team') }}">Leadership Team</a></li>
+<li><a href="{{ route('reports') }}">Reports</a></li>
               </ul>
             </li>
-           <li><a href="partnerships-boundless.html">Boundless Partner</a></li>
+           <li><a href="{{ route('partnerships-boundless') }}">Boundless Partner</a></li>
                 <li class="menu-has-sub has-sub-child">
                   <a href="#">News and Events</a>
               <ul class="sub-menu dropdown-menu-submenu">
-                <li><a href="media-news.html">Media News</a></li>
-                <!-- <li><a href="javascript:void()">PR Releases</a></li> -->
-                <li><a href="webinar.html">Webinars</a></li>
+                <li><a href="{{ route('media-news') }}">Media News</a></li>
+<li><a href="{{ route('webinar') }}">Webinars</a></li>
               </ul>
             </li>
           </ul>
         </li>
-        <li><a href="turing-ai.html">Turing AI</a></li>
-        <li><a href="reviews.html">Testimonials</a></li>
+        <li><a href="{{ route('turing-ai') }}">Turing AI</a></li>
+<li><a href="{{ route('reviews') }}">Testimonials</a></li>
         <li class="menu-has-sub">
-           <a href="resources.html">Resources</a>
+           <a href="{{ route('resources') }}">Resources</a>
           <ul class="dropdown-menu-submenu">
-            <li><a href="case-studies.html">Case Studies</a></li>
-            <li><a href="vodcast.html">Vodcast</a></li>
-            <li><a href="blog.html">Blog</a></li>
-            <li><a href="faqs.html">FAQ's</a></li>
-            <!-- <li class="menu-has-sub has-sub-child">
-              <a href="javascript:void()">News and Events</a>
-              <ul>
-                <li><a href="javascript:void()">Media News</a></li>
-                <li><a href="javascript:void()">PR Releases</a></li>
-                <li><a href="javascript:void()">Webinars</a></li>
-              </ul>
-            </li> -->
+            <li><a href="{{ route('case-studies') }}">Case Studies</a></li>
+<li><a href="{{ route('vodcast') }}">Vodcast</a></li>
+<li><a href="{{ route('blog') }}">Blog</a></li>
+<li><a href="{{ route('faqs') }}">FAQ's</a></li>
+
           </ul>
         </li>
-         <li><a href="contact-us.html">Contact Us</a></li>
+         <li><a href="{{ route('contactus') }}">Contact Us</a></li>
       </ul>
       <div class="main-menu-right">
         <a href="#" class="mobile-nav-toggler">
@@ -85,11 +79,9 @@
           <span></span>
           <span></span>
         </a>
-        <!-- <a href="#" class="search-toggler">
-            <i class="base-icon-search-1"></i>
-          </a> -->
+
         <div class="header-contact-btn">
-          <a href="contact-us.html#calendar" class="theme-btn-6">Book Consultation</a>
+          <a href="{{ route('contactus') }}#calendar" class="theme-btn-6">Book Consultation</a>
         </div>
       </div>
     </div>
@@ -105,8 +97,8 @@
         <span></span>
       </a>
       <div class="side-panel-logo logo-box">
-        <a href="index.html" aria-label="logo image">
-          
+        <a href="{{ route('index') }}" aria-label="logo image">
+
           <img src="{{ asset('assets/images/inner-images/logo.png') }}" alt="logo" />
         </a>
       </div>
@@ -115,27 +107,9 @@
       <li> <i class="bi bi-envelope-paper"></i> <a href="mailto:contact@eb1aexperts.com" style="padding-left:4px;">  contact@eb1aexperts.com</a>
       </li>
         <li><i class="bi bi-geo-alt"></i> <b style="color: #fff;"> HQ Address :</b>  548 Market St, #495094, San Francisco, CA, 94104</li>
-          <!-- <li><i class="bi bi-geo-alt"></i> <b style="color: #fff;"> India Office Address :</b> Shanmukh
-          Empire, Unit 302, S.A Society, Madhapur, Hyderabad, Telangana, 500081</li> -->
 
-        <!-- <li><i class="bi bi-telephone"></i> <a href="tel:+61 (123) 456-7890">+61 (123)
-            456-7890</a>
-        </li> -->
       </ul>
-      <!-- <ul class="social-list list-webex-primary-color">
-        <li>
-          <a href="#"><i class="fab fa-facebook"></i></a>
-        </li>
-        <li>
-          <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
-        </li>
-        <li>
-          <a href="#"><i class="fab fa-instagram"></i></a>
-        </li>
-        <li>
-          <a href="#"><i class="fab fa-google-plus"></i></a>
-        </li>
-      </ul> -->
+
     </div>
   </div>
   <!-- Mobile Nav Sidebar Content End -->
@@ -149,10 +123,6 @@
   gtag('js', new Date());
   gtag('config', 'AW-16934108216');
 </script>
-<!-- <script>
-document.addEventListener('contextmenu', function(e) {
-    e.preventDefault(); // prevents right-click menu
-});
-</script> -->
+
 
   <!-- header area end -->

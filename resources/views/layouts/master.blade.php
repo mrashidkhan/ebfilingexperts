@@ -1,6 +1,5 @@
-@include('layouts.head')
-@include('layouts.header')
+@extends('layouts.app')
 
-@yield('content')
-
-@include('layouts.footer')
+@section('content')
+    {{-- Your page content goes here --}}
+@endsection

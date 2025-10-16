@@ -6,14 +6,27 @@ use App\Http\Controllers\PageController;
 // Public Routes
 Route::get('/seatselection', [PageController::class, 'selection'])->name('seatselection');
 Route::get('/', [PageController::class, 'index'])->name('index');
-Route::get('/eb1avisa', [PageController::class, 'eb1avisa'])->name('eb1a-visa');
+Route::get('/eb1a-visa', [PageController::class, 'eb1a-visa'])->name('eb1a-visa');
 Route::get('/contactus', [PageController::class, 'contactus'])->name('contactus');
 Route::get('/o1avisa', [PageController::class, 'o1avisa'])->name('o1avisa');
-Route::get('/activeevents', [PageController::class, 'activeevents'])->name('activeevents');
-Route::get('/posters', [PageController::class, 'posters'])->name('posters');
-Route::get('/upcomingposters', [PageController::class, 'upcomingposters'])->name('upcomingposters');
-Route::get('/service', [PageController::class, 'service'])->name('service');
-Route::get('/team', [PageController::class, 'team'])->name('team');
+Route::get('/eb2-niw', [PageController::class, 'eb2niw'])->name('eb2-niw');
+Route::get('/our-story', [PageController::class, 'ourstory'])->name('our-story');
+Route::get('/why-choose-us', [PageController::class, 'whychooseus'])->name('why-choose-us');
+Route::get('/leadership-team', [PageController::class, 'leadershipteam'])->name('leadership-team');
+Route::get('/reports', [PageController::class, 'reports'])->name('reports');
+Route::get('/annual-report-2024', [PageController::class, 'annualreport2024'])->name('annual-report-2024');
+Route::get('/partnerships-boundless', [PageController::class, 'partnershipsboundless'])->name('partnerships-boundless');
+Route::get('/media-news', [PageController::class, 'medianews'])->name('media-news');
+Route::get('/webinar', [PageController::class, 'webinar'])->name('webinar');
+Route::get('/turing-ai', [PageController::class, 'turingai'])->name('turing-ai');
+Route::get('/reviews', [PageController::class, 'reviews'])->name('reviews');
+Route::get('/resources', [PageController::class, 'resources'])->name('resources');
+Route::get('/case-studies', [PageController::class, 'casestudies'])->name('case-studies');
+Route::get('/vodcast', [PageController::class, 'vodcast'])->name('vodcast');
+
+
+
+
 Route::get('/testimonials', [PageController::class, 'testimonials'])->name('testimonials');
 Route::post('/contact', [ContactController::class, 'store'])->name('contact.store');
 Route::get('/privacy-policy', [PageController::class, 'privacyPolicy'])->name('privacy.policy');

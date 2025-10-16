@@ -14,9 +14,7 @@
     <marquee>
     <b style="color: #ffffff;">Free Webinar Coming Soon. Don’t Miss Out!</b>
     </marquee>
-  <!-- <p class="text-center">Join our <a href="https://us06web.zoom.us/webinar/register/WN_3TC4q_tmTreqsFLr-8UHlw#/registration" target="_blank"><b style="color:#fff">Free Webinar</b></a> on AI-Powered EB1A Strategies: How Data Reveals Approval Rates on <b style="color:#fff">17th Oct, 5 PM PT</b></p>
-   <marquee>Join our <a href="https://us06web.zoom.us/webinar/register/WN_3TC4q_tmTreqsFLr-8UHlw#/registration" target="_blank"><b style="color:#fff">Free Webinar</b></a> on AI-Powered EB1A Strategies: How Data Reveals Approval Rates on <b style="color:#fff">17th Oct, 5 PM PT</b></marquee>  -->
-
+  
 
   </div>
   <div class="container">

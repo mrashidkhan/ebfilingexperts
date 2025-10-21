@@ -14,7 +14,7 @@
                         alt="collaborating on success strategies" />
                     <img class="about-image2 img-full"
                         src="{{ asset('assets/images/about/about-lg2.jpg') }}"
-                        alt="EB1A Experts team" />
+                        alt="EB1 Filling Experts team" />
                 </div>
             </div>
 
@@ -22,33 +22,30 @@
             <div class="col-md-12 col-lg-10 col-xl-6 wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
                 <div class="title-box">
                     <h2 class="title-heading pt-2 pb-2">
-                        Beyond Paperwork: A
-                        <span class="text-gradient-color">Mission to Transform Lives</span>
+                        More Than Applications: A
+                        <span class="text-gradient-color">Empowering Careers, Changing Futures</span>
                     </h2>
                 </div>
 
                 <p class="mb-1">
                     At
                     <a href="{{ route('index') }}" target="_blank" class="target-color">
-                        EB1A Experts
+                        EB1 Filling Experts
                     </a>,
-                    we believe immigration is about more than just legal procedures — it's about opportunity, ambition,
-                    and the future.
+                    it's about enabling talented people to advance careers, achieve ambitions, and build meaningful lives.
                 </p>
 
                 <p class="mb-1">
-                    Every EB1A approval isn't just a document — it's a breakthrough. It allows talented professionals to
-                    thrive in the U.S., drive innovation, and create meaningful impact in their industries.
+                    An EB1A approval signals far more than a processed application—it's a career turning point. It enables exceptional talent to establish strong careers in America, drive technological advancement, and lead meaningful transformation across their industries.
                 </p>
 
                 <p class="mb-1">
-                    Our mission is simple: to eliminate hurdles and provide a high-success pathway to EB1A approval.
+                    Our mission is clear: remove barriers and create a proven pathway to EB1A approval.
                 </p>
 
                 <p class="mb-1">
                     <b>
-                        We take care of the complexities so our clients can focus on what they do best — innovating and
-                        leading in their fields. Whether it's:
+                        We handle the administrative complexity so you can concentrate on what matters most — advancing your career and driving innovation in your field. Whether it's:
                     </b>
                 </p>
 
@@ -61,7 +58,7 @@
                                 <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Identifying the right achievements to highlight">
                             </div>
                             <div class="featured-content">
-                                <p class="featured-desc mrb-0">Identifying the right achievements to highlight</p>
+                                <p class="featured-desc mrb-0">Showcasing your most compelling professional accomplishments</p>
                             </div>
                         </div>
                     </div>
@@ -76,7 +73,7 @@
                                 <p class="featured-desc mrb-0">
                                     Refining
                                     <a href="{{ route('case-studies') }}" target="_blank" class="target-color">
-                                        letters of recommendation
+                                        Professional endorsement letters
                                     </a>
                                 </p>
                             </div>
@@ -90,7 +87,7 @@
                                 <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Leveraging AI-driven case optimization">
                             </div>
                             <div class="featured-content">
-                                <p class="featured-desc mrb-0">Leveraging AI-driven case optimization</p>
+                                <p class="featured-desc mrb-0"></p>
                             </div>
                         </div>
                     </div>
@@ -101,8 +98,7 @@
                     <div class="col-lg-12">
                         <div class="d-inline d-md-flex align-items-center mt-40">
                             <p>
-                                We ensure every applicant stands out as a leader — because EB1A isn't just about qualifications,
-                                it's about demonstrating true impact.
+                                We position every applicant as an industry leader — because EB1A success demands more than credentials; it requires demonstrating tangible, measurable impact.
                             </p>
                         </div>
                     </div>

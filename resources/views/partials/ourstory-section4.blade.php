@@ -1,11 +1,11 @@
-<!-- Why EB1A Experts Stands Out Section -->
+<!-- Why EB1 Filling Experts Stands Out Section -->
 <section class="features-section experts-stands ptb-60">
     <div class="section-content">
         <div class="container">
             <!-- Section Title -->
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <h2 class="title-heading pb-4 text-center">Why EB1A Experts Stands Out?</h2>
+                    <h2 class="title-heading pb-4 text-center">Why EB1 Filling Experts Stands Out?</h2>
                 </div>
             </div>
 
@@ -16,7 +16,7 @@
                     <div class="features-item-style1">
                         <div class="features-inner">
                             <div class="features-shape">
-                                <img src="{{ asset('assets/images/objects/6.png') }}" alt="Why EB1A Experts Stands Out" />
+                                <img src="{{ asset('assets/images/objects/6.png') }}" alt="Why EB1 Filling Experts Stands Out" />
                             </div>
                             <div class="features-count"></div>
                             <img src="{{ asset('assets/images/inner-images/Experts-Stands1.png') }}"
@@ -64,11 +64,11 @@
                                 <a href="javascript:void()">Precision-Driven Strategies</a>
                             </h5>
                             <p>
-                                <a href="{{ route('turing-ai') }}" target="_blank" class="target-color">
-                                    AI-powered analysis
-                                </a>,
-                                expert-led case building, and data-backed success methods.
-                            </p>
+  <a href="{{ route('turing-ai') }}" target="_blank" class="target-color">
+    Advanced AI-driven insights
+  </a>,
+  strategic case development led by industry experts, and proven methodologies backed by success metrics.
+</p>
                         </div>
                     </div>
                 </div>
@@ -88,8 +88,7 @@
                                 <a href="javascript:void()">A True Partner in the Journey</a>
                             </h5>
                             <p>
-                                We don't just submit applications—we stand beside our clients, guiding them every step
-                                of the way.
+                                We're committed partners in your EB1A journey — providing expert guidance, strategic support, and dedicated assistance from start to finish.
                             </p>
                         </div>
                     </div>

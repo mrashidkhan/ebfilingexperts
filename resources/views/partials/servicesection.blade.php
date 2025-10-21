@@ -7,24 +7,23 @@
     <div class="container">
         <div class="row align-items-center d-flex">
             <div class="col-md-12 col-lg-12 col-xl-12">
-                <h1 class="mrb-10 title-heading text-center">Who are we?</h1>
-                <p class="text-center">
-                    At EB1A Experts, we empower tech professionals on their
-                    <a href="https://medium.com/@eb1aexperts/eb-1a-green-card-the-premier-path-for-exceptional-talent-in-tech-ff57d797f868"
-                        target="_blank"
-                        class="target-color">
-                        EB1A Green Card journey
-                    </a>
-                    with personalized strategies and end-to-end support, ensuring a seamless process. Our comprehensive approach
-                    helps applicants meet 6-7 out of the 10
-                    <a href="https://medium.com/@eb1aexperts/understanding-the-uscis-eb1a-criteria-a-comprehensive-guide-to-building-a-strong-eb1a-profile-b6a40c48843d"
-                        target="_blank"
-                        class="target-color">
-                        USCIS criteria
-                    </a>
-                    – far exceeding the minimum requirement of three. This meticulous strategy strengthens cases, often leading to faster approvals and a smoother path to permanent residency.
-                </p>
-            </div>
+    <h1 class="mrb-10 title-heading text-center">About Us</h1>
+    <p class="text-center">
+        EB1 Filing Experts guides technology professionals through the
+        <a href="https://medium.com/@eb1aexperts/eb-1a-green-card-the-premier-path-for-exceptional-talent-in-tech-ff57d797f868"
+            target="_blank"
+            class="target-color">
+            EB1A Green Card process
+        </a>
+        by delivering tailored guidance and comprehensive support from start to finish. We strategically help applicants satisfy 6-7 of the 10
+        <a href="https://medium.com/@eb1aexperts/understanding-the-uscis-eb1a-criteria-a-comprehensive-guide-to-building-a-strong-eb1a-profile-b6a40c48843d"
+            target="_blank"
+            class="target-color">
+            USCIS requirements
+        </a>
+        – substantially surpassing the mandatory three. Our meticulous approach strengthens applications, accelerates approvals, and paves the way to permanent residency with greater confidence.
+    </p>
+</div>
         </div>
     </div>
 </section>

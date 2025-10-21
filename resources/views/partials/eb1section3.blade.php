@@ -139,10 +139,9 @@
                         <div class="service-inner servers-img">
                             <img src="{{ asset('assets/images/inner-images/Criteria-icon7-b.png') }}" alt="Showcasing Work" class="normal-img">
                             <img src="{{ asset('assets/images/inner-images/Criteria-icon7-w.png') }}" alt="Prestigious Venues" class="normal-img-hover">
-                            <h4 class="service-title">Showcasing Work in Prestigious Venues</h4>
+                            <h4 class="service-title">SPresenting Achievements in Elite Platforms</h4>
                             <p class="service-description">
-                                Presenting at top-tier tech conferences and industry forums, demonstrating recognition from
-                                leading experts and organizations.
+                                Speaking at premier technology conferences and professional gatherings, proving acknowledgment from distinguished authorities and institutions.
                             </p>
                             <div class="service-inner-obj"></div>
                         </div>
@@ -157,8 +156,7 @@
                             <img src="{{ asset('assets/images/inner-images/Criteria-icon8-w.png') }}" alt="Critical Role" class="normal-img-hover">
                             <h4 class="service-title">Leading or Critical Role</h4>
                             <p class="service-description">
-                                Holding a <b>key leadership role in a tech company, AI startup, research lab, or major software project</b>,
-                                proving your essential contributions.
+                                Maintaining a <b>prominent executive position at a technology firm, artificial intelligence venture, scientific institute, or significant development initiative</b>, establishing your critical impact.
                             </p>
                             <div class="service-inner-obj"></div>
                         </div>
@@ -171,10 +169,9 @@
                         <div class="service-inner servers-img">
                             <img src="{{ asset('assets/images/inner-images/Criteria-icon9-b.png') }}" alt="Commanding" class="normal-img">
                             <img src="{{ asset('assets/images/inner-images/Criteria-icon9-w.png') }}" alt="High Salary" class="normal-img-hover">
-                            <h4 class="service-title">Commanding a High Salary</h4>
+                            <h4 class="service-title">Earning Premium Compensation</h4>
                             <p class="service-description">
-                                Earning a salary that significantly surpasses industry standards, demonstrating
-                                <b>your expertise and demand in the tech industry</b>.
+                                Receiving compensation that substantially exceeds sector benchmarks, reflecting <b>your specialized knowledge and market value in the technology sector</b>.
                             </p>
                             <div class="service-inner-obj"></div>
                         </div>
@@ -191,9 +188,7 @@
                 <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12 m-auto">
                     <div class="meeting-EB1A-criteria-inner-content">
                         <p class="text-center">
-                            Meeting these criteria establishes your <b>influence and contributions</b> as a tech professional and
-                            strengthens your eligibility for the EB1A green card. However, structuring this evidence correctly is
-                            critical for USCIS approval.
+                            Satisfying these requirements validates your <b>impact and achievements</b> as a technology expert and enhances your qualification for the EB1A green card. Nevertheless, organizing this documentation appropriately is essential for USCIS authorization.
                         </p>
                     </div>
                 </div>

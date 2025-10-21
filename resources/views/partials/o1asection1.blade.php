@@ -61,7 +61,7 @@
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                 <div class="inner-images">
                     <img src="{{ asset('assets/images/inner-images/o-1visa1.jpg') }}"
-                        alt="EB1A Experts help tech professionals secure O-1A visa.">
+                        alt="EB1 Filling Experts help tech professionals secure O-1A visa.">
                 </div>
             </div>
         </div>

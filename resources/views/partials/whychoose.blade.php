@@ -12,7 +12,7 @@
                         Why Choose
                         <a href="{{ route('contactus') }}"
                             class="target-color">
-                            EB1A Experts?
+                            EB1 Filling Experts?
                         </a>
                     </h2>
 
@@ -41,7 +41,7 @@
             <div class="col-xl-6 col-lg-6">
                 <div class="banner-thumb">
                     <img src="{{ asset('assets/images/inner-images/Why-Choose.jpg') }}"
-                        alt="EB1A Experts consultation – tech professionals discussing U.S. green card strategies">
+                        alt="EB1 Filling Experts consultation – tech professionals discussing U.S. green card strategies">
                 </div>
             </div>
         </div>

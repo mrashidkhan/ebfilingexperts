@@ -109,48 +109,44 @@
                         </div>
 
                         <h5>Let's get Social!</h5>
-                        <!-- <div class="logo">
-         <a href="index.php"><img src="images/inner-images/footer-logo.png" alt=""></a>
-        </div>
-        <div class="text">Helping tech professionals get their EB1A green card faster and
-         easier. With AI-powered insights and expert guidance, the process becomes smooth and
-         stress-free.
-        </div> -->
+
                         <!-- Social Box -->
                         <ul class="social-box">
-    <li>
-        <a href="https://www.linkedin.com/company/eb1a-experts/" target="_blank">
-            <img src="{{ asset('assets/images/inner-images/linkedin.png') }}" alt="linkedin">
-        </a>
-    </li>
-    <li>
-        <a href="https://facebook.com/profile.php?id=61559213788286" target="_blank">
-            <img src="{{ asset('assets/images/inner-images/facebook.png') }}" alt="facebook">
-        </a>
-    </li>
-    <li>
-        <a href="https://instagram.com/eb1aexperts" target="_blank">
-            <img src="{{ asset('assets/images/inner-images/instagram.png') }}" alt="instagram">
-        </a>
-    </li>
-    <li>
-        <a href="https://x.com/eb1aexperts" target="_blank">
-            <img src="{{ asset('assets/images/inner-images/social-media.png') }}" alt="Twitter">
-        </a>
-    </li>
-    <li>
-        <a href="https://www.youtube.com/@eb1aexperts" target="_blank">
-            <img src="{{ asset('assets/images/inner-images/youtube.png') }}" alt="youtube">
-        </a>
-    </li>
-    <li>
-        <a href="https://medium.com/@eb1aexperts" target="_blank">
-            <img src="{{ asset('assets/images/inner-images/medium.png') }}" alt="medium">
-        </a>
-    </li>
-</ul>
+                            <li>
+                                <a href="https://www.linkedin.com" target="_blank">
+                                    <img src="{{ asset('assets/images/inner-images/linkedin.png') }}" alt="linkedin">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://facebook.com" target="_blank">
+                                    <img src="{{ asset('assets/images/inner-images/facebook.png') }}" alt="facebook">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://instagram.com" target="_blank">
+                                    <img src="{{ asset('assets/images/inner-images/instagram.png') }}" alt="instagram">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://x.com" target="_blank">
+                                    <img src="{{ asset('assets/images/inner-images/social-media.png') }}"
+                                        alt="Twitter">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.youtube.com" target="_blank">
+                                    <img src="{{ asset('assets/images/inner-images/youtube.png') }}" alt="youtube">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://medium.com" target="_blank">
+                                    <img src="{{ asset('assets/images/inner-images/medium.png') }}" alt="medium">
+                                </a>
+                            </li>
+                        </ul>
                         <!-- TrustBox script -->
-                        <script type="text/javascript" src="https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
+                        <script type="text/javascript" src="https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async>
+                        </script>
                         <!-- End TrustBox script -->
 
 
@@ -161,14 +157,14 @@
                     <div class="footer-widget links-widget">
                         <h5>Quick Links</h5>
                         <ul class="list-link">
-    <li><a href="{{ route('eb1a-visa') }}">EB1A Visa</a></li>
-    <li><a href="{{ route('o1avisa') }}">O-1A Visa</a></li>
-    <li><a href="{{ route('eb2-niw') }}">EB2-NIW</a></li>
-    <li><a href="{{ route('turing-ai') }}">Turing AI</a></li>
-    <li><a href="{{ route('who-are-we') }}">Who are we</a></li>
-    <!-- <li><a href="{{ route('partnerships-boundless') }}">Boundless Partner</a></li> -->
-    <li><a href="{{ route('our-story') }}">Our Story</a></li>
-</ul>
+                            <li><a href="{{ route('eb1a-visa') }}">EB1 Visa</a></li>
+                            <li><a href="{{ route('o1avisa') }}">O-1A Visa</a></li>
+                            <li><a href="{{ route('eb2-niw') }}">EB2-NIW</a></li>
+                            <li><a href="{{ route('turing-ai') }}">Turing AI</a></li>
+                            <li><a href="{{ route('who-are-we') }}">Who are we</a></li>
+                            <!-- <li><a href="{{ route('partnerships-boundless') }}">Boundless Partner</a></li> -->
+                            <li><a href="{{ route('our-story') }}">Our Story</a></li>
+                        </ul>
                     </div>
                 </div>
                 <!-- Column -->
@@ -178,12 +174,12 @@
                         <h5>Resources</h5>
 
                         <ul class="list-link">
-                            <li><a href="reviews.html">Testimonials</a></li>
-                            <li><a href="case-studies.html">Case Studies</a></li>
-                            <li><a href="vodcast.html">Vodcast</a></li>
-                            <li><a href="blog.html">Blog</a></li>
-                            <li><a href="faqs.html">FAQ's</a></li>
-                        </ul>
+  <li><a href="{{ route('reviews') }}">Testimonials</a></li>
+  <li><a href="{{ route('case-studies') }}">Case Studies</a></li>
+  <li><a href="{{ route('vodcast') }}">Vodcast</a></li>
+  <li><a href="{{ route('blog') }}">Blog</a></li>
+  <li><a href="{{ route('faqs') }}">FAQ's</a></li>
+</ul>
                     </div>
                 </div>
                 <!-- Footer Column -->
@@ -192,17 +188,15 @@
                         <h5>Contact Us</h5>
                         <ul>
 
-                                <li class="contact-widget-list">
-                                    <span class="icon bi bi-envelope-paper"></span>
-                                    <strong><a
-                                            href="mailto:contact@eb1aexperts.com">contact@eb1aexperts.com</a></strong>
+                            <li class="contact-widget-list">
+                                <span class="icon bi bi-envelope-paper"></span>
+                                <strong><a href="mailto:contact@eb1fillingexperts.com">contact@eb1fillingexperts.com</a></strong>
 
-                                </li>
-                                <li class="contact-widget-list">
-                                    <span class="icon location bi bi-geo-alt-fill"></span>
-                                    <strong class="address">548 Market St, #495094, San Francisco, CA, 94104 </strong>
-
-                                </li>
+                            </li>
+                            <li class="contact-widget-list">
+  <span class="icon location bi bi-geo-alt-fill"></span>
+  <strong class="address">2727 LBJ Freeway, Suite 200, Dallas, TX 75234</strong>
+</li>
 
 
 
@@ -222,13 +216,11 @@
                 <div class="row clearfix">
                     <!-- Column -->
                     <div class="column col-lg-12 col-md-12 col-sm-12">
-                        <div class="copyright"><a href="disclaimer.html"
-                                style="color: #fff;text-decoration: underline;"><b style="color: #fff;">Disclaimer
-                                    :</b></a> The information provided by EB1A
-                            Experts is for educational and informational purposes only. While we strive to offer
-                            valuable insights, we do not provide legal advice or representation before U.S. immigration
-                            authorities.Decisions related to immigration should be based on individual
-                            circumstances, and seeking professional legal advice may be beneficial where needed.
+                        <div class="copyright"><a href="{{ route('disclaimer') }}" style="color: #fff; text-decoration: underline;">
+  <b style="color: #fff;">Disclaimer:</b>
+</a> EB1 Filing Experts provides educational resources and informational content to help you understand the EB-1A Green Card process.
+    However, we are not a law firm and do not provide legal advice, legal services, or official representation before U.S.
+    immigration authorities. Our services are designed to complement, not replace, professional legal counsel.
                         </div>
                     </div>
                     <!-- Column -->
@@ -244,14 +236,14 @@
                     <div class="row">
                         <div class="col-lg-7 col-md-5 col-sm-12 col-xs-12">
                             <p class="copyright-text">
-                                <b>EB1A Experts LLC</b> © 2025. All Rights Reserved
+                                <b>EB1 Filling Experts LLC</b> © 2025. All Rights Reserved
                             </p>
                         </div>
                         <div class="col-lg-5 col-md-7 col-sm-12 col-xs-12">
                             <ul class="footer-privacy-policy">
-                                <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                                <li><a href="terms-of-use.html">Terms of Use</a></li>
-                                <li><a href="refund-policy.html">Refund Policy</a></li>
+                                <li><a href="{{ route('privacy-policy') }}">Privacy Policy</a></li>
+                                <li><a href="{{ route('terms-of-use') }}">Terms of Use</a></li>
+                                <li><a href="{{ route('refund-policy') }}">Refund Policy</a></li>
                             </ul>
 
                         </div>
@@ -295,34 +287,34 @@
 
 
 
-<!-- ------  remove  Inspect Element ---- -->
-<!-- <script>
-    document.addEventListener('contextmenu', function(e) {
-        e.preventDefault();
-    });
-</script> -->
-<!-- ------  remove  Inspect Element ---- --> <!-- footer area end -->
+
 <!-----------------------Pop - Up-------------------------->
-<section class="disclaimer-popup">
-    <div id="myModal" class="modal fade-centered" tabindex="-1">
-        <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title">Disclaimer</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
-                </div>
-                <div class="modal-body">
-                    <p class="mb-0 pt-1">
-                        The information provided by <b>EB1A Experts</b> is for educational and informational purposes
-                        only. While
-                        we strive to offer valuable insights, as we are not a law firm we do not provide legal advice or
-                        representation before U.S. immigration authorities.
-                    </p>
+<!-- Only show on home page -->
+@if (Route::currentRouteName() === 'index')
+    <section class="disclaimer-popup">
+        <div id="myModal" class="modal fade-centered" tabindex="-1">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Disclaimer</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+                    <div class="modal-body">
+                        <p class="mb-0 pt-1">
+                            Content from <b>EB1 Filling Experts</b> serves educational and informational aims exclusively. Although we endeavor to deliver helpful guidance, since we are not an attorney's office we cannot furnish legal counsel or advocate with U.S. immigration agencies.
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
+
+    <script>
+        $(document).ready(function() {
+            $("#myModal").modal("show");
+        });
+    </script>
+@endif
 <!-----------------------Pop - Up-------------------------->
 <!-- Back to Top Start -->
 <div class="anim-scroll-to-top">
@@ -500,6 +492,129 @@
         requestAnimationFrame(update);
     };
     requestAnimationFrame(update);
+</script>
+<script>
+    let question = document.querySelectorAll(".question");
+    question.forEach((question) => {
+        question.addEventListener("click", (event) => {
+            const active = document.querySelector(".question.active");
+            if (active && active !== question) {
+                active.classList.toggle("active");
+                active.nextElementSibling.style.maxHeight = 0;
+            }
+            question.classList.toggle("active");
+            const answer = question.nextElementSibling;
+            if (question.classList.contains("active")) {
+                answer.style.maxHeight = answer.scrollHeight + "px";
+            } else {
+                answer.style.maxHeight = 0;
+            }
+        });
+    });
+</script>
+<script>
+        function mobileImages(images, breakpoint) {
+        images = images || "img"; // default selector
+        breakpoint = breakpoint || 568; // default breakpoint
+        $(images).attr("src", function () {
+          var mobile = $(this).data("mobile-src");
+          var desktop = $(this).data("desktop-src");
+          if ($(window).width() >= breakpoint) {
+            return desktop;
+          } else {
+            return mobile;
+          }
+        });
+      }
+
+      $(document).ready(function () {
+        var $grid = $(".leadership-container .leadership").isotope({
+          layoutMode: "packery", // depends on packery-mode.pkgd.min.js
+          itemSelector: ".leader", // selector for all isotope elements
+          percentPosition: true, // elements are positioned relatively
+          filter: ".ceo" // default filter
+        });
+
+        // Adjust layout on each image load.
+        // Depends on imagesloaded.pkgd.min.js
+        $grid.imagesLoaded().progress(function () {
+          $grid.isotope("layout");
+        });
+
+        $grid.on("click", ".executives", function () {
+          $(".leader").removeClass("active"); // clear all the active boxes
+          $(this).parents(".leader").addClass("active"); // activate this box
+          $(this).parents(".leader").next(".team").addClass("active"); // activate the following team box
+          $grid.isotope({
+            filter: ".ceo, .team.active"
+          }); // default filter plus active team box
+          return false; // don't follow the link
+        });
+
+        $grid.on("click", ".active .executives, .close", function () {
+          $(".leader").removeClass("active"); // clear all the active boxes
+          $grid.isotope({
+            filter: ".ceo"
+          }); // default filter
+          return false; // don't follow the link
+        });
+
+        // Trigger mobileImages on ready and resize
+        $(window)
+          .on("resize", function () {
+            mobileImages();
+          })
+          .trigger("resize");
+      });
+
+      //
+      // Code to generate random placeholder images
+      // Not needed in any production context
+      //
+
+      var randomRgb = function () {
+        var r = Math.floor(Math.random() * 256);
+        var g = Math.floor(Math.random() * 256);
+        var b = Math.floor(Math.random() * 256);
+        return [r, g, b];
+      };
+
+      // See: http://stackoverflow.com/a/1855903/186965
+      var colourIsLight = function (r, g, b) {
+        var a = 1 - (0.299 * r + 0.587 * g + 0.114 * b) / 255;
+        return a < 0.5;
+      };
+
+      var colourFromRgb = function (r, g, b) {
+        return "rgb(" + r + "," + g + "," + b + ")";
+      };
+
+      // RGB to HEX: http://jsfiddle.net/mushigh/myoskaos/
+      function rgb2hex(rgb) {
+        rgb = rgb.match(
+          /^rgba?[\s+]?\([\s+]?(\d+)[\s+]?,[\s+]?(\d+)[\s+]?,[\s+]?(\d+)[\s+]?/i
+        );
+        // return (rgb && rgb.length === 4) ? "#" +    // with #
+        return rgb && rgb.length === 4
+          ? "" + // no #
+          ("0" + parseInt(rgb[1], 10).toString(16)).slice(-2) +
+          ("0" + parseInt(rgb[2], 10).toString(16)).slice(-2) +
+          ("0" + parseInt(rgb[3], 10).toString(16)).slice(-2)
+          : "";
+      }
+
+      $("img.autoGen").each(function () {
+        var bgRgb = randomRgb();
+        var bgColour = colourFromRgb(bgRgb[0], bgRgb[1], bgRgb[2]);
+        var bgHex = rgb2hex(bgColour);
+        var textColour = colourIsLight(bgRgb[0], bgRgb[1], bgRgb[2])
+          ? "000000"
+          : "ffffff";
+
+        var imgSrc = "https://placehold.it/800x450/" + bgHex + "/" + textColour;
+        $(this).attr("src", imgSrc);
+        $(this).parent().next(".team").find("img").attr("src", imgSrc);
+      });
 </script>
 <script src="{{ asset('assets/js/jquery-3.6.0.min.js') }}"></script>
 <script src="{{ asset('assets/js/jquery.nice-select.min.js') }}"></script>

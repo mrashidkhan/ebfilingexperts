@@ -9,17 +9,15 @@
                 </h3>
                 <div class="Commitment">
                     <p class="">
-                        Over time, EB1A Experts has become a trusted name, helping professionals achieve their
-                        <a href="https://medium.com/@eb1aexperts/how-we-secured-9-eb1a-approvals-in-just-one-month-a-comprehensive-approach-to-success-e3f672a4fec0"
-                            target="_blank"
-                            class="target-color">
-                            EB1A approvals
-                        </a>
-                        with confidence and clarity. What started as one man's persistence and dedication has grown into
-                        a platform that empowers top-tier talent worldwide. For us, it's not just about immigration — it's
-                        about turning aspirations into achievements and dreams into reality. Because when talented individuals
-                        get the right opportunities, the world benefits.
-                    </p>
+  EB1A Experts has earned its reputation as a trusted partner for professionals pursuing
+  <a href="https://medium.com" target="_blank" class="target-color">
+    EB1A approvals
+  </a>
+  with strategic confidence and transparency. From a single founder's determination emerged a global platform dedicated to
+  empowering exceptional talent. Beyond immigration processing, we're committed to transforming career aspirations into tangible
+  achievements and converting goals into reality. Because exceptional professionals with access to opportunity don't just succeed
+  personally—they elevate entire industries and drive innovation for the world.
+</p>
                 </div>
             </div>
 
@@ -27,7 +25,7 @@
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                 <div class="inner-images">
                     <img src="{{ asset('assets/images/inner-images/Experts-Stands3.jpg') }}"
-                        alt="EB1A Experts team collaborating on immigration strategies">
+                        alt="EB1 Filling Experts team collaborating on immigration strategies">
                 </div>
             </div>
         </div>

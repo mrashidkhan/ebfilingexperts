@@ -8,7 +8,7 @@
 
     @include('partials.reviews-banner')
     @include('partials.reviews-section1')
-    @include('partials.testimonials')
+    {{-- @include('partials.testimonials') --}}
 
 
 

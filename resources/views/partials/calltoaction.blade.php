@@ -6,10 +6,8 @@
           <div class="call-to-action-inner">
             <div class="call-to-action-left">
               <div class="call-to-action-content">
-                <h2 class="call-to-action-title">Guiding you in every step to EB1A success!</h2>
-                <h3 class="call-to-action-sub-title home-video-font">Expert advice, tailored for you—with transparency
-                  and support
-                  throughout your journey.
+                <h2 class="call-to-action-title">Supporting you at every stage toward EB1A triumph!</h2>
+                <h3 class="call-to-action-sub-title home-video-font">Professional guidance, customized for you—with honesty and assistance throughout your path.
                 </h3>
                 <div class="d-inline align-items-center mt-40">
                   <a href="contact-us.html#calendar" class="video-btn theme-btn-1 mrr-40 mrb-sm-20 btn-padding"

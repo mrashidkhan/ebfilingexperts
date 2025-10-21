@@ -1,4 +1,4 @@
-<!-- What Makes EB1A Experts Different Section -->
+<!-- What Makes EB1 Filling Experts Different Section -->
 <section class="makes-eb1a-experts-different-main ptb-60 background-service">
     <div class="container p-0">
         <!-- Section Title -->
@@ -8,12 +8,12 @@
                     <h2>
                         What makes
                         <a href="{{ route('index') }}" class="target-color" target="_blank">
-                            EB1A Experts
+                            EB1 Filling Experts
                         </a>
                         different?
                     </h2>
                     <p>
-                        Top tech professionals trust EB1A Experts to deliver a seamless, strategic, and highly effective
+                        Top tech professionals trust EB1 Filling Experts to deliver a seamless, strategic, and highly effective
                         EB-1A journey. Our clients consistently highlight the unique value we bring to the process.
                     </p>
                 </div>

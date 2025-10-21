@@ -48,7 +48,7 @@
                                     <div class="col-lg-6 col-md-5 col-sm-12 col-xs-12 p-0">
                                         <div class="tabs-inner-img">
                                             <img src="{{ asset('assets/images/inner-images/new-turing-aI1.jpg') }}"
-                                                alt="Data analysis and insights for EB1A Experts."
+                                                alt="Data analysis and insights for EB1 Filling Experts."
                                                 class="img-fluid tabs-first-img">
                                         </div>
                                     </div>
@@ -99,7 +99,7 @@
                                     <div class="col-lg-6 col-md-5 col-sm-12 col-xs-12 p-0">
                                         <div class="tabs-inner-img">
                                             <img src="{{ asset('assets/images/inner-images/new-turing-aI2.jpg') }}"
-                                                alt="Turing AI-powered solutions for EB1A Experts. "
+                                                alt="Turing AI-powered solutions for EB1 Filling Experts. "
                                                 class="img-fluid">
                                         </div>
                                     </div>
@@ -155,7 +155,7 @@
                                     <div class="col-lg-6 col-md-5 col-sm-12 col-xs-12 p-0">
                                         <div class="tabs-inner-img">
                                             <img src="{{ asset('assets/images/inner-images/new-turing-aI3.jpg') }}"
-                                                alt="AI-driven candidate evaluation for EB1A Experts."
+                                                alt="AI-driven candidate evaluation for EB1 Filling Experts."
                                                 class="img-fluid">
                                         </div>
                                     </div>

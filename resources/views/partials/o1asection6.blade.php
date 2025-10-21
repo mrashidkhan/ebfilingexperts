@@ -79,8 +79,8 @@
                                 <div class="testimonial-slide">
                                     <div class="testimonial-info">
                                         <p>
-                                            Hi Raghu Suram, I'm absolutely thrilled to share that my EB1A I-140 has been approved truly a
-                                            dream come true! Huge thanks to Raghu, Arvind and the entire EB1A Experts team for their
+                                            Hi Mohammad Abbas, I'm absolutely thrilled to share that my EB1A I-140 has been approved truly a
+                                            dream come true! Huge thanks to Raghu, Arvind and the entire EB1 Filling Experts team for their
                                             relentless efforts, proactive follow-ups, and unwavering support. Your expert guidance made
                                             this incredible milestone possible. Forever grateful!
                                         </p>
@@ -128,7 +128,7 @@
                                     <div class="testimonial-info">
                                         <p>
                                             Hi Raghu! Hope you are doing well. I have great news, my case was approved today! Forever
-                                            thankful to you and for starting EB1A Experts and supporting me in this journey to more
+                                            thankful to you and for starting EB1 Filling Experts and supporting me in this journey to more
                                             freedom!
                                         </p><br><br><br><br>
                                         <div class="autho-info">
@@ -150,7 +150,7 @@
                                 <div class="testimonial-slide">
                                     <div class="testimonial-info">
                                         <p>
-                                            Raghu Suram, Prasanna Kumar, my EB1A petition got approved today. Thank you very much to you
+                                            Mohammad Abbas, Prasanna Kumar, my EB1A petition got approved today. Thank you very much to you
                                             and your team for the prep and guidance all through the process. You are all doing amazing
                                             work in making green card process streamlined and the target achievable for a lot of us.
                                             Thanks again.

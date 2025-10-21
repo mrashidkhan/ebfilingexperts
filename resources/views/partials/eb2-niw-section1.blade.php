@@ -25,24 +25,22 @@
             <!-- Left Column -->
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                 <div class="your-green-card">
-                    <h6>This visa is particularly relevant for:</h6>
-                    <ul>
-                        <li>
-                            <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Engineers, product builders, researchers">
-                            Engineers, product builders, researchers, and other high-impact professionals driving nationally
-                            significant work
-                        </li>
-                        <li>
-                            <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="H-1B holders and recent graduates">
-                            <a href="{{ route('case-studies') }}" target="_blank" class="target-color">H-1B</a>
-                            holders and recent graduates on OPT seeking a direct path to permanent residency
-                        </li>
-                        <li>
-                            <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Professionals building technologies">
-                            Professionals building technologies that advance U.S. capabilities in innovation, security,
-                            and public impact.
-                        </li>
-                    </ul>
+                    <h6>This visa is especially suited for:</h6>
+<ul>
+    <li>
+        <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Developers, innovators, scientists">
+        Developers, innovators, scientists, and other influential specialists executing work of national importance
+    </li>
+    <li>
+        <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="H-1B visa holders and recent graduates">
+        <a href="{{ route('case-studies') }}" target="_blank" class="target-color">H-1B</a>
+        visa holders and recent graduates on OPT pursuing an expedited route to lasting residency
+    </li>
+    <li>
+        <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Specialists creating innovations">
+        Specialists creating innovations that strengthen U.S. competitiveness in technology, defense, and societal benefit.
+    </li>
+</ul>
                 </div>
             </div>
 
@@ -50,35 +48,35 @@
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                 <div class="your-green-card">
                     <h6>
-                        Why consider the
-                        <a href="https://www.soup.io/avoiding-rfes-in-eb2-niw-applications-pro-tips-for-building-a-strong-case"
-                            target="_blank"
-                            class="target-color">
-                            EB2-NIW visa?
-                        </a>
-                    </h6>
-                    <ul>
-                        <li>
-                            <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Does not require a long-term job offer">
-                            Does not require a long-term job offer or employer commitment
-                        </li>
-                        <li>
-                            <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Bypasses the PERM labor certification process">
-                            Bypasses the PERM labor certification process
-                        </li>
-                        <li>
-                            <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Compatible with H-1B and O-1A pathways">
-                            Compatible with H-1B and
-                            <a href="{{ route('o1avisa') }}" target="_blank" class="target-color">
-                                O-1A pathways
-                            </a>,
-                            where applicable
-                        </li>
-                        <li>
-                            <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Ideal for tech professionals">
-                            Ideal for tech professionals whose work has national relevance and real-world impact
-                        </li>
-                    </ul>
+    Why explore the
+    <a href="https://www.soup.io/avoiding-rfes-in-eb2-niw-applications-pro-tips-for-building-a-strong-case"
+        target="_blank"
+        class="target-color">
+        EB2-NIW visa?
+    </a>
+</h6>
+<ul>
+    <li>
+        <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Eliminates need for permanent employment contract">
+        Eliminates the need for a permanent employment contract or employer sponsorship
+    </li>
+    <li>
+        <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Avoids PERM labor certification requirements">
+        Avoids PERM labor certification requirements
+    </li>
+    <li>
+        <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Works alongside H-1B and O-1A options">
+        Works alongside H-1B and
+        <a href="{{ route('o1avisa') }}" target="_blank" class="target-color">
+            O-1A options
+        </a>,
+        when suitable
+    </li>
+    <li>
+        <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Perfect for engineers and scientists">
+        Perfect for engineers and scientists whose contributions hold national significance and tangible consequences
+    </li>
+</ul>
                 </div>
             </div>
 
@@ -86,7 +84,7 @@
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="home3-btn-group mt-4 text-center">
                     <a href="{{ route('contactus') }}#calendar" class="theme-btn-1 mrr-15">
-                        Check your EB2-NIW readiness
+                        Assess your EB2-NIW qualifications
                         <i class="base-icon-next"></i>
                     </a>
                 </div>

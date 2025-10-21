@@ -1,20 +1,14 @@
-{{-- <body class="home"> --}}
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W64MKKG3" height="0" width="0"
-      style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
-  <!-- header area -->
 
 
 <header class="header-style-02 site-header">
 
 <nav class="main-menu sticky-header">
   <div class="strip">
-   <p class="text-center"><b style="color: #ffffff;">Free Webinar Coming Soon. Don’t Miss Out! </b></p>
+   <p class="text-center"><b style="color: #ffffff;">Don't Miss Our Upcoming Free Webinar Event! </b></p>
     <marquee>
-    <b style="color: #ffffff;">Free Webinar Coming Soon. Don’t Miss Out!</b>
+    <b style="color: #ffffff;">Don't Miss Our Upcoming Free Webinar Event!</b>
     </marquee>
-  
+
 
   </div>
   <div class="container">
@@ -28,15 +22,15 @@
 
         <li><a href="{{ route('index') }}">Home</a></li>
         <li class="menu-has-sub">
-          <a href="javascript:void()">What we do</a>
+          <a href="javascript:void()">Services</a>
           <ul class="sub-menu dropdown-menu-submenu">
-            <li><a href="{{ route('eb1a-visa') }}">EB1A Visa (Green Card)</a></li>
+            <li><a href="{{ route('eb1a-visa') }}">EB1 Visa (Green Card)</a></li>
 <li><a href="{{ route('o1avisa') }}">O1A (Work Visa)</a></li>
 <li><a href="{{ route('eb2-niw') }}">EB2-NIW (Green Card)</a></li>
           </ul>
         </li>
         <li class="menu-has-sub">
-          <a href="{{ route('who-are-we') }}">Who are we</a>
+          <a href="{{ route('who-are-we') }}">About Us</a>
           <ul class="dropdown-menu-submenu">
           <li class="menu-has-sub has-sub-child">
 
@@ -47,7 +41,7 @@
 <li><a href="{{ route('reports') }}">Reports</a></li>
               </ul>
             </li>
-           <li><a href="{{ route('partnerships-boundless') }}">Boundless Partner</a></li>
+           <li><a href="{{ route('partnerships-boundless') }}">Partner Network</a></li>
                 <li class="menu-has-sub has-sub-child">
                   <a href="#">News and Events</a>
               <ul class="sub-menu dropdown-menu-submenu">
@@ -79,7 +73,7 @@
         </a>
 
         <div class="header-contact-btn">
-          <a href="{{ route('contactus') }}#calendar" class="theme-btn-6">Book Consultation</a>
+          <a href="{{ route('contactus') }}#calendar" class="theme-btn-6">Schedule Consultation</a>
         </div>
       </div>
     </div>
@@ -102,9 +96,10 @@
       </div>
       <div class="mobile-nav-container"></div>
       <ul class="list-items mobile-sidebar-contact">
-      <li> <i class="bi bi-envelope-paper"></i> <a href="mailto:contact@eb1aexperts.com" style="padding-left:4px;">  contact@eb1aexperts.com</a>
+      <li> <i class="bi bi-envelope-paper"></i> <a href="mailto:contact@eb1aexperts.com" style="padding-left:4px;">  contact@eb1fillingexperts.com</a>
       </li>
-        <li><i class="bi bi-geo-alt"></i> <b style="color: #fff;"> HQ Address :</b>  548 Market St, #495094, San Francisco, CA, 94104</li>
+        <li><i class="bi bi-geo-alt"></i> <b style="color: #fff;"> Address :</b>  2727 LBJ Freeway, Suite 200
+Dallas, TX, 75234</li>
 
       </ul>
 

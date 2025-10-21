@@ -19,13 +19,15 @@
                     </h2>
                 </div>
                 <p class="mrb-10 text-center">
-                    At EB1A Experts, we recognize the unique challenges tech professionals face in securing the prestigious EB1A Green Card.
-                    That's why we created Turing AI—an advanced
-                    <a href="https://medium.com/@eb1aexperts/ai-powered-eb1a-green-card-help-for-tech-professionals-1b20a5f94e43"
+                    EB1 Filling Experts understands the distinct obstacles technology professionals encounter when pursuing the elite EB1A Green Card. We developed Turing AI—a sophisticated
+                    {{-- <a href="https://medium.com/@eb1aexperts/ai-powered-eb1a-green-card-help-for-tech-professionals-1b20a5f94e43"
                         target="_blank"
                         class="target-color">
                         AI-powered solution
-                    </a>
+                    </a> --}}
+                    <a href="{{ route('turing-ai') }}" class="target-color">
+                                AI-powered solution
+                            </a>
                     to streamline, optimize, and accelerate your EB1A application process. With Turing AI, your EB1A journey is smarter, faster, and more efficient than ever.
                 </p>
             </div>
@@ -50,7 +52,7 @@
                         <h5 class="features-title features-title1">
                             <a href="javascript:void()">Profile Analysis</a>
                         </h5>
-                        <p>Evaluate your achievements to highlight key strengths.</p>
+                        <p>Assess your accomplishments to showcase primary qualities.</p>
                     </div>
                 </div>
             </div>
@@ -66,7 +68,7 @@
                         <h5 class="features-title features-title2">
                             <a href="javascript:void()">Human-Like Optimization</a>
                         </h5>
-                        <p>Enhances your profile for maximum impact.</p>
+                        <p>Strengthens your profile for optimal effectiveness.</p>
                     </div>
                 </div>
             </div>
@@ -82,7 +84,7 @@
                         <h5 class="features-title features-title3">
                             <a href="javascript:void()">Tailored Recommendations</a>
                         </h5>
-                        <p>Provides actionable insights to boost approval chances.</p>
+                        <p>Delivers practical guidance to increase success likelihood.</p>
                     </div>
                 </div>
             </div>
@@ -98,7 +100,7 @@
                         <h5 class="features-title features-title4">
                             <a href="javascript:void()">Increased Efficiency</a>
                         </h5>
-                        <p>Automates profile-building, saving time and effort.</p>
+                        <p>Streamlines profile creation, reducing time and labor.</p>
                     </div>
                 </div>
             </div>

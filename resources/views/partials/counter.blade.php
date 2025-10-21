@@ -29,11 +29,9 @@
         </div>
 
         <p class="home-page-disclaimer">
-          Disclaimer: Our past success rate is based on historical data and reflects the outcomes of prior cases.
-          However, past performance does not guarantee future results. Each case is unique and evaluated on its
-          individual merits by immigration authorities.
+          Disclaimer: Our previous success rate derives from historical information and shows results of former cases. Nevertheless, prior achievements do not ensure upcoming outcomes. Every application is distinct and assessed on its particular strengths by immigration officials.
         </p>
-        
+
       </div>
     </div>
   </section>

@@ -63,7 +63,7 @@
                         <div class="service-image-block">
                             <img class="img-fluid"
                                 src="{{ asset('assets/images/inner-images/Dynamic-Evidence-Optimization.jpg') }}"
-                                alt="Visa and immigration consultation for EB1A green card - EB1A Experts" />
+                                alt="Visa and immigration consultation for EB1A green card - EB1 Filling Experts" />
                         </div>
                         <div class="service-content-block">
                             <h4 class="service-title">Dynamic Evidence Optimization</h4>

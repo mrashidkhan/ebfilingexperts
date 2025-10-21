@@ -16,10 +16,7 @@
                 <div class="testimonial-slide">
                   <div class="testimonial-info">
                     <!-- <h4>They work at a very high speed.</h4> -->
-                    <p class="">I was initially hesitant about pursuing an EB1A petition without
-                      patents or citations, but Raghu and his team showed me that strong professional experience can
-                      be equally compelling. Their expertise in presenting my career achievements was exceptional.
-                      Securing approval in just 6 months exceeded my wildest expectations!
+                    <p class="">I doubted whether my EB1A petition could succeed without patents or published citations. Mohammad and his team helped me see that a distinguished career trajectory and substantial professional accomplishments are equally powerful credentials. They expertly articulated the impact of my work and achievements. I was amazed to receive approval in just 6 months—far sooner than I anticipated.
                     </p>
                     <div class="autho-info">
                       <div class="author-name">
@@ -27,7 +24,7 @@
                           <span class="rating-star"><span style="width:100%"></span></span>
                         </div>
                         <!-- <p>Manoharan G</p> -->
-                        <span>Sr.Data Engineer - Cognizant</span>
+                        <span>Senior Data Engineer at Cisco</span>
                       </div>
                     </div>
                   </div>
@@ -40,10 +37,7 @@
                   <div class="testimonial-info">
                     <!-- <h4>They work at a very high speed.</h4> -->
                     <p class="mobile-testimonial-p">
-                      From the very beginning, Raghu's team proved why they are industry leaders in EB1. Their
-                      expertise went beyond just content - they transformed what could have been an overwhelming
-                      experience into a well-structured journey. Their rapid response times and exceptional attention
-                      to client needs consistently exceeded my expectations.
+                      From my first interaction, Mohammad's team demonstrated why they're recognized as EB1A specialists. Their expertise extended beyond strategic content development—they transformed a potentially complex process into a clear, manageable experience. Their responsiveness and genuine commitment to addressing my concerns consistently went above and beyond what I anticipated.
                     </p>
                     <div class="autho-info">
                       <div class="author-name">
@@ -51,7 +45,7 @@
                           <span class="rating-star"><span style="width:100%"></span></span>
                         </div>
                         <!-- <p>Sree Harsha</p> -->
-                        <span>Cloud Software Engineer - Ericsson Inc</span>
+                        <span>Cloud Software Engineer at Microsoft</span>
                       </div>
                     </div>
                   </div>
@@ -64,10 +58,7 @@
                   <div class="testimonial-info">
                     <!-- <h4>They work at a very high speed.</h4> -->
                     <p class="">
-                      The efficiency and expertise of Raghu's team are truly remarkable. From day one, they
-                      demonstrated why they're leaders in EB1A. Their phenomenal customer service and quick turnaround
-                      time exceeded all my expectations. They transformed what could have been a stressful process
-                      into a smooth journey.
+                      Mohammad's team demonstrated exceptional efficiency and deep EB1A expertise from day one. Their reputation as EB1A leaders is well-deserved—they combined strategic excellence with outstanding client service and remarkably fast turnaround times. They converted what could have been a stressful process into a seamless, well-supported experience.
                     </p><span class="space-diplay-none">&nbsp;</span>
                     <div class="autho-info">
                       <div class="author-name">
@@ -75,7 +66,7 @@
                           <span class="rating-star"><span style="width:100%"></span></span>
                         </div>
                         <!-- <p class="pt-3"> </p> -->
-                        <span>Product Manager - Meta</span>
+                        <span>Senior Software Architect at Verizon</span>
                       </div>
                     </div>
                   </div>
@@ -86,20 +77,17 @@
               <div class="testimonial-inner menu-card">
                 <div class="testimonial-slide">
                   <div class="testimonial-info">
-                    <!-- <h4>They work at a very high speed.</h4> -->
+
                     <p class="">
-                      Choosing EB1A Experts was the best decision I made for my immigration journey. Their team's
-                      identification and showcasing of my professional achievements to meet the 'original
-                      contribution' criteria, especially without relying on patents, is remarkable. The speed and
-                      efficiency with which they handled my case was remarkable.
+                      Partnering with EB1 Filing Experts was transformative for my immigration journey. Mohammad's team excelled at identifying and strategically presenting my professional accomplishments to demonstrate the "original contribution" criterion—particularly impressive given I didn't have patents to rely on. Their combination of strategic insight and operational efficiency delivered results faster than I anticipated.
                     </p>
                     <div class="autho-info">
                       <div class="author-name">
                         <div class="rating-details" style="margin-top:0">
                           <span class="rating-star"><span style="width:100%"></span></span>
                         </div>
-                        <!-- <p>Boddapati </p> -->
-                        <span>Software Developer - Sonos Inc</span>
+
+                        <span>Principal Engineer at Amazon Web Services</span>
                       </div>
                     </div>
                   </div>
@@ -112,10 +100,7 @@
                   <div class="testimonial-info">
                     <!-- <h4>They work at a very high speed.</h4> -->
                     <p class="">
-                      The commitment to excellence shown by EB1A Experts is amazing. From our first consultation to
-                      the final approval, their team demonstrated unparalleled professionalism and expertise. They
-                      have mastered the art of presenting professional achievements in the most impactful way. The
-                      swift timeline and seamless process.
+                      EB1 Filing Experts demonstrates unwavering commitment to excellence. From our initial consultation through final approval, their team delivered exceptional professionalism and deep expertise. They skillfully articulate professional achievements in ways that create genuine impact. Their efficient execution and streamlined process made the entire experience remarkably smooth.
                     </p>
                     <div class="autho-info">
                       <div class="author-name">
@@ -123,7 +108,7 @@
                           <span class="rating-star"><span style="width:100%"></span></span>
                         </div>
                         <!-- <p>Manoj M</p> -->
-                        <span>Senior Software Engineer - Cisco</span>
+                        <span>Senior Systems Architect at Google</span>
                       </div>
                     </div>
                   </div>
@@ -133,8 +118,8 @@
           </div>
           <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <div class="review-readmore">
-              <a href="reviews.html">
-                <button type="button" class="btn btn-primary">View More Client Testimonials</button>
+              <a href="{{ route('reviews') }}">
+                <button type="button" class="btn btn-primary">Explore More Client Success Stories</button>
               </a>
             </div>
           </div>

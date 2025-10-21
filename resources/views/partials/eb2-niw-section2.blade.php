@@ -5,11 +5,10 @@
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="O-1-visa-title eb2-niw-eligibility">
-                    <h2 class="text-center">EB2-NIW eligibility criteria for Tech Professionals</h2>
+                    <h2 class="text-center">EB2-NIW qualification standards for Tech Specialists</h2>
                     <p class="mb-2 text-center">
-                        To qualify, applicants must hold an advanced degree (or equivalent experience) or demonstrate
-                        exceptional ability in their field. The core of an EB2-NIW case is proving that your work aligns
-                        with national interests, evaluated through three key eligibility criteria:
+                        To be eligible, candidates must possess an advanced degree (or comparable background) or exhibit
+                        outstanding capability in their discipline. The foundation of an EB2-NIW application is demonstrating that your contributions serve national interests, assessed through three fundamental eligibility requirements:
                     </p>
                 </div>
             </div>
@@ -32,12 +31,12 @@
                                 aria-controls="general-enquiry-pane"
                                 aria-selected="true">
                                 <img src="{{ asset('assets/images/inner-images/eb2-niw1-w.png') }}"
-                                    alt="Substantial merit and National importance"
+                                    alt="Significant value and U.S. priorities"
                                     class="our-values-tabs-active">
                                 <img src="{{ asset('assets/images/inner-images/eb2-niw1-b.png') }}"
-                                    alt="Substantial merit and National importance"
+                                    alt="Significant value and U.S. priorities"
                                     class="our-values-tabs-in-active">
-                                <p>Substantial merit and National importance</p>
+                                <p>Significant value and U.S. priorities</p>
                             </button>
                         </li>
 
@@ -52,12 +51,12 @@
                                 aria-controls="membership-admin-pane"
                                 aria-selected="false">
                                 <img src="{{ asset('assets/images/inner-images/eb2-niw2-w.png') }}"
-                                    alt="Well-positioned to advance the work"
+                                    alt="Positioned to further the initiative"
                                     class="our-values-tabs-active">
                                 <img src="{{ asset('assets/images/inner-images/eb2-niw2-b.png') }}"
-                                    alt="Well-positioned to advance the work"
+                                    alt="Positioned to further the initiative"
                                     class="our-values-tabs-in-active">
-                                <p>Well-positioned to advance the work</p>
+                                <p>Positioned to further the initiative</p>
                             </button>
                         </li>
 
@@ -72,12 +71,12 @@
                                 aria-controls="chapter-events-pane"
                                 aria-selected="false">
                                 <img src="{{ asset('assets/images/inner-images/eb2-niw3-w.png') }}"
-                                    alt="Beneficial to waive the job offer requirement"
+                                    alt="Advantageous to forgo employer sponsorship"
                                     class="our-values-tabs-active">
                                 <img src="{{ asset('assets/images/inner-images/eb2-niw3-b.png') }}"
-                                    alt="Beneficial to waive the job offer requirement"
+                                    alt="Advantageous to forgo employer sponsorship"
                                     class="our-values-tabs-in-active">
-                                <p>Beneficial to waive the job offer requirement</p>
+                                <p>Advantageous to forgo employer sponsorship</p>
                             </button>
                         </li>
                     </ul>
@@ -102,7 +101,7 @@
                                     data-bs-target="#collapseOne"
                                     aria-expanded="true"
                                     aria-controls="collapseOne">
-                                    Substantial merit and National importance
+                                    Significant value and U.S. priorities
                                 </button>
                             </h2>
                             <div id="collapseOne"
@@ -111,9 +110,9 @@
                                 data-bs-parent="#myTabForm">
                                 <div class="accordion-body">
                                     <p>
-                                        Your work should contribute to systems or technologies that address U.S. priorities,
-                                        such as digital infrastructure, intelligent automation, secure computing, or large-scale
-                                        tech deployments.
+                                        Your contributions should support initiatives or solutions that address critical U.S. objectives,
+                                        including network infrastructure, artificial intelligence, cybersecurity, or enterprise-level
+                                        technology solutions.
                                     </p>
                                 </div>
                             </div>
@@ -133,7 +132,7 @@
                                     data-bs-target="#collapseTwo"
                                     aria-expanded="false"
                                     aria-controls="collapseTwo">
-                                    Well-positioned to advance the work
+                                    Positioned to further the initiative
                                 </button>
                             </h2>
                             <div id="collapseTwo"
@@ -142,11 +141,11 @@
                                 data-bs-parent="#myTabForm">
                                 <div class="accordion-body">
                                     <div class="O-1-visa-list-box1">
-                                        <p class="mb-0">You must demonstrate you're actively driving the work forward, through:</p>
+                                        <p class="mb-0">You must establish you're actively propelling the initiative forward, demonstrated through:</p>
                                         <ul class="eb2-niw-list">
-                                            <li>Published research, technical contributions, engineering deliverables, and project documentation</li>
-                                            <li>Public speaking engagements or leadership roles</li>
-                                            <li>Recognition in media, academic platforms, or expert invitations</li>
+                                            <li>Authored studies, code contributions, software innovations, and application documentation</li>
+                                            <li>Conference presentations or strategic leadership positions</li>
+                                            <li>Media visibility, scholarly recognition, or specialist recommendations</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -167,7 +166,7 @@
                                     data-bs-target="#collapseThree"
                                     aria-expanded="false"
                                     aria-controls="collapseThree">
-                                    Beneficial to waive the job offer requirement
+                                    Advantageous to forgo employer sponsorship
                                 </button>
                             </h2>
                             <div id="collapseThree"
@@ -176,9 +175,7 @@
                                 data-bs-parent="#myTabForm">
                                 <div class="accordion-body">
                                     <p>
-                                        Strategic presentation is key. You must show that waiving the job offer and labor
-                                        certification requirements benefits the U.S., often by highlighting your work's independent
-                                        value and scalability.
+                                        Effective positioning is critical. You must demonstrate that exempting employer sponsorship and recruitment certification serves U.S. interests, commonly through emphasizing your work's autonomous merit and growth capability.
                                     </p>
                                 </div>
                             </div>

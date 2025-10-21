@@ -18,11 +18,11 @@ class PageController extends Controller
 
     // }
 
-    public function eb1avisa()
+    public function eb1visa()
     {
 
 
-    return view('pages.eb1a-visa');
+    return view('pages.eb1-visa');
     }
 
 
@@ -145,15 +145,55 @@ public function vodcast()
     return view('pages.vodcast');
 }
 
+public function blog()
+{
+
+
+    return view('pages.blog');
+}
+
+public function faqs()
+{
+
+
+    return view('pages.faqs');
+}
+
+public function whoarewe()
+{
+
+
+    return view('pages.who-are-we');
+}
+
+public function refundpolicy()
+{
+
+
+    return view('pages.refund-policy');
+}
+
+public function disclaimer()
+{
+
+
+    return view('pages.disclaimer');
+}
+
     public function testimonials()
     {
         return view('pages.testimonials');
     }
 
 
-    public function privacyPolicy()
+    public function privacypolicy()
     {
         return view('pages.privacy-policy');
+    }
+
+    public function termsofuse()
+    {
+        return view('pages.terms-of-use');
     }
 
 

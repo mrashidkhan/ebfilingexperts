@@ -5,24 +5,21 @@
           <div class="our-story-inner text-center">
 
             <p style="color:#fff;">
-              For many skilled professionals, securing an <a href="eb1a-visa.html" target="_blank" class="target-color"><b style="color: #fff;">EB1A Green Card</b></a> is a dream — a
-              chance to live, work, and
-              contribute to the U.S. economy. But getting approved isn’t easy. The complexity, strict requirements, and
-              constant uncertainty leave many feeling stuck. <a href="https://www.linkedin.com/in/raghusuram/"  target="_blank" class="target-color"><b style="color: #fff;">Raghu
-                Reddy Suram</b></a>, the founder of EB1A Experts, knows this
-              struggle better than anyone.
-
-            </p>
+  Many skilled professionals aspire to secure an <a href="{{ route('eb1a-visa') }}" target="_blank" class="target-color">
+    <b style="color: #fff;">EB1A Green Card</b>
+  </a> — a pathway to build a career and make meaningful contributions in the United States. Yet the journey is challenging.
+  Navigating complex requirements, rigorous approval standards, and unpredictable timelines can feel overwhelming.
+  <a href="https://www.linkedin.com" target="_blank" class="target-color">
+    <b style="color: #fff;">Mohammad Abbas</b>
+  </a>, founder of EB1A Experts, understands this challenge intimately — he's lived it.
+</p>
             <p style="color:#fff;">
-              When he applied for his own EB1A Green Card, he chose to take on the entire process by himself. Over 1,800
-              hours of research, drafting, refining, and strategizing went into building his case. The process was
-              tough—every step needed careful attention, and every document had to be just right. Every detail mattered.
-              Finally, after months of tireless effort, he succeeded. But that success came with a realization: No one
-              should have to go through this journey alone. That realization led to something bigger — EB1A Experts,
-              created to make the Green Card visa process simpler and more structured, giving tech professionals a clear
-              path to success.
-
-            </p>
+  Mohammad Abbas decided to navigate his own EB1A Green Card application without outside assistance. What followed was an
+  intensive journey: over 1,800 hours of research, writing, editing, and strategic planning. Every aspect demanded precision —
+  documentation had to be flawless, arguments had to be airtight, and every detail had to strengthen his case. The work was
+  relentless and demanding. Through months of dedicated effort, he ultimately achieved his goal. His success, however, revealed
+  a critical insight: the EB1A process shouldn't force talented professionals to navigate it alone.
+</p>
           </div>
         </div>
       </div>

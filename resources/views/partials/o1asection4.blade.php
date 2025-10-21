@@ -25,7 +25,7 @@
                         <p class="text-center">
                             At
                             <a href="{{ route('index') }}" class="target-color" target="_blank">
-                                EB1A Experts
+                                EB1 Filling Experts
                             </a>,
                             we begin by understanding the nuance of your achievements—then structure them into a clear, standards-aligned case.
                             We present the facts as they are. From industry-specific framing to selecting the right evidence combinations,

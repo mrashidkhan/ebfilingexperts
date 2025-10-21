@@ -128,7 +128,7 @@
                                     fostering talent, and building high-performing teams. With a confident, poised, and
                                     leadership-driven approach, Bhanu views HR as a critical pillar that drives organizational
                                     success. Her expertise is creating inclusive and growth-oriented work environments where
-                                    employees are empowered to thrive. Before joining EB1A Experts, Bhanu honed her skills in
+                                    employees are empowered to thrive. Before joining EB1 Filling Experts, Bhanu honed her skills in
                                     diverse sectors, ensuring that people and culture align with business objectives. Outside
                                     of her professional achievements, Bhanu has a passion for mentoring others and believes in
                                     the transformative power of a positive workplace.

@@ -11,11 +11,11 @@
   Navigating complex requirements, rigorous approval standards, and unpredictable timelines can feel overwhelming.
   <a href="https://www.linkedin.com" target="_blank" class="target-color">
     <b style="color: #fff;">Mohammad Abbas</b>
-  </a>, founder of EB1A Experts, understands this challenge intimately — he's lived it.
+  </a>, founder of EB Filing Experts, understands this challenge intimately — he's lived it.
 </p>
             <p style="color:#fff;">
   Mohammad Abbas decided to navigate his own EB1A Green Card application without outside assistance. What followed was an
-  intensive journey: over 1,800 hours of research, writing, editing, and strategic planning. Every aspect demanded precision —
+  intensive journey: over 1,200 hours of research, writing, editing, and strategic planning. Every aspect demanded precision —
   documentation had to be flawless, arguments had to be airtight, and every detail had to strengthen his case. The work was
   relentless and demanding. Through months of dedicated effort, he ultimately achieved his goal. His success, however, revealed
   a critical insight: the EB1A process shouldn't force talented professionals to navigate it alone.

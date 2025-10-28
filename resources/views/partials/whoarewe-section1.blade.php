@@ -4,9 +4,9 @@
     <div class="row align-items-center">
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="video-content">
-          <h2 class="title-heading pt-2 pb-2">EB1A Excellence: Clear Strategy, Proven Results</h2>
+          <h2 class="title-heading pt-2 pb-2">EB Filing Experts Excellence: Clear Strategy, Proven Results</h2>
           <p>
-            Unlike typical immigration services, EB1 Filling Experts goes beyond paperwork. The company delivers strategic, personalized
+            Unlike typical immigration services, EB Filing Experts goes beyond paperwork. The company delivers strategic, personalized
     solutions designed to highlight each applicant's unique strengths and qualifications. By combining AI-powered analysis
     with expert human guidance, they build stronger applications and significantly improve approval rates. Every strategy
     is tailored to maximize your potential.

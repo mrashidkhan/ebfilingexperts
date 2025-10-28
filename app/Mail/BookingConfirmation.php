@@ -4,6 +4,7 @@ namespace App\Mail;
 
 use App\Models\Booking;
 use Illuminate\Bus\Queueable;
+use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Mail\Mailable;
 use Illuminate\Queue\SerializesModels;
 
@@ -12,22 +13,25 @@ class BookingConfirmation extends Mailable
     use Queueable, SerializesModels;
 
     public $booking;
-    public $type;
+    public $isAdmin;
 
-    public function __construct(Booking $booking, $type = 'client')
+    public function __construct(Booking $booking, $isAdmin = false)
     {
         $this->booking = $booking;
-        $this->type = $type;
+        $this->isAdmin = $isAdmin;
     }
 
     public function build()
     {
-        if ($this->type === 'admin') {
-            return $this->subject('New Booking Notification - EB1 Filing Experts')
-                        ->view('emails.booking-admin');
-        }
+        $subject = $this->isAdmin
+            ? 'New Booking Request - ' . $this->booking->name
+            : 'Booking Confirmation';
 
-        return $this->subject('Booking Confirmation - EB1 Filing Experts')
-                    ->view('emails.booking-confirmation');
+        return $this->subject($subject)
+                    ->view('emails.booking-confirmation')
+                    ->with([
+                        'booking' => $this->booking,
+                        'isAdmin' => $this->isAdmin,
+                    ]);
     }
 }

@@ -15,7 +15,7 @@
     <div class="main-menu-inner">
       <div class="main-menu-logo">
         <a href="{{ route('index') }}">
-          <img src="{{ asset('assets/images/inner-images/logo.png') }}" alt="logo" />
+          <img src="{{ asset('assets/images/inner-images/logo-new.png') }}" alt="logo" />
         </a>
       </div>
       <ul class="main-nav-menu">
@@ -51,13 +51,13 @@
             </li>
           </ul>
         </li>
-        <li><a href="{{ route('turing-ai') }}">Turing AI</a></li>
+        {{-- <li><a href="{{ route('turing-ai') }}">Turing AI</a></li> --}}
 <li><a href="{{ route('reviews') }}">Testimonials</a></li>
         <li class="menu-has-sub">
            <a href="{{ route('resources') }}">Resources</a>
           <ul class="dropdown-menu-submenu">
-            <li><a href="{{ route('case-studies') }}">Case Studies</a></li>
-<li><a href="{{ route('vodcast') }}">Vodcast</a></li>
+            {{-- <li><a href="{{ route('case-studies') }}">Case Studies</a></li>
+<li><a href="{{ route('vodcast') }}">Vodcast</a></li> --}}
 <li><a href="{{ route('blog') }}">Blog</a></li>
 <li><a href="{{ route('faqs') }}">FAQ's</a></li>
 

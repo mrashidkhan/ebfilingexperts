@@ -20,7 +20,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     <div class="resources-inner-img">
                         <img src="{{ asset('assets/images/inner-images/Case Studies.jpg') }}"
-                            alt="EB1 Filling Experts case study discussion on EB1A petitions for tech professionals"
+                            alt="EB Filing Experts case study discussion on EB1A petitions for tech professionals"
                             class="img-fluid">
                     </div>
                 </div>

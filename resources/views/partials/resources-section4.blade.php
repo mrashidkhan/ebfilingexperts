@@ -5,7 +5,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     <div class="resources-inner-img">
                         <img src="{{ asset('assets/images/inner-images/faqs.jpg') }}"
-                            alt="EB1 Filling Experts FAQs – Answering common questions about EB1A petitions"
+                            alt="EB Filing Experts FAQs – Answering common questions about EB1A petitions"
                             class="img-fluid">
                     </div>
                 </div>
@@ -13,7 +13,7 @@
                     <div class="resources-inner">
                         <h2>FAQ's</h2>
                         <p>
-                            Find answers in our FAQ series, where EB1 Filling Experts tackle common questions and share
+                            Find answers in our FAQ series, where EB Filing Experts tackle common questions and share
                             success strategies.
                         </p>
                         <div class="d-inline align-items-center mt-40 btn-padding">

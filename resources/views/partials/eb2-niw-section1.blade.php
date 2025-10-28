@@ -7,14 +7,14 @@
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="your-green-card-inner">
-                    <h2>The EB2-NIW visa – a strategic path to a green card</h2>
+                    <h2>The EB2-NIW visa – a direct route to permanent residency</h2>
                     <p class="text-center mt-2">
-                        The EB2-NIW (employment-based, second preference – national interest waiver) is a
+                        The EB2-NIW (Employment-Based Second Preference with National Interest Waiver) is a
                         <a href="{{ route('eb1a-visa') }}" target="_blank" class="target-color">
                             U.S. green card
                         </a>
-                        category for professionals whose work holds national importance. It allows qualified applicants to
-                        bypass the job offer and PERM labor certification requirements.
+                        pathway for professionals whose contributions serve the national interest. This category enables eligible candidates to
+                        forgo the employer sponsorship and PERM labor certification processes.
                     </p>
                 </div>
             </div>
@@ -25,20 +25,20 @@
             <!-- Left Column -->
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                 <div class="your-green-card">
-                    <h6>This visa is especially suited for:</h6>
+                    <h6>This visa is particularly well-suited for:</h6>
 <ul>
     <li>
         <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Developers, innovators, scientists">
-        Developers, innovators, scientists, and other influential specialists executing work of national importance
+        Engineers, pioneers, researchers, and other impactful professionals conducting work of national significance
     </li>
     <li>
         <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="H-1B visa holders and recent graduates">
         <a href="{{ route('case-studies') }}" target="_blank" class="target-color">H-1B</a>
-        visa holders and recent graduates on OPT pursuing an expedited route to lasting residency
+        professionals and OPT graduates seeking a faster path to permanent residency
     </li>
     <li>
         <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Specialists creating innovations">
-        Specialists creating innovations that strengthen U.S. competitiveness in technology, defense, and societal benefit.
+        Professionals developing innovations that enhance U.S. leadership in technology, security, and public welfare.
     </li>
 </ul>
                 </div>
@@ -58,11 +58,11 @@
 <ul>
     <li>
         <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Eliminates need for permanent employment contract">
-        Eliminates the need for a permanent employment contract or employer sponsorship
+        Removes the requirement for employer sponsorship or a permanent job offer
     </li>
     <li>
         <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Avoids PERM labor certification requirements">
-        Avoids PERM labor certification requirements
+        Bypasses the PERM labor certification process
     </li>
     <li>
         <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Works alongside H-1B and O-1A options">
@@ -74,7 +74,7 @@
     </li>
     <li>
         <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Perfect for engineers and scientists">
-        Perfect for engineers and scientists whose contributions hold national significance and tangible consequences
+        Ideal for engineers and scientists whose work carries national importance and measurable impact
     </li>
 </ul>
                 </div>

@@ -6,14 +6,14 @@
         <div class="privacy-policy-inner">
           <h3>Acceptance of Our Terms and Conditions</h3>
           <p>
-            EB1 Filling Experts LLC ("Company," "we," "us," "our") is a Dallas-based business located at 2727 LBJ Freeway, Suite 200
+            EB Filing Experts LLC ("Company," "we," "us," "our") is a Dallas-based business located at 2727 LBJ Freeway, Suite 200
 Dallas, TX, 75234, USA. We operate the website https://eb1fillingexperts.com (the "Site") and
             provide associated products and services that reference these terms (collectively, the "Services").
           </p>
           <p>
             We specialize in assisting tech professionals in obtaining Green Cards through the EB1  visa category.
             You can contact us by mail at 2727 LBJ Freeway, Suite 200 Dallas, TX, 75234, USA, or via email at
-            contact@eb1fillingexperts.com. By accessing our Services, you enter into a binding agreement with EB1 Filling Experts LLC,
+            contact@eb1fillingexperts.com. By accessing our Services, you enter into a binding agreement with EB Filing Experts LLC,
             whether you are acting as an individual or on behalf of an organization. Your use of the Services indicates
             your acceptance of these terms. If you do not agree with any aspect of these conditions, please refrain from
             using the Services.
@@ -44,7 +44,7 @@ Dallas, TX, 75234, USA. We operate the website https://eb1fillingexperts.com (th
           <h2>2. Rights To Intellectual Property</h2>
           <h4 class="pt-2">Our Proprietary Content</h4>
           <p>
-            EB1 Filling Experts LLC owns or holds licenses to all intellectual property in the Services, including software, source
+            EB Filing Experts LLC owns or holds licenses to all intellectual property in the Services, including software, source
             code, databases, website designs, audio, video, text, images, and graphics (collectively, "Content"), as well as
             all trademarks, service marks, and logos (collectively, "Marks"). Our Content and Marks are protected by copyright,
             trademark, intellectual property law, and international agreements. These materials may be used only for personal,
@@ -68,7 +68,7 @@ Dallas, TX, 75234, USA. We operate the website https://eb1fillingexperts.com (th
           <p>
             If you wish to use the Services, Content, or Marks in ways not described here, please contact contact@eb1aexperts.com.
             With our permission, you may display our content publicly, provided you clearly retain all copyright and proprietary
-            notices and acknowledge EB1 Filling Experts LLC as the owner or licensor.
+            notices and acknowledge EB Filing Experts LLC as the owner or licensor.
           </p>
           <p>
             We retain all rights not explicitly granted to you. Violation of these intellectual property restrictions is a material

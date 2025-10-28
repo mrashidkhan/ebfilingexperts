@@ -5,7 +5,7 @@
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 mobile-width-33">
           <div class="funfact-content">
             <h2 class="count-box">
-              <span data-stop="200" data-speed="2500" class="count-text1">00 </span>+
+              <span data-stop="400" data-speed="2500" class="count-text1">00 </span>+
             </h2>
             <h6 class="title"><b style="color:#fff;">EB1A</b> Approvals</h6>
           </div>
@@ -13,8 +13,8 @@
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 border-left-right mobile-width-33">
           <div class="funfact-content">
             <h2 class="count-box">
-              <span data-stop="80" data-speed="2500" class="count-text1"> 00</span> -
-              <span data-stop="85" data-speed="2500" class="count-text1"> 00</span>%
+              <span data-stop="85" data-speed="2500" class="count-text1"> 00</span> -
+              <span data-stop="90" data-speed="2500" class="count-text1"> 00</span>%
             </h2>
             <h6 class="title"><b style="color:#fff;">EB1A</b> Approval Rate*</h6>
           </div>
@@ -29,7 +29,7 @@
         </div>
 
         <p class="home-page-disclaimer">
-          Disclaimer: Our previous success rate derives from historical information and shows results of former cases. Nevertheless, prior achievements do not ensure upcoming outcomes. Every application is distinct and assessed on its particular strengths by immigration officials.
+          Disclaimer: Our track record reflects historical case outcomes and does not guarantee future results. Past succe
         </p>
 
       </div>

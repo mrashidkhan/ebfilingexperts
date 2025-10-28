@@ -48,7 +48,7 @@
                                     <div class="col-lg-6 col-md-5 col-sm-12 col-xs-12 p-0">
                                         <div class="tabs-inner-img">
                                             <img src="{{ asset('assets/images/inner-images/new-turing-aI1.jpg') }}"
-                                                alt="Data analysis and insights for EB1 Filling Experts."
+                                                alt="Data analysis and insights for EB Filing Experts."
                                                 class="img-fluid tabs-first-img">
                                         </div>
                                     </div>
@@ -60,7 +60,7 @@
                                                     Profile Analysis</a>
                                             </h3>
                                             <p>
-                                                Turing AI leverages advanced Natural Language Processing (NLP) and
+                                                AscentAI leverages advanced Natural Language Processing (NLP) and
                                                 machine learning to conduct a thorough analysis of your profile. Our
                                                 AI system meticulously evaluates your professional achievements,
                                                 career impact, and industry contributions to identify the unique
@@ -99,7 +99,7 @@
                                     <div class="col-lg-6 col-md-5 col-sm-12 col-xs-12 p-0">
                                         <div class="tabs-inner-img">
                                             <img src="{{ asset('assets/images/inner-images/new-turing-aI2.jpg') }}"
-                                                alt="Turing AI-powered solutions for EB1 Filling Experts. "
+                                                alt="AscentAI-powered solutions for EB Filing Experts. "
                                                 class="img-fluid">
                                         </div>
                                     </div>
@@ -110,7 +110,7 @@
                                                     target="_blank" class="target-color">AI-Driven Precision
                                                     Optimization</a></h3>
                                             <p>
-                                                Turing AI enhances your profile with advanced, human-like
+                                                AscentAI enhances your profile with advanced, human-like
                                                 intelligence, transforming your
                                                 achievements and data into a compelling narrative. Instead of a
                                                 purely technical approach,
@@ -155,7 +155,7 @@
                                     <div class="col-lg-6 col-md-5 col-sm-12 col-xs-12 p-0">
                                         <div class="tabs-inner-img">
                                             <img src="{{ asset('assets/images/inner-images/new-turing-aI3.jpg') }}"
-                                                alt="AI-driven candidate evaluation for EB1 Filling Experts."
+                                                alt="AI-driven candidate evaluation for EB Filing Experts."
                                                 class="img-fluid">
                                         </div>
                                     </div>
@@ -164,7 +164,7 @@
                                             <h3 class="main-heading">Insightful and Career-Specific Recommendations
                                             </h3>
                                             <p>
-                                                Turing AI goes beyond profile analysis—it delivers <b>actionable,
+                                                AscentAI goes beyond profile analysis—it delivers <b>actionable,
                                                     tailored
                                                     recommendations</b> to
                                                 strengthen your EB1A application. Our AI-driven insights align with
@@ -224,7 +224,7 @@
                                         <div class="tabs-inner-content">
                                             <h3 class="main-heading">Increased Efficiency and Effortless Process
                                             </h3>
-                                            <p>With Turing AI, you can complete your EB1A profile faster without
+                                            <p>With AscentAI, you can complete your EB1A profile faster without
                                                 compromising quality. Our
                                                 AI system automates tedious tasks like content organization and
                                                 formatting, allowing you to

@@ -12,26 +12,26 @@
                         Why Choose
                         <a href="{{ route('contactus') }}"
                             class="target-color">
-                            EB1 Filling Experts?
+                            EB Filing Experts?
                         </a>
                     </h2>
 
                     <ul class="order-list webex-primary-color">
-                        <li>Industry-Leading EB1A Success Framework</li>
-                        <li>Tailor-Made Strategies for Your Green Card Journey</li>
-                        <li>Expert-Led, Detail-Oriented Process Management</li>
+                        <li>Premier EB1A Approval Strategy</li>
+                        <li>Customized Strategies for Your Green Card Path</li>
+                        <li>Professional-Guided, Meticulous Process Oversight</li>
                         <li>
-                            Specialized
+                            Dedicated
                             <a href="{{ route('case-studies') }}"
                                 class="target-color">
-                                EB1A Support for High-Tech Professionals
+                                EB1A Services for Technology Professionals
                             </a>
                         </li>
                     </ul>
 
                     <div class="button mrb-md-60 btn-padding">
-                        <a class="theme-btn-1" href="{{ route('contactus') }}#calendar">
-                            Begin Your Journey
+                        <a class="theme-btn-1" href="{{ route('contactus') }}">
+                            Start Your Journey
                             <i class="base-icon-next"></i>
                         </a>
                     </div>
@@ -40,8 +40,8 @@
 
             <div class="col-xl-6 col-lg-6">
                 <div class="banner-thumb">
-                    <img src="{{ asset('assets/images/inner-images/Why-Choose.jpg') }}"
-                        alt="EB1 Filling Experts consultation – tech professionals discussing U.S. green card strategies">
+                    <img src="{{ asset('assets/images/inner-images/Why-Choose-new.jpg') }}"
+                        alt="EB Filing Experts consultation – tech professionals discussing U.S. green card strategies">
                 </div>
             </div>
         </div>

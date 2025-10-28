@@ -8,7 +8,7 @@
                             <div class="project-item-thumb">
                                 <a class="project-item-link-image" href="{{ route('index', 'turning-challenges-into-eb1a-success') }}">
                                     <img class="img-full" src="{{ asset('assets/images/inner-images/Case-Studies1.jpg') }}"
-                                         alt="EB1 Filling Experts case study discussion on EB1A petitions for tech professionals">
+                                         alt="EB Filing Experts case study discussion on EB1A petitions for tech professionals">
                                 </a>
                             </div>
                             <div class="project-item-details">

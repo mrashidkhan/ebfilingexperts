@@ -9,7 +9,7 @@
                 </h3>
                 <div class="Commitment">
                     <p class="">
-  EB1A Experts has earned its reputation as a trusted partner for professionals pursuing
+  EB Filing Experts has earned its reputation as a trusted partner for professionals pursuing
   <a href="https://medium.com" target="_blank" class="target-color">
     EB1A approvals
   </a>
@@ -25,7 +25,7 @@
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                 <div class="inner-images">
                     <img src="{{ asset('assets/images/inner-images/Experts-Stands3.jpg') }}"
-                        alt="EB1 Filling Experts team collaborating on immigration strategies">
+                        alt="EB Filing Experts team collaborating on immigration strategies">
                 </div>
             </div>
         </div>

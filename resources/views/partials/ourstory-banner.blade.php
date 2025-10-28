@@ -4,7 +4,7 @@
         <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12 m-auto">
           <div class="our-story-inner text-center">
             <h6>Our Story</h6>
-            <h1>EB1 Filling Experts: Excellence Through Experience and Commitment</h1>
+            <h1>EB Filing Experts: Committed to Your Success.</h1>
             <h2 class="pt-1">One Journey. Infinite Possibilities.</h2>
           </div>
         </div>

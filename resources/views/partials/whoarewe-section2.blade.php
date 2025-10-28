@@ -4,7 +4,7 @@
     <div class="row align-items-center tab-revers">
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="our-mission-inner-content">
-          <img src="{{ asset('assets/images/inner-images/Our Mission5.jpg') }}" alt="EB1A Experts team united with AI-driven innovation.">
+          <img src="{{ asset('assets/images/inner-images/Our Mission5.jpg') }}" alt="EB Filing Experts team united with AI-driven innovation.">
         </div>
       </div>
 

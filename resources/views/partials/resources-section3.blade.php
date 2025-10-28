@@ -8,7 +8,7 @@
                     <div class="resources-inner">
                         <h2>Vodcast</h2>
                         <p>
-                            Get inspired by our leadership series, where EB1 Filling Experts and top achievers share insights
+                            Get inspired by our leadership series, where EB Filing Experts and top achievers share insights
                             and success
                             strategies.
                         </p>
@@ -20,7 +20,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     <div class="resources-inner-img">
                         <img src="{{ asset('assets/images/inner-images/Podcasts.png') }}"
-                            alt="EB1 Filling Experts podcast discussing EB1A success strategies for tech professionals."
+                            alt="EB Filing Experts podcast discussing EB1A success strategies for tech professionals."
                             class="img-fluid">
                     </div>
                 </div>

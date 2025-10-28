@@ -9,6 +9,6 @@
     @include('partials.leadershipteam-banner')
     @include('partials.leadershipteam-section1')
     @include('partials.leadershipteam-section2')
-    @include('partials.testimonials')
+    {{-- @include('partials.testimonials') --}}
 
 @endsection

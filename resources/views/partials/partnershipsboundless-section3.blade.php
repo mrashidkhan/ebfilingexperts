@@ -63,12 +63,12 @@
                         <div class="service-image-block">
                             <img class="img-fluid"
                                 src="{{ asset('assets/images/inner-images/Dynamic-Evidence-Optimization.jpg') }}"
-                                alt="Visa and immigration consultation for EB1A green card - EB1 Filling Experts" />
+                                alt="Visa and immigration consultation for EB1A green card - EB Filing Experts" />
                         </div>
                         <div class="service-content-block">
                             <h4 class="service-title">Dynamic Evidence Optimization</h4>
                             <p class="service-text">
-                                Turing AI fine-tunes every detail for a stronger EB-1A profile, from evaluating
+                                AscentAI fine-tunes every detail for a stronger EB-1A profile, from evaluating
                                 publication influence to optimizing media visibility, ensuring your case gains maximum
                                 recognition.
                             </p>

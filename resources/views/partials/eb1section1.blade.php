@@ -44,8 +44,8 @@
                 <!-- Right Column -->
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     <div class="inner-images">
-                        <img src="{{ asset('assets/images/inner-images/Qualifies-for-EB-1.jpg') }}"
-                            alt="EB1 Filling Experts help tech professionals secure green cards.">
+                        <img src="{{ asset('assets/images/inner-images/Qualifies-for-EB-1-new.jpg') }}"
+                            alt="EB Filing Experts help tech professionals secure green cards.">
                     </div>
                 </div>
             </div>

@@ -218,7 +218,7 @@
                     <div class="column col-lg-12 col-md-12 col-sm-12">
                         <div class="copyright"><a href="{{ route('disclaimer') }}" style="color: #fff; text-decoration: underline;">
   <b style="color: #fff;">Disclaimer:</b>
-</a> EB1 Filing Experts provides educational resources and informational content to help you understand the EB-1A Green Card process.
+</a> EB Filing Experts provides educational resources and informational content to help you understand the EB-1A Green Card process.
     However, we are not a law firm and do not provide legal advice, legal services, or official representation before U.S.
     immigration authorities. Our services are designed to complement, not replace, professional legal counsel.
                         </div>
@@ -236,7 +236,7 @@
                     <div class="row">
                         <div class="col-lg-7 col-md-5 col-sm-12 col-xs-12">
                             <p class="copyright-text">
-                                <b>EB1 Filling Experts LLC</b> © 2025. All Rights Reserved
+                                <b>EB Filing Experts LLC</b> © 2025. All Rights Reserved
                             </p>
                         </div>
                         <div class="col-lg-5 col-md-7 col-sm-12 col-xs-12">
@@ -301,7 +301,7 @@
                     </div>
                     <div class="modal-body">
                         <p class="mb-0 pt-1">
-                            Content from <b>EB1 Filling Experts</b> serves educational and informational aims exclusively. Although we endeavor to deliver helpful guidance, since we are not an attorney's office we cannot furnish legal counsel or advocate with U.S. immigration agencies.
+                            Content from <b>EB Filing Experts</b> serves educational and informational aims exclusively. Although we endeavor to deliver helpful guidance, since we are not an attorney's office we cannot furnish legal counsel or advocate with U.S. immigration agencies.
                         </p>
                     </div>
                 </div>

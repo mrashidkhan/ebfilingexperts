@@ -7,13 +7,9 @@
             <!-- Left Column -->
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                 <div class="proven-track-record-inner">
-    <h2>A Demonstrated History of EB1A Achievements</h2>
+    <h2>A Proven Track Record of EB1A Success</h2>
     <p>
-        Boasting an established history of obtaining EB1A approvals for developers, machine learning specialists, technology executives, and other distinguished tech professionals,
-        <a href="{{ route('index') }}" target="_blank" class="target-color">
-            EB1 Filling Experts
-        </a>
-        delivers exceptional methodology, thorough application development, and individualized support. Our results-oriented strategy guarantees your remarkable accomplishments are presented compellingly, enhancing your likelihood of a favorable U.S. immigration result.
+       With a proven track record of securing EB1A approvals for developers, AI specialists, tech leaders, and other elite technology professionals, EB Filing Experts offers superior strategies, comprehensive petition preparation, and personalized guidance. Our outcome-driven approach ensures your exceptional achievements are showcased persuasively, maximizing your chances of a successful U.S. immigration outcome.
     </p>
 </div>
             </div>
@@ -22,11 +18,11 @@
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                 <div class="proven-track-record-inner">
                     <div class="d-inline align-items-center mt-40">
-    <h3 class="mb-3">Enhance Your EB1A Success Rate – Receive Your Strategy Today!</h3>
-    <h5 class="mb-3">Get Your Strategy Today!</h5>
+    <h3 class="mb-3">Maximize Your EB1A Approval Chances – Get Your Personalized Plan Now!</h3>
+    <h5 class="mb-3">Claim Your Plan Now!</h5>
     <div class="Plan-Now">
         <a href="{{ route('contactus') }}#calendar" class="theme-btn-1 mrb-sm-20">
-            Reach out
+            Contact us
             <i class="base-icon-next"></i>
         </a>
     </div>

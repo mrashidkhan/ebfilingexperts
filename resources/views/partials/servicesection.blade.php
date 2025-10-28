@@ -9,20 +9,16 @@
             <div class="col-md-12 col-lg-12 col-xl-12">
     <h1 class="mrb-10 title-heading text-center">About Us</h1>
     <p class="text-center">
-        EB1 Filing Experts guides technology professionals through the
-        <a href="https://medium.com/@eb1aexperts/eb-1a-green-card-the-premier-path-for-exceptional-talent-in-tech-ff57d797f868"
-            target="_blank"
-            class="target-color">
-            EB1A Green Card process
-        </a>
-        by delivering tailored guidance and comprehensive support from start to finish. We strategically help applicants satisfy 6-7 of the 10
-        <a href="https://medium.com/@eb1aexperts/understanding-the-uscis-eb1a-criteria-a-comprehensive-guide-to-building-a-strong-eb1a-profile-b6a40c48843d"
-            target="_blank"
-            class="target-color">
-            USCIS requirements
-        </a>
-        – substantially surpassing the mandatory three. Our meticulous approach strengthens applications, accelerates approvals, and paves the way to permanent residency with greater confidence.
-    </p>
+    EB Filing Experts assists tech professionals throughout the
+    
+        EB1A Green Card journey
+    
+    with customized consultation and complete support at every stage. We strategically position applicants to fulfill 6-7 of the 10
+    
+        USCIS standards
+    
+    – far exceeding the minimum threshold of three. Our precise approach reinforces applications, streamlines approvals, and creates a clearer pathway to permanent residency.
+</p>
 </div>
         </div>
     </div>

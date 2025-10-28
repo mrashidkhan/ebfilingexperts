@@ -1,4 +1,4 @@
-<!-- What Makes EB1 Filling Experts Different Section -->
+<!-- What Makes EB Filing Experts Different Section -->
 <section class="makes-eb1a-experts-different-main ptb-60 background-service">
     <div class="container p-0">
         <!-- Section Title -->
@@ -6,15 +6,10 @@
             <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12 m-auto text-center">
                 <div class="makes-eb1a-experts-different">
                     <h2>
-                        What makes
-                        <a href="{{ route('index') }}" class="target-color" target="_blank">
-                            EB1 Filling Experts
-                        </a>
-                        different?
+                        What sets EB Filing Experts apart from other services?
                     </h2>
                     <p>
-                        Top tech professionals trust EB1 Filling Experts to deliver a seamless, strategic, and highly effective
-                        EB-1A journey. Our clients consistently highlight the unique value we bring to the process.
+                        EB Filing Experts is trusted by tech professionals for seamless, strategic EB-1A success.
                     </p>
                 </div>
             </div>
@@ -34,12 +29,11 @@
                         <div class="info">
                             <h4>
                                 <a href="{{ route('turing-ai') }}" class="target-color" target="_blank">
-                                    AI-Driven Profile Optimization
+                                    AI-Powered Profile Optimization
                                 </a>
                             </h4>
                             <p>
-                                AI Turing refines every detail of your profile, ensuring achievements are structured to
-                                maximize approval potential.
+                                AI Athena optimizes every detail of your profile to maximize your EB-1A approval potential.
                             </p>
                         </div>
                     </div>
@@ -54,10 +48,9 @@
                             </div>
                         </div>
                         <div class="info">
-                            <h4>Data-Backed Qualification Insights</h4>
+                            <h4>Data-Driven Eligibility Insights</h4>
                             <p>
-                                Our AI-powered assessment benchmarks your credentials against successful EB1A cases,
-                                offering a clear, strategic roadmap to strengthen your case.
+                                Our AI compares your credentials to successful EB-1A cases, creating a clear strategy to strengthen your application.
                             </p>
                         </div>
                     </div>
@@ -72,10 +65,9 @@
                             </div>
                         </div>
                         <div class="info">
-                            <h4>Expert-Led Strategy & Personalization</h4>
+                            <h4>Expert Strategy, Personalized for You</h4>
                             <p>
-                                With specialized EB-1A strategists, you receive tailored guidance that aligns your profile
-                                with USCIS expectations and tech industry standards.
+                                Our EB-1A strategists tailor your profile to meet USCIS expectations and industry standards.
                             </p>
                         </div>
                     </div>
@@ -90,10 +82,9 @@
                             </div>
                         </div>
                         <div class="info">
-                            <h4>Dedicated Case Manager</h4>
+                            <h4>Dedicated EB-1A Case Expert</h4>
                             <p>
-                                Each client is assigned a dedicated case manager and round-the-clock support for a smooth,
-                                stress-free experience.
+                                EEvery client gets a dedicated case manager and 24/7 support for a smooth experience.
                             </p>
                         </div>
                     </div>
@@ -111,30 +102,29 @@
                             <h4>
                                 High-Impact
                                 <a href="{{ route('case-studies') }}" target="_blank" class="target-color">
-                                    Recommendation Letters
+                                    Powerful Recommendation Letters
                                 </a>
                             </h4>
                             <p>
-                                Our team crafts persuasive letters highlighting your contributions, leadership, and impact
-                                within the tech sector.
+                               Our experts craft strategic recommendation letters highlighting your achievements and industry leadership.
                             </p>
                         </div>
                     </div>
                 </div>
 
-                <!-- Feature 6: Intelligent Gap-Filling Framework -->
+                <!-- Feature 6: Intelligent Gap-Filing Framework -->
                 <div class="col-md-4 col-sm-6 equal-height">
                     <div class="item">
                         <div class="icon">
                             <div class="thumbnail">
-                                <img src="{{ asset('assets/images/inner-images/why-choose-us-icon6.png') }}" alt="Intelligent Gap-Filling Framework">
+                                <img src="{{ asset('assets/images/inner-images/why-choose-us-icon6.png') }}" alt="Intelligent Gap-Filing Framework">
                             </div>
                         </div>
                         <div class="info">
-                            <h4>Intelligent Gap-Filling Framework</h4>
+                            <h4>Intelligent Gap-Filing Framework</h4>
                             <p>
-                                We don't just assess your profile—we enhance it. Our AI identifies missing elements and
-                                proactively suggests strategic additions, turning near-misses into solid qualifications.
+                                We don't just assess—we strengthen your profile. Our AI identifies gaps and strategically suggests additions that turn near-misses into winning qualifications.
+
                             </p>
                         </div>
                     </div>
@@ -149,15 +139,9 @@
                             </div>
                         </div>
                         <div class="info">
-                            <h4>Efficient Process & Time Optimization</h4>
+                            <h4></h4>
                             <p>
-                                Our
-                                <a href="https://medium.com/@eb1aexperts/revolutionizing-eb-1a-applications-overcome-challenges-with-ai-powered-solutions-bd1a4c68f237"
-                                    target="_blank"
-                                    class="target-color">
-                                    AI-powered
-                                </a>,
-                                expert-guided approach accelerates your EB1A journey—without compromising quality.
+                                Expert guidance that speeds up your EB-1A journey while maintaining quality.
                             </p>
                         </div>
                     </div>
@@ -172,10 +156,9 @@
                             </div>
                         </div>
                         <div class="info">
-                            <h4>A Proven Track Record of Success</h4>
+                            <h4>Success Stories. Proven Results.</h4>
                             <p>
-                                With consistent EB1A approvals for top-tier tech professionals, we're known for our
-                                strategy, precision, and results.
+                                We consistently win EB-1A approvals for leading tech professionals through strategic, precise execution.
                             </p>
                         </div>
                     </div>
@@ -190,10 +173,9 @@
                             </div>
                         </div>
                         <div class="info">
-                            <h4>Comprehensive Criterion Coverage</h4>
+                            <h4>Full Coverage of All EB-1A Criteria</h4>
                             <p>
-                                From publications to judging and memberships, we ensure every EB1A criterion is strategically
-                                addressed and presented with maximum clarity and impact.
+                                Deep Strategic Positioning of Publications, Judging, Memberships, and More
                             </p>
                         </div>
                     </div>

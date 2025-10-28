@@ -11,7 +11,7 @@
                 <div class="about-image-box-style1 dot-circle mrb-lg-60">
                     <img class="about-image2 img-full img-fluid"
                         src="{{ asset('assets/images/inner-images/ai.jpg') }}"
-                        alt="AI-powered immigration solutions by EB1 Filling Experts">
+                        alt="AI-powered immigration solutions by EB Filing Experts">
                 </div>
             </div>
 
@@ -25,7 +25,7 @@
                 </div>
 
                 <p class="mrb-10">
-                    Partnering with <b>EB1 Filling Experts</b> and <b>Boundless</b> gives you the ultimate advantage:
+                    Partnering with <b>EB Filing Experts</b> and <b>Boundless</b> gives you the ultimate advantage:
                 </p>
 
                 <!-- Benefits List -->
@@ -38,7 +38,7 @@
                                     <img src="{{ asset('assets/images/inner-images/AI-Precision1.png') }}"
                                         alt="AI-powered qualification assessment">
                                     <b>AI-powered qualification assessment</b> and expert-driven profile
-                                    enhancement from EB1 Filling Experts.
+                                    enhancement from EB Filing Experts.
                                 </h4>
                             </li>
 

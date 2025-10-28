@@ -3,18 +3,18 @@
 
 <head>
   <meta charset="UTF-8" />
-  <title>EB1 Filing Experts | Your Path to U.S. Permanent Residency</title>
+  <title>EB Filing Experts | Your Path to U.S. Permanent Residency</title>
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="{{ url()->current() }}" />
-  <meta name="image" property="og:image" content="{{ asset('assets/images/inner-images/favicon.png') }}">
-  <meta name="title" property="og:title" content="EB1 Filling Experts | Your Path to U.S. Permanent Residency">
+  <meta name="image" property="og:image" content="{{ asset('assets/images/inner-images/logo-new.png') }}">
+  <meta name="title" property="og:title" content="EB Filing Experts | Your Path to U.S. Permanent Residency">
   <meta name="author" content="" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="description"
-    content="EB1 Filling Experts help tech professionals secure the EB1A Green Card with fast approvals, expert consultation & a streamlined U.S. immigration process." />
+    content="EB Filing Experts help tech professionals secure the EB1A Green Card with fast approvals, expert consultation & a streamlined U.S. immigration process." />
   <meta name="keywords"
-    content="EB1 Filling Experts, EB1A green card, EB-1A visa, EB1A for professionals, extraordinary ability immigration, EB1A consultation, EB1A approval, O1A visa, U.S. permanent residency, immigration lawyer EB1A, EB1A premium processing, EB1A evaluation" />
+    content="EB Filing Experts, EB1A green card, EB-1A visa, EB1A for professionals, extraordinary ability immigration, EB1A consultation, EB1A approval, O1A visa, U.S. permanent residency, immigration lawyer EB1A, EB1A premium processing, EB1A evaluation" />
 
   <link rel="icon" type="image/png" href="{{ asset('assets/images/inner-images/faviconnew.png') }}" />
 
@@ -29,7 +29,7 @@
   {
     "@context": "https://schema.org/",
     "@type": "WebSite",
-    "name": "EB1 Filling Experts",
+    "name": "EB Filing Experts",
     "url": "{{ url('/') }}",
     "potentialAction": {
       "@type": "SearchAction",

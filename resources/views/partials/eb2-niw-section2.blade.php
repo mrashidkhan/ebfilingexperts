@@ -5,10 +5,9 @@
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="O-1-visa-title eb2-niw-eligibility">
-                    <h2 class="text-center">EB2-NIW qualification standards for Tech Specialists</h2>
+                    <h2 class="text-center">EB2-NIW Eligibility Criteria for Technology Professionals</h2>
                     <p class="mb-2 text-center">
-                        To be eligible, candidates must possess an advanced degree (or comparable background) or exhibit
-                        outstanding capability in their discipline. The foundation of an EB2-NIW application is demonstrating that your contributions serve national interests, assessed through three fundamental eligibility requirements:
+                        Eligibility requires an advanced degree (or equivalent experience) along with exceptional ability in your field. The core of an EB2-NIW petition lies in proving your work benefits the national interest, evaluated through three key qualifying criteria:
                     </p>
                 </div>
             </div>
@@ -56,7 +55,7 @@
                                 <img src="{{ asset('assets/images/inner-images/eb2-niw2-b.png') }}"
                                     alt="Positioned to further the initiative"
                                     class="our-values-tabs-in-active">
-                                <p>Positioned to further the initiative</p>
+                                <p>Well-placed to advance the endeavor</p>
                             </button>
                         </li>
 
@@ -76,7 +75,7 @@
                                 <img src="{{ asset('assets/images/inner-images/eb2-niw3-b.png') }}"
                                     alt="Advantageous to forgo employer sponsorship"
                                     class="our-values-tabs-in-active">
-                                <p>Advantageous to forgo employer sponsorship</p>
+                                <p>Beneficial to bypass employer sponsorship requirements</p>
                             </button>
                         </li>
                     </ul>
@@ -101,7 +100,7 @@
                                     data-bs-target="#collapseOne"
                                     aria-expanded="true"
                                     aria-controls="collapseOne">
-                                    Significant value and U.S. priorities
+                                    Substantial Merit and National Priorities
                                 </button>
                             </h2>
                             <div id="collapseOne"
@@ -110,9 +109,7 @@
                                 data-bs-parent="#myTabForm">
                                 <div class="accordion-body">
                                     <p>
-                                        Your contributions should support initiatives or solutions that address critical U.S. objectives,
-                                        including network infrastructure, artificial intelligence, cybersecurity, or enterprise-level
-                                        technology solutions.
+                                        Your work should advance projects or innovations that tackle pressing U.S. priorities, such as network systems, AI development, cybersecurity, or large-scale technology platforms.
                                     </p>
                                 </div>
                             </div>
@@ -141,11 +138,11 @@
                                 data-bs-parent="#myTabForm">
                                 <div class="accordion-body">
                                     <div class="O-1-visa-list-box1">
-                                        <p class="mb-0">You must establish you're actively propelling the initiative forward, demonstrated through:</p>
+                                        <p class="mb-0">You must demonstrate you're actively advancing the work, shown through:</p>
                                         <ul class="eb2-niw-list">
-                                            <li>Authored studies, code contributions, software innovations, and application documentation</li>
-                                            <li>Conference presentations or strategic leadership positions</li>
-                                            <li>Media visibility, scholarly recognition, or specialist recommendations</li>
+                                            <li>Published research, technical contributions, software development, and project documentation</li>
+<li>Industry presentations or key leadership roles</li>
+<li>Press coverage, academic citations, or expert endorsements</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -166,7 +163,7 @@
                                     data-bs-target="#collapseThree"
                                     aria-expanded="false"
                                     aria-controls="collapseThree">
-                                    Advantageous to forgo employer sponsorship
+                                    Better to proceed without employer sponsorship
                                 </button>
                             </h2>
                             <div id="collapseThree"
@@ -175,7 +172,7 @@
                                 data-bs-parent="#myTabForm">
                                 <div class="accordion-body">
                                     <p>
-                                        Effective positioning is critical. You must demonstrate that exempting employer sponsorship and recruitment certification serves U.S. interests, commonly through emphasizing your work's autonomous merit and growth capability.
+                                        Strategic presentation is essential. You must establish that waiving employer sponsorship and labor certification benefits the nation, typically by highlighting your work's independent value and scalability.
                                     </p>
                                 </div>
                             </div>

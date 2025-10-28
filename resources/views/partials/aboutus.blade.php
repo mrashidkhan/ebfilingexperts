@@ -13,13 +13,13 @@
                         Say Hello to our
                         <span class="text-gradient-color">
                             <a href="{{ route('turing-ai') }}" class="target-color">
-                                Turing AI!
+                                AscentAI!
                             </a>
                         </span>
                     </h2>
                 </div>
                 <p class="mrb-10 text-center">
-                    EB1 Filling Experts understands the distinct obstacles technology professionals encounter when pursuing the elite EB1A Green Card. We developed Turing AI—a sophisticated
+                    EB Filing Experts understands the distinct obstacles technology professionals encounter when pursuing the elite EB1A Green Card. We developed AscentAI—a sophisticated
                     {{-- <a href="https://medium.com/@eb1aexperts/ai-powered-eb1a-green-card-help-for-tech-professionals-1b20a5f94e43"
                         target="_blank"
                         class="target-color">
@@ -28,7 +28,7 @@
                     <a href="{{ route('turing-ai') }}" class="target-color">
                                 AI-powered solution
                             </a>
-                    to streamline, optimize, and accelerate your EB1A application process. With Turing AI, your EB1A journey is smarter, faster, and more efficient than ever.
+                    to streamline, optimize, and accelerate your EB1A application process. With AscentAI, your EB1A journey is smarter, faster, and more efficient than ever.
                 </p>
             </div>
         </div>
@@ -37,7 +37,7 @@
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 mt-1 mb-2">
                 <div class="featured-content mb-2">
-                    <h4 class="featured-title text-center">Turing AI Key Features</h4>
+                    <h4 class="featured-title text-center">AscentAI Key Features</h4>
                 </div>
             </div>
 
@@ -46,7 +46,7 @@
                 <div class="features-item-style1">
                     <div class="features-inner">
                         <div class="features-shape">
-                            <img src="{{ asset('assets/images/objects/6.png') }}" alt="Turing AI Key Features" />
+                            <img src="{{ asset('assets/images/objects/6.png') }}" alt="AscentAI Key Features" />
                         </div>
                         <img src="{{ asset('assets/images/inner-images/icon1.png') }}" alt="Profile Analysis" class="our-turing-ai">
                         <h5 class="features-title features-title1">
@@ -96,7 +96,7 @@
                         <div class="features-shape">
                             <img src="{{ asset('assets/images/objects/6.png') }}" alt="Increased Efficiency" />
                         </div>
-                        <img src="{{ asset('assets/images/inner-images/icon4.png') }}" alt="Turing AI Increased Efficiency" class="our-turing-ai">
+                        <img src="{{ asset('assets/images/inner-images/icon4.png') }}" alt="AscentAI Increased Efficiency" class="our-turing-ai">
                         <h5 class="features-title features-title4">
                             <a href="javascript:void()">Increased Efficiency</a>
                         </h5>

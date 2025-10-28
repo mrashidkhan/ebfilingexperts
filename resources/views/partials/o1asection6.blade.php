@@ -14,8 +14,8 @@
                                     <span class="webexflaticon base-icon-chat1"></span>
                                 </div>
                                 <div class="call-to-action-content">
-                                    <h2 class="call-to-action-title">Maximize Your O-1A Visa Potential</h2>
-                                    <p class="call-to-action-sub-title">Get Your Plan Now!</p>
+                                    <h2 class="call-to-action-title">Optimize Your O-1A Visa Success</h2>
+                                    <p class="call-to-action-sub-title">Access Your Strategy Today!</p>
                                 </div>
                             </div>
                         </div>
@@ -24,7 +24,7 @@
                         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                             <div class="call-to-action-btn-box mrt-15 mrt-md-30">
                                 <a href="{{ route('contactus') }}#calendar" class="theme-btn-2">
-                                    <b>Talk to our experts now!</b>
+                                    <b>Connect with our team today!</b>
                                 </a>
                             </div>
                         </div>
@@ -56,16 +56,14 @@
                                 <div class="testimonial-slide">
                                     <div class="testimonial-info">
                                         <p>
-                                            Happy to share the EB1A I-140 case has been approved today! A heartfelt thank you to Raghu
-                                            Suram for sharing this life-changing firm, and sincere thanks to Vikas and the entire EB1A
-                                            team for their dedicated work and support throughout my case.
+                                            Excited to announce my EB1A I-140 petition received approval today! I'm deeply grateful to Mohammad Abbas for recommending this exceptional firm, and extend my sincere appreciation to Vikas and the complete EB1A team for their unwavering commitment and guidance throughout this journey.
                                         </p><br><br><br>
                                         <div class="autho-info">
                                             <div class="author-name">
                                                 <div class="rating-details" style="margin-top:0">
                                                     <span class="rating-star"><span style="width:100%"></span></span>
                                                 </div>
-                                                <span>Senior Software Engineer - Microsoft</span>
+                                                <span>Microsoft Senior Software Engineer</span>
                                             </div>
                                         </div>
                                     </div>
@@ -79,17 +77,14 @@
                                 <div class="testimonial-slide">
                                     <div class="testimonial-info">
                                         <p>
-                                            Hi Mohammad Abbas, I'm absolutely thrilled to share that my EB1A I-140 has been approved truly a
-                                            dream come true! Huge thanks to Raghu, Arvind and the entire EB1 Filling Experts team for their
-                                            relentless efforts, proactive follow-ups, and unwavering support. Your expert guidance made
-                                            this incredible milestone possible. Forever grateful!
+                                            Hello Mohammad Abbas, I'm overjoyed to announce that my EB1A I-140 petition has received approval—a genuine milestone achieved! Profound appreciation to Mohammad Abbas, Arvind, and the complete EB Filing Experts team for their persistent dedication, consistent communication, and steadfast assistance. Your professional expertise transformed this extraordinary achievement into reality. Deeply thankful!
                                         </p>
                                         <div class="autho-info">
                                             <div class="author-name">
                                                 <div class="rating-details" style="margin-top:0">
                                                     <span class="rating-star"><span style="width:100%"></span></span>
                                                 </div>
-                                                <span>Senior Software Engineering Manager - Microsoft</span>
+                                                <span>Google LLC Senior Software Engineer</span>
                                             </div>
                                         </div>
                                     </div>
@@ -103,17 +98,14 @@
                                 <div class="testimonial-slide">
                                     <div class="testimonial-info">
                                         <p>
-                                            Hey Raghu, I got the email saying my petition is "Approved". Thanks a lot for the guidance
-                                            and support. I was following the updates and it went to "RFE" first then next day went to
-                                            "Initial review" and then to "Approved" It got spooked me a little, so waiting for the
-                                            physical copy. Will share the news with my gang after I receive the physical copy.
+                                            Hi Mohammad Abbas, I received the notification that my petition has been "Approved." Thank you so much for your guidance and support throughout this process. I was monitoring the status updates closely—it initially showed "RFE," then changed to "Initial Review" the next day, and finally moved to "Approved." Those status changes had me a bit concerned, so I'm waiting for the official hard copy to arrive. I'll celebrate with my friends and family once I have the physical approval notice in hand.
                                         </p>
                                         <div class="autho-info">
                                             <div class="author-name">
                                                 <div class="rating-details" style="margin-top:0">
                                                     <span class="rating-star"><span style="width:100%"></span></span>
                                                 </div>
-                                                <span>Staff Software Engineer - Walmart</span>
+                                                <span>Staff Software Engineer - AWS</span>
                                             </div>
                                         </div>
                                     </div>
@@ -127,16 +119,14 @@
                                 <div class="testimonial-slide">
                                     <div class="testimonial-info">
                                         <p>
-                                            Hi Raghu! Hope you are doing well. I have great news, my case was approved today! Forever
-                                            thankful to you and for starting EB1 Filling Experts and supporting me in this journey to more
-                                            freedom!
+                                            Hello Mohammad Abbas! I hope this finds you well. I'm thrilled to share that my petition received approval today! Eternally grateful to you for founding EB Filing Experts and guiding me through this path toward greater o
                                         </p><br><br><br><br>
                                         <div class="autho-info">
                                             <div class="author-name">
                                                 <div class="rating-details" style="margin-top:0">
                                                     <span class="rating-star"><span style="width:100%"></span></span>
                                                 </div>
-                                                <span>Regional Product Lead - Google LLC</span>
+                                                <span>Regional Product Lead - Cisco</span>
                                             </div>
                                         </div>
                                     </div>
@@ -150,17 +140,14 @@
                                 <div class="testimonial-slide">
                                     <div class="testimonial-info">
                                         <p>
-                                            Mohammad Abbas, Prasanna Kumar, my EB1A petition got approved today. Thank you very much to you
-                                            and your team for the prep and guidance all through the process. You are all doing amazing
-                                            work in making green card process streamlined and the target achievable for a lot of us.
-                                            Thanks again.
+                                            Mohammad Abbas, I'm pleased to share that my EB1A petition received approval today. My sincere gratitude to you and your entire team for the comprehensive preparation and consistent guidance throughout this journey. Your exceptional work is simplifying the green card process and making this goal attainable for many of us. Thank you once again.
                                         </p>
                                         <div class="autho-info">
                                             <div class="author-name">
                                                 <div class="rating-details" style="margin-top:0">
                                                     <span class="rating-star"><span style="width:100%"></span></span>
                                                 </div>
-                                                <span>Sr. Manager, Security Engineering - Opendoor Labs Inc</span>
+                                                <span>SManager, Security Engineering - Google LLC</span>
                                             </div>
                                         </div>
                                     </div>

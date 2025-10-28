@@ -1,3 +1,5 @@
+<!-- FILE: resources/views/partials/contactus-section1.blade.php -->
+
 <section class="about-us-section-style1 bg-no-repeat bg-cover bg-pos-cb bg-silver contact-us-calendar-widget"
     style="background-image: url('assets/images/bg/abs-bg1.png'); background-size: cover; background-position: center bottom;" data-overlay-light="3" id="calendar">
     <div class="container">
@@ -27,32 +29,51 @@
                             </div>
                         </div>
 
+                        <!-- Error Messages -->
+                        @if ($errors->any())
+                            <div id="error-message" style="background: #f8d7da; color: #721c24; padding: 15px; border-radius: 4px; margin-bottom: 20px;">
+                                <strong>Validation Error!</strong>
+                                <ul style="margin: 10px 0 0 20px;">
+                                    @foreach ($errors->all() as $error)
+                                        <li>{{ $error }}</li>
+                                    @endforeach
+                                </ul>
+                            </div>
+                        @endif
+
+                        <!-- Success Message -->
+                        @if (session('success'))
+                            <div id="success-message" style="background: #d4edda; color: #155724; padding: 15px; border-radius: 4px; margin-bottom: 20px;">
+                                <strong>Success!</strong><br>
+                                {{ session('success') }}
+                            </div>
+                        @endif
+
                         <!-- Form -->
-                        <form id="booking-form" style="display: none; border-top: 1px solid #eee; padding-top: 20px;">
+                        <form id="booking-form" method="POST" action="{{ route('store-booking') }}" style="display: none; border-top: 1px solid #eee; padding-top: 20px;">
+                            @csrf
+
+                            <input type="hidden" id="booking_date" name="booking_date">
+                            <input type="hidden" id="booking_time" name="booking_time">
+
                             <div style="margin-bottom: 15px;">
                                 <label style="display: block; margin-bottom: 5px; font-weight: 500; color: #333;">Full Name *</label>
-                                <input type="text" id="name" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box;">
+                                <input type="text" id="name" name="name" required value="{{ old('name') }}" style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box;">
                             </div>
                             <div style="margin-bottom: 15px;">
                                 <label style="display: block; margin-bottom: 5px; font-weight: 500; color: #333;">Email *</label>
-                                <input type="email" id="email" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box;">
+                                <input type="email" id="email" name="email" required value="{{ old('email') }}" style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box;">
                             </div>
                             <div style="margin-bottom: 15px;">
                                 <label style="display: block; margin-bottom: 5px; font-weight: 500; color: #333;">Phone *</label>
-                                <input type="tel" id="phone" required style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box;">
+                                <input type="tel" id="phone" name="phone" required value="{{ old('phone') }}" style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box;">
                             </div>
                             <div style="margin-bottom: 20px;">
                                 <label style="display: block; margin-bottom: 5px; font-weight: 500; color: #333;">Message</label>
-                                <textarea id="message" style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box; resize: vertical; min-height: 80px;"></textarea>
+                                <textarea id="message" name="message" style="width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box; resize: vertical; min-height: 80px;">{{ old('message') }}</textarea>
                             </div>
                             <button type="submit" style="width: 100%; padding: 12px; background: #007bff; color: white; border: none; border-radius: 4px; font-size: 16px; font-weight: 600; cursor: pointer;">Confirm Booking</button>
                         </form>
-
-                        <!-- Success Message -->
-                        <div id="success-message" style="display: none; background: #d4edda; color: #155724; padding: 15px; border-radius: 4px; text-align: center;">
-                            <strong>Booking Confirmed!</strong><br>
-                            You will receive a confirmation email shortly.
-                        </div>
                     </div>
                 </div>
             </div>
@@ -61,10 +82,10 @@
 </section>
 
 <script>
-    // Calendar Management
     let currentDate = new Date();
     let selectedDate = null;
     let selectedTime = null;
+    let selectedDateElement = null;
 
     const availableTimes = [
         '09:00 AM', '09:30 AM', '10:00 AM', '10:30 AM',
@@ -72,9 +93,35 @@
         '03:00 PM', '03:30 PM', '04:00 PM', '04:30 PM'
     ];
 
-    // Initialize calendar
     function initCalendar() {
         renderCalendar();
+    }
+
+    function scrollToSuccessMessage() {
+        const successMessage = document.getElementById('success-message');
+        if (successMessage) {
+            // Wait for page to fully render before scrolling
+            setTimeout(() => {
+                // Get the calendar section
+                const calendarSection = document.getElementById('calendar');
+                
+                // Scroll to the calendar section first
+                if (calendarSection) {
+                    calendarSection.scrollIntoView({ 
+                        behavior: 'smooth', 
+                        block: 'start' 
+                    });
+                }
+                
+                // Then scroll to success message with a slight delay
+                setTimeout(() => {
+                    successMessage.scrollIntoView({ 
+                        behavior: 'smooth', 
+                        block: 'center' 
+                    });
+                }, 300);
+            }, 100);
+        }
     }
 
     function renderCalendar() {
@@ -85,15 +132,12 @@
         const daysInMonth = lastDay.getDate();
         const startingDayOfWeek = firstDay.getDay();
 
-        // Update month/year display
         document.getElementById('month-year').textContent =
             currentDate.toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
 
-        // Clear previous calendar
         const calendarGrid = document.getElementById('calendar-grid');
         calendarGrid.innerHTML = '';
 
-        // Add day headers
         const dayHeaders = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
         dayHeaders.forEach(day => {
             const dayHeader = document.createElement('div');
@@ -102,13 +146,11 @@
             calendarGrid.appendChild(dayHeader);
         });
 
-        // Add empty cells for days before month starts
         for (let i = 0; i < startingDayOfWeek; i++) {
             const emptyCell = document.createElement('div');
             calendarGrid.appendChild(emptyCell);
         }
 
-        // Add day cells
         for (let day = 1; day <= daysInMonth; day++) {
             const dayCell = document.createElement('button');
             dayCell.textContent = day;
@@ -116,7 +158,7 @@
 
             const cellDate = new Date(year, month, day);
             const isToday = cellDate.toDateString() === new Date().toDateString();
-            const isPast = cellDate < new Date();
+            const isPast = cellDate < new Date().setHours(0, 0, 0, 0);
 
             dayCell.style.cssText = `
                 padding: 10px;
@@ -127,12 +169,22 @@
                 border-radius: 4px;
                 font-weight: ${isToday ? 'bold' : 'normal'};
                 transition: all 0.3s;
+                color: black;
             `;
 
             if (!isPast) {
-                dayCell.onmouseover = () => dayCell.style.background = '#f0f0f0';
-                dayCell.onmouseout = () => dayCell.style.background = isToday ? '#e7f3ff' : 'white';
-
+                dayCell.onmouseover = function() {
+                    if (this !== selectedDateElement) {
+                        this.style.background = '#f0f0f0';
+                    }
+                };
+                
+                dayCell.onmouseout = function() {
+                    if (this !== selectedDateElement) {
+                        this.style.background = isToday ? '#e7f3ff' : 'white';
+                    }
+                };
+                
                 dayCell.onclick = () => selectDate(cellDate, dayCell);
             } else {
                 dayCell.disabled = true;
@@ -144,10 +196,18 @@
 
     function selectDate(date, element) {
         selectedDate = date;
-        document.querySelectorAll('#calendar-grid button').forEach(btn => {
-            btn.style.background = btn === element ? '#007bff' : 'white';
-            btn.style.color = btn === element ? 'white' : 'black';
-        });
+        
+        if (selectedDateElement) {
+            const wasToday = selectedDateElement.textContent == new Date().getDate() && 
+                            currentDate.getMonth() === new Date().getMonth() &&
+                            currentDate.getFullYear() === new Date().getFullYear();
+            selectedDateElement.style.background = wasToday ? '#e7f3ff' : 'white';
+            selectedDateElement.style.color = 'black';
+        }
+        
+        selectedDateElement = element;
+        element.style.background = '#007bff';
+        element.style.color = 'white';
 
         renderTimeSlots();
         document.getElementById('time-slots-container').style.display = 'block';
@@ -170,8 +230,15 @@
                 transition: all 0.3s;
             `;
 
-            timeBtn.onmouseover = () => timeBtn.style.background = '#f0f0f0';
-            timeBtn.onmouseout = () => timeBtn.style.background = selectedTime === time ? '#007bff' : 'white';
+            timeBtn.onmouseover = () => {
+                if (selectedTime !== time) {
+                    timeBtn.style.background = '#f0f0f0';
+                }
+            };
+            
+            timeBtn.onmouseout = () => {
+                timeBtn.style.background = selectedTime === time ? '#007bff' : 'white';
+            };
 
             timeBtn.onclick = () => {
                 selectedTime = time;
@@ -179,6 +246,10 @@
                     btn.style.background = btn === timeBtn ? '#007bff' : 'white';
                     btn.style.color = btn === timeBtn ? 'white' : 'black';
                 });
+
+                document.getElementById('booking_date').value = selectedDate.toLocaleDateString('en-CA');
+                document.getElementById('booking_time').value = selectedTime;
+
                 document.getElementById('booking-form').style.display = 'block';
             };
 
@@ -186,44 +257,24 @@
         });
     }
 
-    // Month navigation
-    document.getElementById('prev-month').onclick = () => {
-        currentDate.setMonth(currentDate.getMonth() - 1);
-        renderCalendar();
-    };
-
-    document.getElementById('next-month').onclick = () => {
-        currentDate.setMonth(currentDate.getMonth() + 1);
-        renderCalendar();
-    };
-
-    // Form submission
-    document.getElementById('booking-form').onsubmit = (e) => {
+    document.getElementById('prev-month').onclick = (e) => {
         e.preventDefault();
-
-        const bookingData = {
-            name: document.getElementById('name').value,
-            email: document.getElementById('email').value,
-            phone: document.getElementById('phone').value,
-            message: document.getElementById('message').value,
-            date: selectedDate.toLocaleDateString(),
-            time: selectedTime
-        };
-
-        // Here you would send to your backend
-        console.log('Booking submitted:', bookingData);
-
-        // Show success message
-        document.getElementById('booking-form').style.display = 'none';
-        document.getElementById('time-slots-container').style.display = 'none';
-        document.getElementById('success-message').style.display = 'block';
-
-        // Reset after 3 seconds
-        setTimeout(() => {
-            location.reload();
-        }, 3000);
+        currentDate.setMonth(currentDate.getMonth() - 1);
+        selectedDateElement = null;
+        renderCalendar();
     };
 
-    // Initialize on load
-    window.onload = initCalendar;
+    document.getElementById('next-month').onclick = (e) => {
+        e.preventDefault();
+        currentDate.setMonth(currentDate.getMonth() + 1);
+        selectedDateElement = null;
+        renderCalendar();
+    };
+
+    // Call scroll function after page is fully loaded
+    window.addEventListener('load', function() {
+        initCalendar();
+        // Call scroll with a delay to ensure everything is rendered
+        setTimeout(scrollToSuccessMessage, 500);
+    });
 </script>

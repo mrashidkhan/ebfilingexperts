@@ -3,7 +3,7 @@
   <section class="container ptb-60 vertical-marquee">
     <div class="row align-items-center">
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-        <h2 class="mb-4">Trusted by <span style="color: #00928b;">Top Tech</span> Professionals</h2>
+        <h2 class="mb-4">Chosen by <span style="color: #00928b;">Leading Technology</span> Experts</h2>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="row">

@@ -83,7 +83,7 @@
 
           <h3>Indemnification</h3>
           <p>
-            You agree to defend, indemnify, and hold harmless EB1A Experts LLC, our affiliates, subsidiaries, and our officers,
+            You agree to defend, indemnify, and hold harmless EB Filing Experts LLC, our affiliates, subsidiaries, and our officers,
             agents, partners, and employees from any third-party claims, damages, liabilities, or costs (including reasonable
             legal fees) arising from or related to:
           </p>

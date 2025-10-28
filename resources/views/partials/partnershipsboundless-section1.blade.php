@@ -17,7 +17,7 @@
                         — Now Faster, Smoother, and Hassle-Free!
                     </h2>
                     <p>
-                        EB1 Filling Experts make your Green Card journey faster and smoother by refining your achievements,
+                        EB Filing Experts make your Green Card journey faster and smoother by refining your achievements,
                         structuring compelling documentation, and optimizing your profile for success. Through our
                         partnership with Boundless Immigration, the process becomes even more seamless—eliminating
                         complexities and ensuring every step is handled with precision. With expert guidance at every
@@ -30,7 +30,7 @@
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                 <div class="inner-images">
                     <img src="{{ asset('assets/images/inner-images/EB-1A-Green-Card.jpg') }}"
-                        alt="EB1 Filling Experts guiding tech professionals to U.S. residency.">
+                        alt="EB Filing Experts guiding tech professionals to U.S. residency.">
                 </div>
             </div>
         </div>

@@ -6,7 +6,7 @@
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 m-auto">
                 <div class="turing-ai-leverages-inner">
                     <p>
-                        Turing AI leverages big data and advanced artificial intelligence to provide personalized,
+                        AscentAI leverages big data and advanced artificial intelligence to provide personalized,
                         optimized
                         recommendations tailored to your unique qualifications. This revolutionizes the <a
                             href="https://medium.com/@eb1aexperts/ai-powered-eb1a-green-card-help-for-tech-professionals-1b20a5f94e43"

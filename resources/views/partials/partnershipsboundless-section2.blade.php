@@ -28,14 +28,14 @@
                 </div>
             </div>
 
-            <!-- Card 2: Turing AI - Smart Gap & Predictive Analysis -->
+            <!-- Card 2: AscentAI - Smart Gap & Predictive Analysis -->
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 mt-2 mb-2">
                 <div class="ai-advantage-inner">
-                    <img src="{{ asset('assets/images/inner-images/ai-advantage2.png') }}" alt="Turing AI">
-                    <h3>Turing AI: Smart Gap & Predictive Analysis</h3>
+                    <img src="{{ asset('assets/images/inner-images/ai-advantage2.png') }}" alt="AscentAI">
+                    <h3>AscentAI: Smart Gap & Predictive Analysis</h3>
                     <p>
                         <a href="{{ route('turing-ai') }}" target="_blank" class="target-color">
-                            Turing AI
+                            AscentAI
                         </a>
                         identifies weak areas in your profile and predicts potential USCIS concerns before submission.
                         This proactive approach ensures your achievements are framed strategically, reducing risks and

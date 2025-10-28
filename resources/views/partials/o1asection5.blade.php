@@ -4,15 +4,15 @@
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="forward-boundless strategy-leads">
-                    <h2 class="text-center">Where Strategy Leads, Results Follow!</h2>
+                    <h2 class="text-center">Strategic Planning Drives Successful Outcomes</h2>
                     <p class="mb-0 text-center">
-                        While our deep foundation lies in
+                        Though our expertise is rooted in
                         <a href="{{ route('eb1a-visa') }}" class="target-color" target="_blank">
                             EB1A
                         </a>,
-                        we approach every O-1A case with the same standard of strategic clarity, data-driven positioning,
-                        and high-impact storytelling. We don't overstate. We don't generalize. We work with tech professionals
-                        whose profiles already hold weight, and help them align it with the visa that fits their next step.
+                        we bring the same level of strategic precision, evidence-based positioning,
+                        and compelling narrative development to every O-1A petition. We avoid exaggeration and broad claims. Our focus is on tech professionals
+                        with substantial credentials, helping them strategically align their qualifications with the visa pathway that serves their goals.
                     </p>
                 </div>
             </div>

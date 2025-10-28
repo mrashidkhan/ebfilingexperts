@@ -5,32 +5,31 @@
             <!-- Left Column - Image -->
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                 <div class="inner-images">
-                    <img src="{{ asset('assets/images/inner-images/o-1visa2.jpg') }}" alt="Why consider the O-1A Visa?">
+                    <img src="{{ asset('assets/images/inner-images/o-1visa2-new.jpg') }}" alt="Why consider the O-1A Visa?">
                 </div>
             </div>
 
             <!-- Right Column - Content -->
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                 <div class="O-1-visa-title">
-                    <h2>Why consider the O-1A Work Visa?</h2>
+                    <h2>Why choose the O-1A Work Visa?</h2>
 
                     <ul class="O-1-visa-list">
                         <li>
                             <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="H-1B annual caps and lottery hurdles">
-                            To the Tech professionals facing H-1B annual caps and lottery hurdles, O1A visa is a solid
-                            recognition-based path
+                            For tech professionals navigating H-1B quotas and lottery uncertainty, the O-1A visa offers a merit-based alternative
                         </li>
                         <li>
                             <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="F-1 OPT holders in tech">
-                            For F-1 OPT holders in tech with measurable achievements and public visibility
+                            For technology professionals on F-1 OPT status who have demonstrable accomplishments and industry recognition
                         </li>
                         <li>
                             <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Fast processing timelines">
-                            Fast processing timelines and minimal red tape
+                            Expedited processing times and streamlined procedures
                         </li>
                         <li>
                             <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Eligibility rooted in public proof">
-                            Eligibility rooted in public proof, not employer sponsorship
+                            Qualification based on documented achievements, independent of employer backing
                         </li>
                     </ul>
                 </div>

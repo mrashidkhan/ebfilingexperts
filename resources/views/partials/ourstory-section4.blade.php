@@ -1,11 +1,11 @@
-<!-- Why EB1 Filling Experts Stands Out Section -->
+<!-- Why EB Filing Experts Stands Out Section -->
 <section class="features-section experts-stands ptb-60">
     <div class="section-content">
         <div class="container">
             <!-- Section Title -->
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <h2 class="title-heading pb-4 text-center">Why EB1 Filling Experts Stands Out?</h2>
+                    <h2 class="title-heading pb-4 text-center">Why EB Filing Experts Stands Out?</h2>
                 </div>
             </div>
 
@@ -16,7 +16,7 @@
                     <div class="features-item-style1">
                         <div class="features-inner">
                             <div class="features-shape">
-                                <img src="{{ asset('assets/images/objects/6.png') }}" alt="Why EB1 Filling Experts Stands Out" />
+                                <img src="{{ asset('assets/images/objects/6.png') }}" alt="Why EB Filing Experts Stands Out" />
                             </div>
                             <div class="features-count"></div>
                             <img src="{{ asset('assets/images/inner-images/Experts-Stands1.png') }}"

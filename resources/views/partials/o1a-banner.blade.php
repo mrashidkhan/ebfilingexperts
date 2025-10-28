@@ -4,10 +4,10 @@
         <div class="row">
           <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12 m-auto">
             <div class="banner-inner">
-              <h1> O-1A Work Visa: The strategic step for recognized Tech Professionals
+              <h1> O-1A Work Visa: The Smart Pathway for Accomplished Tech Professionals
               </h1>
               <h2>
-                Secure Your O-1A Visa and Let Your Achievements Open Doors to the U.S.
+                Obtain Your O-1A Visa and Allow Your Accomplishments to Unlock U.S. Opportunities
               </h2>
               <div class="home3-btn-group btn-padding">
                 <a href="{{ route('contactus') }}#calendar" class="theme-btn-1 mrr-15">

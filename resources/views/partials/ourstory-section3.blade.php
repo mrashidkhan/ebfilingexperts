@@ -10,11 +10,11 @@
             <div class="col-md-12 col-lg-8 col-xl-6 wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                 <div class="about-image-box-style1 dot-circle mrb-lg-60">
                     <img class="about-image1 img-full js-tilt d-none d-md-block d-lg-block d-xl-block"
-                        src="{{ asset('assets/images/about/about-sm2.jpg') }}"
+                        src="{{ asset('assets/images/about/about-sm2-new.jpg') }}"
                         alt="collaborating on success strategies" />
                     <img class="about-image2 img-full"
-                        src="{{ asset('assets/images/about/about-lg2.jpg') }}"
-                        alt="EB1 Filling Experts team" />
+                        src="{{ asset('assets/images/about/about-lg2-new.jpg') }}"
+                        alt="EB Filing Experts team" />
                 </div>
             </div>
 
@@ -30,7 +30,7 @@
                 <p class="mb-1">
                     At
                     <a href="{{ route('index') }}" target="_blank" class="target-color">
-                        EB1 Filling Experts
+                        EB Filing Experts
                     </a>,
                     it's about enabling talented people to advance careers, achieve ambitions, and build meaningful lives.
                 </p>

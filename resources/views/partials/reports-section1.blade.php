@@ -5,10 +5,10 @@
             <!-- Annual Report Card -->
             <div class="col-lg-4 col-md-4 col-sm-12">
                 <div class="webinar-inner">
-                    <img src="{{ asset('assets/images/inner-images/Annual-Report-2024.jpg') }}" alt="EB1 Filling Experts Annual Report 2024">
+                    <img src="{{ asset('assets/images/inner-images/Annual-Report-2024.jpg') }}" alt="EB Filing Experts Annual Report 2024">
                     <div class="webinar-sub">
-                        <h4 class="webinar-title">EB1 Filling Experts Annual Report 2024</h4>
-                        <p>Explore EB1 Filling Experts' 2024 Year in Review, highlighting achievements, initiatives, and collaborations.</p>
+                        <h4 class="webinar-title">EB Filing Experts Annual Report 2024</h4>
+                        <p>Explore EB Filing Experts' 2024 Year in Review, highlighting achievements, initiatives, and collaborations.</p>
                         <div class="txt_below">
                             <a class="main_post_link_btn" href="{{ route('annual-report-2024') }}" title="" target="_blank">
                                 Download Report

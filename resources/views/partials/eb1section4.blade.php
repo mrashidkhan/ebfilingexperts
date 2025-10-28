@@ -1,16 +1,16 @@
-<!-- Why Choose EB1 Filling Experts Section -->
+<!-- Why Choose EB Filing Experts Section -->
 <section class="forward-boundless ptb-60">
     <div class="container">
         <!-- Section Title -->
         <div class="row mb-3">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="forward-boundless">
-                    <h2 class="text-center">Why are EB1 Filling Experts the Right Choice?</h2>
+                    <h2 class="text-center">Why Choose EB Filing Experts?</h2>
                     <p class="mb-0 text-center">
-                        Fulfilling the EB1A requirements is merely the starting point—what genuinely counts is how your qualifications are organized and showcased. EB1 Filling Experts guarantee your accomplishments are highlighted for optimal approval potential.
+                        Meeting the EB1A criteria is just the first step—the real difference lies in how effectively your credentials are presented and structured. EB Filing Experts ensure your achievements are strategically positioned to maximize your chances of approval.
                     </p>
                     <p class="mb-0 text-center">
-                        Here's why top-tier <b>technology experts rely on EB1 Filling Experts:</b>
+                        Discover why leading <b>tech professionals choose EB Filing Experts:</b>
                     </p>
                 </div>
             </div>
@@ -28,18 +28,18 @@
                                     <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="AI-Driven Profile Optimization">
                                     <b>
                                         <a href="{{ route('turing-ai') }}" target="_blank" class="target-color">
-                                            Intelligent Qualification Enhancement
+                                            Strategic Credential Optimization
                                         </a>
                                     </b>
-                                    – Turing AI strengthens all dimensions of your credentials to showcase outstanding talent persuasively.
+                                    – AscentAI enhances every aspect of your profile to compellingly demonstrate exceptional expertise.
                                 </li>
                                 <li>
     <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Evidence-Based Analysis">
-    <b>Evidence-Based Analysis</b> – Our AI technology evaluates your profile against approved EB1A applications to enhance your candidacy.
+    <b>Evidence-Based Analysis</b> – Our AI analyzes your credentials against successful EB1A cases to strengthen your application.
 </li>
                                 <li>
     <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Customized Approach">
-    <b>Customized Approach & Application Development</b> – Professional guidance aligned with USCIS requirements guarantees the most compelling submission.
+    <b>Tailored Strategy & Petition Preparation</b> – Expert support aligned with USCIS standards ensures the strongest possible application.
 </li>
                             </ul>
                         </div>
@@ -51,15 +51,15 @@
                             <ul class="text-left">
                                 <li>
     <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Compelling Reference Endorsements">
-    <b>Compelling Reference Endorsements</b> – Designed to demonstrate your sector prominence and distinctive achievements.
+    <b>Compelling Reference Endorsements</b> – Crafted to highlight your industry leadership and exceptional accomplishments.
 </li>
                                 <li>
     <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Integrated Attorney Partnership">
-    <b>Integrated Attorney Partnership with Boundless</b> – Guaranteeing accurate paperwork and professional submission.
+    <b>Seamless Legal Collaboration with Boundless</b> – Ensuring precise documentation and expert filing.
 </li>
 <li>
     <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Round-the-Clock Assistance">
-    <b>Round-the-Clock Support & Personal Case Advisor</b> – Full guidance throughout your EB1A process.
+    <b>24/7 Assistance & Dedicated Case Manager</b> – Comprehensive support at every stage of your EB1A journey.
 </li>
                             </ul>
                         </div>
@@ -70,7 +70,7 @@
                         <div class="btn-padding">
                             <div class="d-inline align-items-center mt-40">
                                 <a href="{{ route('contactus') }}#calendar" class="theme-btn-1 mrr-40 mrb-sm-20">
-                                    Let us guide you to approval!
+                                    Let us lead you to success!
                                     <i class="base-icon-next"></i>
                                 </a>
                             </div>

@@ -25,7 +25,7 @@
                                               <div>
                                                   <div class="text_image">
                                                       <h2 class="slider-text">
-                                                          Accelerate Your Green Card Journey<br>with EB1 Filling Experts Support
+                                                          Accelerate Your Green Card Journey<br>with EB Filing Experts Support
                                                       </h2>
                                                       <h2 class="pt-2 pb-2 inner-heading">We empower tech professionals in obtaining their EB1A Green Card through professional guidance and personalized support. </h2>
                                                       <div class="">

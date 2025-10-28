@@ -79,7 +79,7 @@
                   <div class="testimonial-info">
 
                     <p class="">
-                      Partnering with EB1 Filing Experts was transformative for my immigration journey. Mohammad's team excelled at identifying and strategically presenting my professional accomplishments to demonstrate the "original contribution" criterion—particularly impressive given I didn't have patents to rely on. Their combination of strategic insight and operational efficiency delivered results faster than I anticipated.
+                      Partnering with EB Filing Experts was transformative for my immigration journey. Mohammad's team excelled at identifying and strategically presenting my professional accomplishments to demonstrate the "original contribution" criterion—particularly impressive given I didn't have patents to rely on. Their combination of strategic insight and operational efficiency delivered results faster than I anticipated.
                     </p>
                     <div class="autho-info">
                       <div class="author-name">
@@ -100,7 +100,7 @@
                   <div class="testimonial-info">
                     <!-- <h4>They work at a very high speed.</h4> -->
                     <p class="">
-                      EB1 Filing Experts demonstrates unwavering commitment to excellence. From our initial consultation through final approval, their team delivered exceptional professionalism and deep expertise. They skillfully articulate professional achievements in ways that create genuine impact. Their efficient execution and streamlined process made the entire experience remarkably smooth.
+                      EB Filing Experts demonstrates unwavering commitment to excellence. From our initial consultation through final approval, their team delivered exceptional professionalism and deep expertise. They skillfully articulate professional achievements in ways that create genuine impact. Their efficient execution and streamlined process made the entire experience remarkably smooth.
                     </p>
                     <div class="autho-info">
                       <div class="author-name">

@@ -16,7 +16,7 @@
                                                 alt="General-Information-w" class="faqs-b">
                                             <img src="{{ asset('assets/images/inner-images/General-Information-b.png') }}"
                                                 alt="General-Information-b" class="faqs-w">
-                                            Getting Started
+                                            Begin Your Journey
                                         </button>
                                     </li>
 
@@ -150,61 +150,35 @@
                                             <h2>Getting Started</h2>
                                             <div class="wrapper">
                                                 <div class="container">
-                                                    <div class="question">Why is a dedicated email address important?
+                                                    <div class="question">Why should you set up a separate email account?
                                                     </div>
                                                     <div class="answercont">
-                                                        <div class="answer">A dedicated email ensures better
-                                                            organization
-                                                            and oversight of your immigration application process. It
-                                                            prevents
-                                                            important notifications from being overlooked and keeps
-                                                            everything
-                                                            in one secure location.</div>
+                                                        <div class="answer">A separate email guarantees complete control over your immigration process. It dramatically cuts down on missed notifications and provides one secure, organized hub for all application-related communication.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Can a single profile work for both EB1B and
+                                                    <div class="question">Can the same professional background be used for both EB-1B and
                                                         <a href="{{ route('eb1a-visa') }}" target="_blank"
                                                             style="padding-left: 6px;" class="target-color">EB1A</a>?
                                                     </div>
                                                     <div class="answercont">
-                                                        <div class="answer">Profile content can be adapted for both
-                                                            categories
-                                                            since they share comparable standards. However, EB1A
-                                                            requires meeting
-                                                            three
-                                                            href="https://medium.com/@eb1aexperts/understanding-the-criteria-for-eb-1a-how-to-demonstrate-extraordinary-ability-565b36b31995"
-                                                            target="_blank" class="target-color">requirements</a>,
-                                                            whereas EB1B only requires satisfying two.</div>
+                                                        <div class="answer">Your profile can be adapted for both EB-1A and EB-1B petitions because they share comparable standards. The key difference is the required proof: EB-1A demands that you meet three criteria, while EB-1B only requires two.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Which salary figure is used for
-                                                        comparison—gross
-                                                        or W-2 earnings?</div>
+                                                    <div class="question">For salary comparisons, should I use my gross pay or my W-2 income?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">W-2 earnings are the standard measure. For
-                                                            self-employed professionals and business owners without W-2
-                                                            forms,
-                                                            alternative documentation like 1099s, K-1s (from
-                                                            partnerships), or
-                                                            corporate income statements demonstrate comparable earnings.
+                                                        <div class="answer">While W-2 earnings are the typical benchmark, professionals and business owners who lack W-2 forms can still demonstrate their income. You should provide comparable documentation, including 1099s, partnership K-1s, or official corporate income statements.
                                                         </div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Can a recommender's workplace address appear
-                                                        in
-                                                        the letter header, or must a personal address be included?</div>
+                                                    <div class="question">For the letterhead, is a recommender's work address acceptable, or is a home address mandatory?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">Either workplace or personal contact
-                                                            information is
-                                                            suitable, as long as USCIS can reach the recommender at the
-                                                            listed
-                                                            location.</div>
+                                                        <div class="answer">Either the recommender's workplace or personal contact information is acceptable. The primary requirement is that USCIS must be able to reliably reach the recommender at the address provided.</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -220,96 +194,62 @@
                                             <h2>Recognition</h2>
                                             <div class="wrapper">
                                                 <div class="container">
-                                                    <div class="question">How many recognition honors should be
-                                                        featured?
+                                                    <div class="question">What is the ideal number of honors and awards to include?
                                                     </div>
                                                     <div class="answercont">
-                                                        <div class="answer">Three to four honors are typically
-                                                            recommended for
-                                                            inclusion.</div>
+                                                        <div class="answer">You should typically feature three to four recognition honors in your application.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">How many recognition options will be
-                                                        available
-                                                        for selection?</div>
+                                                    <div class="question">How many types of recognition can we choose from?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">A list of approximately 20-25 options will
-                                                            be
-                                                            provided, from which you can select three to four.</div>
+                                                        <div class="answer">You will be given a list of approximately 20 to 25 options for recognition, and you should select three to four from that list.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Do global honors strengthen an application?
+                                                    <div class="question">How much do international awards boost an application?
                                                     </div>
                                                     <div class="answercont">
-                                                        <div class="answer">Absolutely. International recognition
-                                                            enhances your
-                                                            case significantly, particularly if it reflects worldwide
-                                                            prominence
-                                                            and significance.</div>
+                                                        <div class="answer">Yes, absolutely. International recognition significantly strengthens your case, especially when it demonstrates worldwide prominence and significance in your field.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Is documentation of award specifics required,
-                                                        or
-                                                        is a summary sufficient?</div>
+                                                    <div class="question">Do I need to submit detailed documentation for each award, or is a brief summary enough?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">Full documentation is necessary, including
-                                                            award
-                                                            certificates, eligibility standards, and background
-                                                            information
-                                                            establishing the honor's standing.</div>
+                                                        <div class="answer">Full documentation is required—a summary isn't enough. You must include the award certificate, details on the eligibility standards, and background information that establishes the honor's standing and significance.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Can regional or small-scale recognitions be
-                                                        included?</div>
+                                                    <div class="question">Are regional or local awards eligible for inclusion in the application?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">Regional recognitions can be included,
-                                                            particularly
-                                                            if they demonstrate relevance to your discipline and
-                                                            acknowledge
-                                                            standing within your sector.</div>
+                                                        <div class="answer">Regional recognitions are acceptable, especially when they clearly demonstrate relevance to your specific discipline and affirm your standing within that sector.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Can honors obtained after EB1A submission be
-                                                        incorporated?</div>
+                                                    <div class="question">Can new awards or honors received after filing the EB-1A be added to the petition?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">After filing, new honors cannot be included
-                                                            unless
-                                                            the petition is being resubmitted.</div>
+                                                        <div class="answer">Any honors received after filing cannot be incorporated into your current EB-1A petition. You would need to resubmit your entire application to include the new evidence.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Should selection methodology or judging
-                                                        standards be
-                                                        documented?</div>
+                                                    <div class="question">Do I need to submit documentation detailing the award's judging criteria or selection methodology?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">Yes, supplying evaluation criteria or
-                                                            selection
-                                                            standards enhances the credibility of your recognition.
+                                                        <div class="answer">Yes. Supplying the evaluation criteria or selection standards significantly enhances the credibility of your honor and strengthens your application.
                                                         </div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Which forms of recognition are most
-                                                        compelling?
+                                                    <div class="question">Which types of honors and awards carry the most weight in the application?
                                                     </div>
                                                     <div class="answercont">
-                                                        <div class="answer">Globally recognized honors and those
-                                                            involving a
-                                                            rigorous selection process are especially persuasive for
-                                                            EB1A
-                                                            submissions.</div>
+                                                        <div class="answer">The most compelling recognition for EB-1A submissions includes globally recognized honors and awards that involve a rigorous selection process.</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -325,62 +265,38 @@
                                             <h2>Expert Review</h2>
                                             <div class="wrapper">
                                                 <div class="container">
-                                                    <div class="question">How is content selected for recognition
-                                                        href="{{ route('index', 'judging-panels-awards-how-they-strengthen-your-eb1a-petition') }}"
-                                                        target="_blank" class="target-color"
-                                                        style="padding-left: 6px;padding-right: 6px;">evaluation</a>?
+                                                    <div class="question">What criteria are used to determine the content for judging an award?
                                                     </div>
                                                     <div class="answercont">
-                                                        <div class="answer">Selection is determined by how well content
-                                                            aligns
-                                                            with and demonstrates expertise within your specialty.</div>
+                                                        <div class="answer">Content for awards judging is selected based on its alignment with and demonstration of your specific expertise in your specialty.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">How does serving as an expert evaluator at
-                                                        conferences or competitions enhance an EB1A petition?</div>
+                                                    <div class="question">What is the strategic value of being a reviewer/judge for an EB-1A application?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">It establishes technical authority and peer
-                                                            acknowledgment, demonstrating that professionals in your
-                                                            sector
-                                                            recognize your knowledge.</div>
+                                                        <div class="answer">Serving as an expert evaluator establishes your technical authority and peer acknowledgment. It demonstrates that leading professionals in your field recognize and rely on your expertise.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Is documentation of evaluation invitations
-                                                        necessary?</div>
+                                                    <div class="question">Is it required to submit the formal invitations for judging or reviewing?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">Yes, supporting documentation such as
-                                                            invitation
-                                                            messages, formal requests, or conference records should be
-                                                            provided.</div>
+                                                        <div class="answer">Yes, supporting documentation is required. You should provide evidence such as invitation messages, formal requests, or official conference records to verify your role as an expert evaluator.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">How can the caliber of an evaluated
-                                                        conference be
-                                                        established?</div>
+                                                    <div class="question">What evidence demonstrates the prestige of the conference being evaluated?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">Including information on the event's scale,
-                                                            significance, and level of attendees strengthens its
-                                                            perceived
-                                                            value.</div>
+                                                        <div class="answer">You establish the conference's quality by including details about its scale, overall significance, and the caliber of its attendees. This information strengthens its perceived value.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Is evaluation experience from smaller or
-                                                        local
-                                                        conferences valuable?</div>
+                                                    <div class="question">How much weight does expert evaluation from regional events carry?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">Local conferences do have merit, but
-                                                            larger,
-                                                            better-known events carry more significance. Smaller events
-                                                            can
-                                                            still be beneficial when appropriately contextualized.</div>
+                                                        <div class="answer">While local conferences have merit, larger and more widely recognized events carry greater significance. Smaller evaluation experience is still valuable, especially when its context and importance are clearly demonstrated.</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -396,84 +312,52 @@
                                             <h2>Professional Standing</h2>
                                             <div class="wrapper">
                                                 <div class="container">
-                                                    <div class="question">What timeframe applies to
-                                                        href="https://medium.com/@eb1aexperts/eb1a-green-card-confiscating-membership-criteria-9de593544c4a"
-                                                        target="_blank" class="target-color"
-                                                        style="padding-left: 6px;padding-right: 6px;">professional
-                                                        enrollment</a>
-                                                        approvals?</div>
+                                                    <div class="question">How long does it take to get approval for professional enrollment?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">Processing times differ by organization.
-                                                            Standard
-                                                            organizations typically require 1-4 weeks, while others like
-                                                            BCS
-                                                            may take 2-3 months.</div>
+                                                        <div class="answer">Processing times vary widely by organization. Standard professional bodies typically take 1 to 4 weeks for approval, but more specialized organizations, such as BCS, may require 2 to 3 months.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Must a recommender for BCS enrollment be an
-                                                        existing BCS participant?</div>
+                                                    <div class="question">Is BCS membership required for a professional to serve as a recommender?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">No, the recommender does not need current
-                                                            BCS
-                                                            participation.</div>
+                                                        <div class="answer">No, the recommender is not required to be a current BCS participant.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">What role do professional affiliations play
-                                                        in
-                                                        strengthening EB1A cases?</div>
+                                                    <div class="question">How do professional memberships enhance or strengthen an EB-1A petition?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">Professional affiliations demonstrate
-                                                            sector
-                                                            acknowledgment and establish your standing within your
-                                                            industry.</div>
+                                                        <div class="answer">Professional affiliations are vital because they demonstrate sector acknowledgment and clearly establish your standing within your industry.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Do positions on editorial boards qualify as
-                                                        valid
-                                                        EB1A memberships?</div>
+                                                    <div class="question">Does an editorial board position qualify as evidence under the EB-1A membership criterion?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">Yes, editorial board roles are recognized
-                                                            under the
-                                                            membership criterion.</div>
+                                                        <div class="answer">Absolutely. Serving on an editorial board qualifies as valid evidence under the EB-1A membership criterion.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Should an applicant maintain active
-                                                        engagement in
-                                                        professional organizations?</div>
+                                                    <div class="question">How important is active involvement in professional organizations for an applicant?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">Active engagement, particularly in
-                                                            leadership
-                                                            positions, carries more weight than passive participation.
+                                                        <div class="answer">Active involvement is much more valuable than passive membership, particularly when it includes holding leadership roles.
                                                         </div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Can professional affiliations from abroad be
-                                                        featured?</div>
+                                                    <div class="question">Are international or foreign professional memberships acceptable as evidence in my application?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">Global affiliations can be included,
-                                                            provided the
-                                                            organization carries credibility within the industry.</div>
+                                                        <div class="answer">International affiliations are included, provided the organization possesses established industry credibility.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Are digital affiliations or web-based
-                                                        credentials
-                                                        acceptable?</div>
+                                                    <div class="question">Do digitally-based affiliations or web credentials qualify as valid evidence?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">Only legitimate professional affiliations
-                                                            count,
-                                                            whether conducted online or in person.</div>
+                                                        <div class="answer">Only legitimate professional affiliations are counted, regardless of whether the participation is online or in-person.</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -489,78 +373,57 @@
                                             <h2>Publications</h2>
                                             <div class="wrapper">
                                                 <div class="container">
-                                                    <div class="question">Are university-authored publications
-                                                        acceptable
-                                                        for use?</div>
+                                                    <div class="question">Do publications authored by a university qualify as acceptable evidence?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">Yes, university publications are valid if
-                                                            they
-                                                            maintain relevance to your current area of specialization.
+                                                        <div class="answer">Yes, university publications are valid, provided they maintain relevance to your current specialization.
                                                         </div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">How many research contributions typically
-                                                        meet EB1A
-                                                        standards?</div>
+                                                    <div class="question">What is the minimum or ideal number of research contributions needed for EB-1A eligibility?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">Approximately four pieces are typically
-                                                            prepared
-                                                            for submission.</div>
+                                                        <div class="answer">Applicants typically prepare approximately four pieces for submission.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Where do professional publications appear?
+                                                    <div class="question">What types of outlets publish professional research/work?
                                                     </div>
                                                     <div class="answercont">
-                                                        <div class="answer">They are placed in respected, high-impact
-                                                            publications to strengthen the overall submission.</div>
+                                                        <div class="answer">Professional publications are featured in respected, high-impact outlets to enhance the strength of the submission.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Why is journal ranking significance?
+                                                    <div class="question">Why is the ranking of a journal important?
                                                     </div>
                                                     <div class="answercont">
-                                                        <div class="answer">A higher journal ranking increases the
-                                                            credibility
-                                                            and influence of your published work.</div>
+                                                        <div class="answer">A better journal ranking directly boosts the credibility and influence of your publications.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Are publications without peer review viable?
+                                                    <div class="question">Are non-peer-reviewed publications acceptable (as evidence)?
                                                     </div>
                                                     <div class="answercont">
-                                                        <div class="answer">Peer-reviewed venues are strongly
-                                                            preferred, though
-                                                            contributions in respected non-peer-reviewed platforms may
-                                                            still
-                                                            offer value.</div>
+                                                        <div class="answer">Peer-reviewed publications are strongly preferred. However, contributions in respected, non-peer-reviewed venues may still be valuable evidence.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">How should publication impact be
-                                                        communicated?
+                                                    <div class="question">What is the best way to demonstrate the impact of my publications?
                                                     </div>
                                                     <div class="answercont">
-                                                        <div class="answer">Emphasize placement in prestigious venues
-                                                            and
-                                                            reference journal standing metrics.</div>
+                                                        <div class="answer">You should highlight publications in prestigious venues and include metrics that reference the journal's official standing/ranking.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Should complete publication texts be
-                                                        submitted?
+                                                    <div class="question">Is it necessary to submit the complete text of my publications?
                                                     </div>
                                                     <div class="answercont">
-                                                        <div class="answer">Complete texts or verified publication
-                                                            links must
-                                                            be provided.</div>
+                                                        <div class="answer">You must provide either the complete publication texts or verified links to the publications.</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -576,71 +439,45 @@
                                             <h2>Press</h2>
                                             <div class="wrapper">
                                                 <div class="container">
-                                                    <div class="question">Which platforms publish
-                                                        href="{{ route('index', 'judging-panels-awards-how-they-strengthen-your-eb1a-petition') }}"
-                                                        class="target-color" target="_blank"
-                                                        style="padding-left: 6px;padding-right: 6px;">press
-                                                        articles</a>?</div>
+                                                    <div class="question">Where are press articles typically published?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">Popular outlets include <b>IBTimes India,
-                                                                Tech
-                                                                Bullion, and Analytics Insight.</b></div>
+                                                        <div class="answer">Common platforms for press articles include IBTimes India, Tech Bullion, and Analytics Insight.</b></div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Can publication dates be altered after the
-                                                        fact?
+                                                    <div class="question">Can a publication's date be modified after it has already been published?
                                                     </div>
                                                     <div class="answercont">
-                                                        <div class="answer">Modifying publication dates is inadvisable
-                                                            due to
-                                                            ethical and legal implications.</div>
+                                                        <div class="answer">Modifying publication dates is strongly discouraged because it raises serious ethical and legal issues.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">In what ways do press features support EB1A
-                                                        applications?</div>
+                                                    <div class="question">How do media or press features strengthen an EB-1A petition?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">Press coverage demonstrates industry
-                                                            recognition and
-                                                            validates your professional standing.</div>
+                                                        <div class="answer">Press coverage is vital because it validates your professional standing and demonstrates widespread industry recognition.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">How should the significance of press coverage
-                                                        be
-                                                        demonstrated?</div>
+                                                    <div class="question">How do I document and showcase the value of my media features?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">Include engagement figures like traffic,
-                                                            social
-                                                            shares, and citations from recognized sources to strengthen
-                                                            credibility.</div>
+                                                        <div class="answer">To strengthen credibility, include engagement figures such as website traffic, social shares, and citations from recognized sources.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Can self-authored blogs or online posts be
-                                                        included?</div>
+                                                    <div class="question">Do my personal blog articles or self-published online posts count as valid evidence?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">While third-party publications are more
-                                                            persuasive,
-                                                            self-published content with significant engagement can serve
-                                                            as
-                                                            supporting material.</div>
+                                                        <div class="answer">Third-party publications carry more weight. However, self-published content can still serve as useful supporting material if it demonstrates significant audience engagement.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Can press coverage in non-English languages
-                                                        be
-                                                        used?</div>
+                                                    <div class="question">Is press coverage published in a non-English language acceptable?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">International press is acceptable, but
-                                                            translations
-                                                            or abstracts must accompany it.</div>
+                                                        <div class="answer">International press coverage is acceptable, provided it is accompanied by translations or abstracts.</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -653,70 +490,53 @@
                                     aria-labelledby="support-letters-tab">
                                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                         <div class="faqs ptb-30">
-                                            <h2>Endorsements</h2>
+                                            <h2>Recommendations</h2>
                                             <div class="wrapper">
                                                 <div class="container">
-                                                    <div class="question">How many endorsement letters are recommended?
+                                                    <div class="question">What is the suggested number of recommendation letters?
                                                     </div>
                                                     <div class="answercont">
-                                                        <div class="answer">A total of 6-8 letters is suggested, with a
-                                                            minimum
-                                                            of 4 from direct professional relationships.</div>
+                                                        <div class="answer">It's recommended you submit a total of 6 to 8 endorsement letters. Make sure at least 4 of these are from direct professional contacts.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Who should compose
-                                                        href="{{ route('index', 'the-role-of-expert-letters-in-eb1a-how-to-make-every-word-count') }}"
-                                                        target="_blank" class="target-color"
-                                                        style="padding-left: 6px;padding-right:2px;">endorsement
-                                                        letters</a>?</div>
+                                                    <div class="question">Who is qualified to write letters of endorsement?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">Industry specialists, supervisors, or
-                                                            colleagues
-                                                            with firsthand knowledge of your professional achievements.
+                                                        <div class="answer">Endorsements should come from industry specialists, supervisors, or colleagues who can personally attest to your accomplishments.
                                                         </div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Can global specialists provide endorsement
-                                                        letters?
+                                                    <div class="question">Are letters of endorsement from international specialists acceptable?
                                                     </div>
                                                     <div class="answercont">
-                                                        <div class="answer">Yes, international endorsements are
-                                                            highly valuable,
-                                                            especially when they document global influence.</div>
+                                                        <div class="answer">International endorsements are highly valuable, particularly when they document the applicant's global influence.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Is official company letterhead required?
+                                                    <div class="question">Is official letterhead mandatory for the recommendation letters?
                                                     </div>
                                                     <div class="answercont">
-                                                        <div class="answer">While preferred, personal stationery with
-                                                            complete
-                                                            contact information is also permissible.</div>
+                                                        <div class="answer">While official letterhead is preferred, letters written on personal stationery are also permissible, provided they include complete contact information.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">Are electronic signatures acceptable?
+                                                    <div class="question">Are e-signatures considered valid for this purpose?
                                                     </div>
                                                     <div class="answercont">
-                                                        <div class="answer">Yes, but avoid DocuSign. A standard PDF
-                                                            editor
-                                                            signature is fine.</div>
+                                                        <div class="answer">Yes, electronic signatures are fine. Just be sure to avoid DocuSign and use a signature generated by a standard PDF editor instead.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">How current should endorsement letters be?
+                                                    <div class="question">What is the maximum acceptable age for an endorsement letter?
                                                     </div>
                                                     <div class="answercont">
-                                                        <div class="answer">Letters should be dated within 4-6
-                                                            months of your
-                                                            petition filing.</div>
+                                                        <div class="answer">The endorsement letters should be dated no earlier than four to six months before you file your petition.</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -729,27 +549,20 @@
                                     aria-labelledby="attorney-petition-tab">
                                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                         <div class="faqs ptb-30">
-                                            <h2>Legal Filing</h2>
+                                            <h2>Formal Documentation</h2>
                                             <div class="wrapper">
                                                 <div class="container">
-                                                    <div class="question">At what stage does the
-                                                        attorney begin?</div>
+                                                    <div class="question">When should the attorney start work on the case?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">The attorney joins after
-                                                            endorsements and initial
-                                                            documentation are finalized.</div>
+                                                        <div class="answer">The attorney begins work after you have finalized all endorsements and initial documentation.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">What is the timeline for
-                                                        petition completion?
+                                                    <div class="question">How long does it typically take to complete the petition?
                                                     </div>
                                                     <div class="answercont">
-                                                        <div class="answer">The attorney typically
-                                                            requires 3-4 weeks for
-                                                            drafting, then 1-2 weeks for submission
-                                                            preparation.</div>
+                                                        <div class="answer">The entire process, from drafting to final preparation, typically requires the attorney 5 to 6 weeks (3–4 weeks for drafting plus 1–2 weeks for submission prep).</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -765,8 +578,7 @@
                                             <h2>Investment</h2>
                                             <div class="wrapper">
                                                 <div class="container">
-                                                    <div class="question">What additional expenses
-                                                        should be anticipated?
+                                                    <div class="question">What other costs or fees should I expect?
                                                     </div>
                                                     <div class="answercont">
                                                         <div class="answer">
@@ -799,25 +611,21 @@
                                         <div class="faqs discounts-available-main ptb-30">
                                             <div class="wrapper">
                                                 <div class="container">
-                                                    <div class="question">Are cost reductions
-                                                        available?</div>
+                                                    <div class="question">Are there any discounts or lower fees available?</div>
                                                     <div class="answercont">
-                                                        <div class="answer">Yes, reductions range
-                                                            from <b>5%-20%</b>
-                                                            based on referrals and multiple
-                                                            applicants.</div>
+                                                        <div class="answer">Yes, fee reductions are possible, typically ranging from <b>5% to 20% </b>, depending on client referrals or the involvement of multiple applicants.</div>
                                                     </div>
                                                 </div>
 
                                                 <div class="container">
-                                                    <div class="question">What is the approval rate?
+                                                    <div class="question">What is the historical success rate?
                                                     </div>
                                                     <div class="answercont">
                                                         <div class="answer">
                                                             <ul>
-                                                                <li>Initial submissions: <b>80 -
+                                                                <li>First Filing: <b>80 -
                                                                         90%</b></li>
-                                                                <li>Resubmissions following RFE:
+                                                                <li>Responding to the RFE (Request for Evidence):
                                                                     <b>7%+</b>
                                                                 </li>
                                                             </ul>

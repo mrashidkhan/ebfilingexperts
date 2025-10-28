@@ -7,21 +7,13 @@
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="O-1-visa-title">
                     <h2 class="text-center">
-                        <a href="https://medium.com/@eb1aexperts/understanding-the-uscis-eb1a-criteria-a-comprehensive-guide-to-building-a-strong-eb1a-profile-b6a40c48843d"
-                            class="target-color"
-                            target="_blank">
-                            Eligibility Criteria
-                        </a>
+                        
+                            Qualification Requirements
+                        
                     </h2>
 
                     <p class="text-center mt-2">
-                        USCIS requires that applicants meet at least 3 of 8
-                        <a href="{{ route('case-studies') }}"
-                            class="target-color"
-                            target="_blank">
-                            criteria
-                        </a>.
-                        For Tech & Non-Professionals, we offer services for below 7 criteria:
+                        USCIS mandates applicants satisfy a minimum of 3 out of 8 criteria. For Technology & Business Professionals, we provide support across the following 7 criteria:
                     </p>
 
                     <!-- Criteria Cards Grid -->
@@ -32,8 +24,8 @@
                                 <div class="o-1-visa-list-box-img">
                                     <img src="{{ asset('assets/images/inner-images/o-1visa-icon2.png') }}" alt="High Compensation">
                                 </div>
-                                <h5>High Compensation</h5>
-                                <p>Salaries, equity, or consulting rates above industry averages</p>
+                                <h5>Elevated Salary</h5>
+                                <p>Compensation, stock options, or consulting fees exceeding industry standards</p>
                             </div>
                         </div>
 
@@ -47,10 +39,10 @@
                                     <a href="{{ route('case-studies') }}"
                                         class="target-color"
                                         target="_blank">
-                                        Judging Invitations
+                                        Judging Opportunities
                                     </a>
                                 </h5>
-                                <p>Conference panels, pitch events, or research review boards</p>
+                                <p>Industry panels, startup competitions, or academic review committees</p>
                             </div>
                         </div>
 
@@ -60,8 +52,8 @@
                                 <div class="o-1-visa-list-box-img">
                                     <img src="{{ asset('assets/images/inner-images/o-1visa-icon4.png') }}" alt="Original Contributions">
                                 </div>
-                                <h5>Original Contributions</h5>
-                                <p>Building recognized tools, frameworks, or models</p>
+                                <h5>Innovative Contributions</h5>
+                                <p>Creating acclaimed tools, frameworks, or systems</p>
                             </div>
                         </div>
 
@@ -71,8 +63,8 @@
                                 <div class="o-1-visa-list-box-img">
                                     <img src="{{ asset('assets/images/inner-images/o-1visa-icon5.png') }}" alt="Critical Roles">
                                 </div>
-                                <h5>Critical Roles</h5>
-                                <p>Leading teams or core initiatives in respected companies</p>
+                                <h5>Essential Positions</h5>
+                                <p>Directing teams or key projects at prominent organizations</p>
                             </div>
                         </div>
 
@@ -82,8 +74,8 @@
                                 <div class="o-1-visa-list-box-img">
                                     <img src="{{ asset('assets/images/inner-images/o-1visa-icon6.png') }}" alt="Published Work">
                                 </div>
-                                <h5>Published Work</h5>
-                                <p>Research papers, technical articles, or whitepapers</p>
+                                <h5>Published Research</h5>
+                                <p>Academic papers, industry articles, or technical reports</p>
                             </div>
                         </div>
 
@@ -93,8 +85,8 @@
                                 <div class="o-1-visa-list-box-img">
                                     <img src="{{ asset('assets/images/inner-images/o-1visa-icon7.png') }}" alt="Selective Memberships">
                                 </div>
-                                <h5>Selective Memberships</h5>
-                                <p>Affiliations that require proof of excellence</p>
+                                <h5>Exclusive Memberships</h5>
+                                <p>Organizations requiring demonstrated achievement</p>
                             </div>
                         </div>
 
@@ -104,8 +96,8 @@
                                 <div class="o-1-visa-list-box-img">
                                     <img src="{{ asset('assets/images/inner-images/o-1visa-icon8.png') }}" alt="Industry Impact">
                                 </div>
-                                <h5>Industry Impact</h5>
-                                <p>Influence shown through public adoption or peer validation</p>
+                                <h5>Sector Influence</h5>
+                                <p>Impact demonstrated through widespread adoption or professional recognition</p>
                             </div>
                         </div>
                     </div>

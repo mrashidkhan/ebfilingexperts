@@ -8,15 +8,14 @@
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="your-green-card-inner">
                     <h2>
-                        The
+                        
                         <a href="{{ route('o1avisa') }}" class="target-color" target="_blank">
-                            O1A Work Visa
+                            O-1A Employment Visa
                         </a>
-                        – A Prestigious Path for Proven Tech Talent
+                        – An Elite Route for Established Technology Professionals
                     </h2>
                     <p class="text-center mt-2">
-                        The O-1A visa is a U.S. nonimmigrant visa reserved for professionals who've earned significant
-                        recognition in their domain, whether in building, innovating, or leading.
+                        The O-1A visa is a U.S. temporary work visa designed for professionals who have achieved notable distinction in their field through development, innovation, or leadership.
                     </p>
                 </div>
             </div>
@@ -27,25 +26,23 @@
             <!-- Left Column -->
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                 <div class="your-green-card">
-                    <h6>This visa is suitable for:</h6>
+                    <h6>This visa is ideal for:</h6>
                     <ul>
                         <li>
                             <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Recognized tech professionals">
-                            Recognized tech professionals seeking a strong alternative to the unpredictability of the H-1B process
+                            Established technology experts looking for a reliable option beyond the uncertain H-1B lottery system
                         </li>
                         <li>
                             <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="F-1 visa holders on OPT">
-                            F-1 visa holders on OPT who've demonstrated impact in tech through public visibility, research,
-                            or professional contributions
+                            F-1 students on OPT who have shown meaningful influence in technology through industry recognition, research work, or professional achievements
                         </li>
                         <li>
                             <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Product leaders">
-                            Product leaders with recognized launches and innovation adopted across teams or platforms
+                            Product executives with notable releases and innovations implemented by multiple teams or platforms
                         </li>
                         <li>
                             <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="Technologists and innovators">
-                            Technologists and innovators who are frequently featured, invited to judge, or speak at
-                            industry forums
+                            Technology experts and pioneers who regularly present, serve as judges, or appear as featured speakers at industry events
                         </li>
                     </ul>
                     <div class="home3-btn-group mt-3">
@@ -60,8 +57,8 @@
             <!-- Right Column -->
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                 <div class="inner-images">
-                    <img src="{{ asset('assets/images/inner-images/o-1visa1.jpg') }}"
-                        alt="EB1 Filling Experts help tech professionals secure O-1A visa.">
+                    <img src="{{ asset('assets/images/inner-images/o-1visa1-new.jpg') }}"
+                        alt="EB Filing Experts help tech professionals secure O-1A visa.">
                 </div>
             </div>
         </div>

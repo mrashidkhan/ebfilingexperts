@@ -160,7 +160,7 @@
                             <li><a href="{{ route('eb1a-visa') }}">EB1 Visa</a></li>
                             <li><a href="{{ route('o1avisa') }}">O-1A Visa</a></li>
                             <li><a href="{{ route('eb2-niw') }}">EB2-NIW</a></li>
-                            <li><a href="{{ route('turing-ai') }}">Turing AI</a></li>
+                            {{-- <li><a href="{{ route('turing-ai') }}">Turing AI</a></li> --}}
                             <li><a href="{{ route('who-are-we') }}">Who are we</a></li>
                             <!-- <li><a href="{{ route('partnerships-boundless') }}">Boundless Partner</a></li> -->
                             <li><a href="{{ route('our-story') }}">Our Story</a></li>
@@ -175,8 +175,8 @@
 
                         <ul class="list-link">
   <li><a href="{{ route('reviews') }}">Testimonials</a></li>
-  <li><a href="{{ route('case-studies') }}">Case Studies</a></li>
-  <li><a href="{{ route('vodcast') }}">Vodcast</a></li>
+  {{-- <li><a href="{{ route('case-studies') }}">Case Studies</a></li> --}}
+  {{-- <li><a href="{{ route('vodcast') }}">Vodcast</a></li> --}}
   <li><a href="{{ route('blog') }}">Blog</a></li>
   <li><a href="{{ route('faqs') }}">FAQ's</a></li>
 </ul>

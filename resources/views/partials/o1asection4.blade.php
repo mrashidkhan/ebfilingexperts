@@ -137,7 +137,7 @@
                                     <!-- Call to Action Button -->
                                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 m-auto">
                                         <div class="home3-btn-group m-auto align-items-center o-1visa-btn" style="text-align: center;">
-                                            <a href="{{ route('contactus') }}#calendar" class="theme-btn-1 mrr-15 m-auto align-items-center">
+                                            <a href="{{ route('contactus') }}" class="theme-btn-1 mrr-15 m-auto align-items-center">
                                                 Let's Craft Your O-1A Case Strategically
                                                 <i class="base-icon-next"></i>
                                             </a>

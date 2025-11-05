@@ -83,7 +83,7 @@
             <!-- Call to Action Button -->
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="home3-btn-group mt-4 text-center">
-                    <a href="{{ route('contactus') }}#calendar" class="theme-btn-1 mrr-15">
+                    <a href="{{ route('contactus') }}" class="theme-btn-1 mrr-15">
                         Assess your EB2-NIW qualifications
                         <i class="base-icon-next"></i>
                     </a>

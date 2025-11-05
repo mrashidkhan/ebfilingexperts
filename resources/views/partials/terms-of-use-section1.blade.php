@@ -66,7 +66,7 @@ Dallas, TX, 75234, USA. We operate the website https://eb1fillingexperts.com (th
             permission, except as expressly permitted in these terms.
           </p>
           <p>
-            If you wish to use the Services, Content, or Marks in ways not described here, please contact contact@eb1aexperts.com.
+            If you wish to use the Services, Content, or Marks in ways not described here, please contact contact@ebfilingexperts.com.
             With our permission, you may display our content publicly, provided you clearly retain all copyright and proprietary
             notices and acknowledge EB Filing Experts LLC as the owner or licensor.
           </p>

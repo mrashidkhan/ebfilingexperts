@@ -23,7 +23,7 @@
                         <!-- Right Button -->
                         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                             <div class="call-to-action-btn-box mrt-15 mrt-md-30">
-                                <a href="{{ route('contactus') }}#calendar" class="theme-btn-2">
+                                <a href="{{ route('contactus') }}" class="theme-btn-2">
                                     <b>Connect with our team today!</b>
                                 </a>
                             </div>

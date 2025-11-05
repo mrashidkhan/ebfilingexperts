@@ -18,7 +18,7 @@
                                 </div>
                                 <div>
                                     <p>Drop us an email</p>
-                                    <a href="mailto:sales@eb1aexperts.com">contact@ebfilinexperts.com</a>
+                                    <a href="mailto:contact@ebfilinexperts.com">contact@ebfilinexperts.com</a>
                                 </div>
                             </div>
                         </div>

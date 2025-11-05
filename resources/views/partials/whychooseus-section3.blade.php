@@ -11,7 +11,7 @@
                 <div>
                   <div class="">
                     <div class="d-inline align-items-center mt-10">
-                      <a href="contact-us.html#calendar" class="theme-btn-1 mrr-40 mrb-sm-20"> Schedule Consultation</a>
+                      <a href="{{ route('contactus') }}" class="theme-btn-1 mrr-40 mrb-sm-20"> Schedule Consultation</a>
                     </div>
                   </div>
                 </div>

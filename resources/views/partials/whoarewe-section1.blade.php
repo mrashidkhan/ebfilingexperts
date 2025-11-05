@@ -25,7 +25,7 @@
 
           {{-- Animated button --}}
           <div class="home3-btn-group">
-            <a href="{{ asset('assets/images/inner-images/Main2.mp4') }}"
+            <a href="{{ asset('assets/images/inner-images/trailer2.mp4') }}"
               class="video-button video-popup d-none d-xl-inline-flex d-lg-inline-flex d-md-inline-flex"
               tabindex="0" rel="nofollow" type="video/mp4">
               <span class="play-icon">

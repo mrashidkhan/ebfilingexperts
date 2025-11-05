@@ -21,7 +21,7 @@
     <h3 class="mb-3">Maximize Your EB1A Approval Chances – Get Your Personalized Plan Now!</h3>
     <h5 class="mb-3">Claim Your Plan Now!</h5>
     <div class="Plan-Now">
-        <a href="{{ route('contactus') }}#calendar" class="theme-btn-1 mrb-sm-20">
+        <a href="{{ route('contactus') }}" class="theme-btn-1 mrb-sm-20">
             Contact us
             <i class="base-icon-next"></i>
         </a>

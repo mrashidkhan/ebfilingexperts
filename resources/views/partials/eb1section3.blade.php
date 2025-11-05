@@ -110,11 +110,9 @@
                             <img src="{{ asset('assets/images/inner-images/Criteria-icon6-b.png') }}" alt="Scholarly Articles" class="normal-img">
                             <img src="{{ asset('assets/images/inner-images/Criteria-icon6-w.png') }}" alt="Publications" class="normal-img-hover">
                             <h4 class="service-title">
-                                <a href="https://medium.com/@eb1aexperts/scholarly-articles-for-eb1a-green-card-navigating-the-criteria-and-success-strategies-47a2d2426b66"
-                                    target="_blank"
-                                    class="target-color">
+
                                     Academic Research Publications
-                                </a>
+                                
                                 & Publications
                             </h4>
                             <p class="service-description">

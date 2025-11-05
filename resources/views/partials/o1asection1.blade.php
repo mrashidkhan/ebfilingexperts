@@ -8,7 +8,7 @@
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="your-green-card-inner">
                     <h2>
-                        
+
                         <a href="{{ route('o1avisa') }}" class="target-color" target="_blank">
                             O-1A Employment Visa
                         </a>
@@ -46,7 +46,7 @@
                         </li>
                     </ul>
                     <div class="home3-btn-group mt-3">
-                        <a href="{{ route('contactus') }}#calendar" class="theme-btn-1 mrr-15">
+                        <a href="{{ route('contactus') }}" class="theme-btn-1 mrr-15">
                             Check Your Eligibility
                             <i class="base-icon-next"></i>
                         </a>

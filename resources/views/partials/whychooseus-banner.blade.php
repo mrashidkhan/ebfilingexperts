@@ -11,7 +11,7 @@
                 Tech Leaders Trust Us for EB-1A Success
                 </h2>
                 <div class="home3-btn-group btn-padding">
-                  <a href="contactus.html#calendar" class="theme-btn-1 mrr-15">Check Your Eligibility
+                  <a href="{{ route('contactus') }}" class="theme-btn-1 mrr-15">Check Your Eligibility
                   </a>
                 </div>
               </div>

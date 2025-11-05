@@ -28,9 +28,9 @@
                         </div>
                         <div class="info">
                             <h4>
-                                <a href="{{ route('turing-ai') }}" class="target-color" target="_blank">
+
                                     AI-Powered Profile Optimization
-                                </a>
+                                
                             </h4>
                             <p>
                                 AI Athena optimizes every detail of your profile to maximize your EB-1A approval potential.

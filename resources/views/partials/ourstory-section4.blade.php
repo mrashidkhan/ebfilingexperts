@@ -64,10 +64,7 @@
                                 <a href="javascript:void()">Precision-Driven Strategies</a>
                             </h5>
                             <p>
-  <a href="{{ route('turing-ai') }}" target="_blank" class="target-color">
-    Advanced AI-driven insights
-  </a>,
-  strategic case development led by industry experts, and proven methodologies backed by success metrics.
+      Advanced AI-driven insights, strategic case development led by industry experts, and proven methodologies backed by success metrics.
 </p>
                         </div>
                     </div>

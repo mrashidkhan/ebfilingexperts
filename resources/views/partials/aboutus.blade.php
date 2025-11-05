@@ -11,24 +11,14 @@
                 <div class="title-box">
                     <h2 class="title mrb-lg-35 mrb-10 title-heading text-center">
                         Say Hello to our
-                        <span class="text-gradient-color">
-                            <a href="{{ route('turing-ai') }}" class="target-color">
+
                                 AscentAI!
-                            </a>
+
                         </span>
                     </h2>
                 </div>
                 <p class="mrb-10 text-center">
-                    EB Filing Experts understands the distinct obstacles technology professionals encounter when pursuing the elite EB1A Green Card. We developed AscentAI—a sophisticated
-                    {{-- <a href="https://medium.com/@eb1aexperts/ai-powered-eb1a-green-card-help-for-tech-professionals-1b20a5f94e43"
-                        target="_blank"
-                        class="target-color">
-                        AI-powered solution
-                    </a> --}}
-                    <a href="{{ route('turing-ai') }}" class="target-color">
-                                AI-powered solution
-                            </a>
-                    to streamline, optimize, and accelerate your EB1A application process. With AscentAI, your EB1A journey is smarter, faster, and more efficient than ever.
+                    EB Filing Experts understands the distinct obstacles technology professionals encounter when pursuing the elite EB1A Green Card. We developed AscentAI—a sophisticated AI-powered solution to streamline, optimize, and accelerate your EB1A application process. With AscentAI, your EB1A journey is smarter, faster, and more efficient than ever.
                 </p>
             </div>
         </div>
@@ -108,7 +98,7 @@
             <!-- Call to Action Button -->
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center btn-padding">
                 <div class="d-inline align-items-center mt-40">
-                    <a href="{{ route('contactus') }}#calendar" class="theme-btn-1 mrr-40 mrb-sm-20">
+                    <a href="{{ route('contactus') }}" class="theme-btn-1 mrr-40 mrb-sm-20">
                         Schedule your consultation
                         <i class="base-icon-next"></i>
                     </a>

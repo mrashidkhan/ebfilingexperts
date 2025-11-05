@@ -8,9 +8,7 @@
                     <p>
                         AscentAI leverages big data and advanced artificial intelligence to provide personalized,
                         optimized
-                        recommendations tailored to your unique qualifications. This revolutionizes the <a
-                            href="https://medium.com/@eb1aexperts/ai-powered-eb1a-green-card-help-for-tech-professionals-1b20a5f94e43"
-                            target="_blank" class="target-color">EB1A green card process</a>,
+                        recommendations tailored to your unique qualifications. This revolutionizes the EB1A green card process,
                         making it faster and more efficient for professionals to navigate and meet application
                         requirements with
                         ease.
@@ -23,7 +21,7 @@
                 </div>
                 <div class="btn-padding">
                     <div class="d-inline align-items-center mt-40">
-                        <a href="{{ route('contactus') }}#calendar" class="theme-btn-1 mrr-40 mrb-sm-20">
+                        <a href="{{ route('contactus') }}" class="theme-btn-1 mrr-40 mrb-sm-20">
                             Evaluate your profile
                         </a>
                     </div>

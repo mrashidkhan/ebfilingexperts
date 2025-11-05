@@ -9,7 +9,7 @@
         Exclusively Focused on National Interest Waiver Success for Researchers, Scientists, and Engineers
     </h2>
     <div class="home3-btn-group btn-padding">
-        <a href="{{ route('contactus') }}#calendar" class="theme-btn-1 mrr-15">
+        <a href="{{ route('contactus') }}" class="theme-btn-1 mrr-15">
             Confirm Your EB2-NIW Eligibility
             <i class="base-icon-next"></i>
         </a>

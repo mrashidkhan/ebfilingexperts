@@ -9,11 +9,7 @@
                 </h3>
                 <div class="Commitment">
                     <p class="">
-  EB Filing Experts has earned its reputation as a trusted partner for professionals pursuing
-  <a href="https://medium.com" target="_blank" class="target-color">
-    EB1A approvals
-  </a>
-  with strategic confidence and transparency. From a single founder's determination emerged a global platform dedicated to
+  EB Filing Experts has earned its reputation as a trusted partner for professionals pursuing EB1A approvals with strategic confidence and transparency. From a single founder's determination emerged a global platform dedicated to
   empowering exceptional talent. Beyond immigration processing, we're committed to transforming career aspirations into tangible
   achievements and converting goals into reality. Because exceptional professionals with access to opportunity don't just succeed
   personally—they elevate entire industries and drive innovation for the world.
@@ -24,7 +20,7 @@
             <!-- Right Column - Image -->
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                 <div class="inner-images">
-                    <img src="{{ asset('assets/images/inner-images/Experts-Stands3.jpg') }}"
+                    <img src="{{ asset('assets/images/inner-images/Experts-Stands3-new.png') }}"
                         alt="EB Filing Experts team collaborating on immigration strategies">
                 </div>
             </div>

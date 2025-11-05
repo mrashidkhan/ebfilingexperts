@@ -67,7 +67,7 @@
                 <div class="row">
                     <div class="col-lg-12 mt-3">
                         <div class="d-inline d-md-flex align-items-center mt-40">
-                            <a href="{{ route('contactus') }}#calendar" class="theme-btn-1 mrr-40 mrb-sm-20">
+                            <a href="{{ route('contactus') }}" class="theme-btn-1 mrr-40 mrb-sm-20">
                                 Evaluate your profile now
                                 <i class="base-icon-next"></i>
                             </a>

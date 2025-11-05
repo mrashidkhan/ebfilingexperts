@@ -34,10 +34,7 @@
                     <img src="{{ asset('assets/images/inner-images/ai-advantage2.png') }}" alt="AscentAI">
                     <h3>AscentAI: Smart Gap & Predictive Analysis</h3>
                     <p>
-                        <a href="{{ route('turing-ai') }}" target="_blank" class="target-color">
-                            AscentAI
-                        </a>
-                        identifies weak areas in your profile and predicts potential USCIS concerns before submission.
+                        AscentAI identifies weak areas in your profile and predicts potential USCIS concerns before submission.
                         This proactive approach ensures your achievements are framed strategically, reducing risks and
                         increasing approval chances.
                     </p>

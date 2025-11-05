@@ -30,7 +30,7 @@
                                                       <h2 class="pt-2 pb-2 inner-heading">We empower tech professionals in obtaining their EB1A Green Card through professional guidance and personalized support. </h2>
                                                       <div class="">
                                                           <div class="home3-btn-group btn-padding">
-                                                              <a href="{{ route('contactus') }}#calendar"
+                                                              <a href="{{ route('contactus') }}"
                                                                   class="theme-btn-1 mrr-15">Evaluate your profile <i
                                                                       class="base-icon-next"></i></a>
                                                               </a>
@@ -65,7 +65,7 @@
                                                       <h2 class="pt-2 pb-2 inner-heading">Perfect for Distinguished Experts in Finance, Research, Engineering, and Additional Fields</h2>
                                                       <div class="">
                                                           <div class="home3-btn-group btn-padding">
-                                                              <a href="{{ route('contactus') }}#calendar"
+                                                              <a href="{{ route('contactus') }}"
                                                                   class="theme-btn-1 mrr-15">Evaluate your profile <i
                                                                       class="base-icon-next"></i></a>
                                                               </a>
@@ -100,7 +100,7 @@
                                                       <h2 class="pt-2 pb-2 inner-heading">Independent Path Without Employer Sponsorship — Qualify Based on Your Achievements and Contributions</h2>
                                                       <div class="">
                                                           <div class="home3-btn-group btn-padding">
-                                                              <a href="{{ route('contactus') }}#calendar"
+                                                              <a href="{{ route('contactus') }}"
                                                                   class="theme-btn-1 mrr-15">Evaluate your profile <i
                                                                       class="base-icon-next"></i></a>
                                                               </a>

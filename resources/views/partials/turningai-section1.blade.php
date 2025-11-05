@@ -105,10 +105,8 @@
                                     </div>
                                     <div class="col-lg-6 col-md-7 col-sm-12 col-xs-12 mobile-res-tabs">
                                         <div class="tabs-inner-content">
-                                            <h3 class="main-heading"><a
-                                                    href="https://medium.com/@eb1aexperts/ai-powered-eb1a-success-b6ede4be31a9"
-                                                    target="_blank" class="target-color">AI-Driven Precision
-                                                    Optimization</a></h3>
+                                            <h3 class="main-heading">AI-Driven Precision
+                                                    Optimization</h3>
                                             <p>
                                                 AscentAI enhances your profile with advanced, human-like
                                                 intelligence, transforming your
@@ -177,9 +175,7 @@
                                                         alt="Customized strategies"> <b>Customized strategies</b>
                                                     based on
                                                     industry
-                                                    trends, <a
-                                                        href="https://medium.com/@eb1aexperts/understanding-the-criteria-for-eb-1a-how-to-demonstrate-extraordinary-ability-565b36b31995"
-                                                        target="_blank" class="target-color">EB1A criteria</a>,
+                                                    trends, 
                                                     and your professional
                                                     goals.
                                                 </li>

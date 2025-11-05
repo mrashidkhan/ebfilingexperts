@@ -6,7 +6,7 @@
   <title>EB Filing Experts | Your Path to U.S. Permanent Residency</title>
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="{{ url()->current() }}" />
-  <meta name="image" property="og:image" content="{{ asset('assets/images/inner-images/logo-new.png') }}">
+  <meta name="image" property="og:image" content="{{ asset('assets/images/inner-images/ogimage.png') }}">
   <meta name="title" property="og:title" content="EB Filing Experts | Your Path to U.S. Permanent Residency">
   <meta name="author" content="" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">

@@ -27,9 +27,9 @@
                                 <li>
                                     <img src="{{ asset('assets/images/inner-images/check.png') }}" alt="AI-Driven Profile Optimization">
                                     <b>
-                                        <a href="{{ route('turing-ai') }}" target="_blank" class="target-color">
+
                                             Strategic Credential Optimization
-                                        </a>
+                                        
                                     </b>
                                     – AscentAI enhances every aspect of your profile to compellingly demonstrate exceptional expertise.
                                 </li>
@@ -69,7 +69,7 @@
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center m-0">
                         <div class="btn-padding">
                             <div class="d-inline align-items-center mt-40">
-                                <a href="{{ route('contactus') }}#calendar" class="theme-btn-1 mrr-40 mrb-sm-20">
+                                <a href="{{ route('contactus') }}" class="theme-btn-1 mrr-40 mrb-sm-20">
                                     Let us lead you to success!
                                     <i class="base-icon-next"></i>
                                 </a>

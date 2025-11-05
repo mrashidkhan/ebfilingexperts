@@ -172,7 +172,7 @@
         <div class="mobile-nav-container"></div>
         <ul class="list-items mobile-sidebar-contact">
             <li> <i class="bi bi-envelope-paper"></i> <a href="mailto:contact@eb1aexperts.com"
-                    style="padding-left:4px;"> contact@eb1fillingexperts.com</a>
+                    style="padding-left:4px;"> info@ebfilingexperts.com</a>
             </li>
             <li><i class="bi bi-geo-alt"></i> <b style="color: #fff;"> Address :</b> 2727 LBJ Freeway, Suite 200
                 Dallas, TX, 75234</li>

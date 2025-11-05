@@ -3,6 +3,8 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PageController;
 use App\Http\Controllers\BlogController;
+use App\Http\Controllers\VisaController;
+
 
 
 // Admin Controllers
@@ -12,6 +14,9 @@ use App\Http\Controllers\Admin\AdminCategoryController;
 use App\Http\Controllers\Admin\AdminTagController;
 use App\Http\Controllers\Admin\AdminCommentController;
 use App\Http\Controllers\Admin\AdminStaffController;
+
+// VisaController
+// use App\Http\Controllers\VisaController;
 
 // Public Routes
 Route::get('/seatselection', [PageController::class, 'selection'])->name('seatselection');
@@ -140,42 +145,57 @@ Route::get('/blogs/archive/{year}/{month?}', [BlogController::class, 'archive'])
 Route::post('blog/comments/store', [BlogController::class, 'storeComment'])->name('blog.comments.store');
 
 
-// Work Visas Category
-Route::get('/work-visas', 'VisaController@workVisas')->name('work-visas');
-Route::get('/visas/h1b-visa', 'VisaController@h1bVisa')->name('h1b-visa');
-Route::get('/visas/l1-visa', 'VisaController@l1Visa')->name('l1-visa');
-Route::get('/visas/tn-visa', 'VisaController@tnVisa')->name('tn-visa');
-Route::get('/visas/h2b-visa', 'VisaController@h2bVisa')->name('h2b-visa');
-Route::get('/visas/e3-visa', 'VisaController@e3Visa')->name('e3-visa');
+// =====================================
+// WORK & EMPLOYMENT VISAS ROUTES
+// =====================================
+Route::get('/work-visas', [VisaController::class, 'workVisas'])->name('work-visas');
+Route::get('/visas/h1b-visa', [VisaController::class, 'h1bVisa'])->name('h1b-visa');
+Route::get('/visas/h2a-visa', [VisaController::class, 'h2aVisa'])->name('h2a-visa');
+Route::get('/visas/h2b-visa', [VisaController::class, 'h2bVisa'])->name('h2b-visa');
+Route::get('/visas/e3-visa', [VisaController::class, 'e3Visa'])->name('e3-visa');
+Route::get('/visas/tn-visa', [VisaController::class, 'tnVisa'])->name('tn-visa');
+Route::get('/visas/l1-visa', [VisaController::class, 'l1Visa'])->name('l1-visa');
+Route::get('/visas/eb1c-visa', [VisaController::class, 'eb1cVisa'])->name('eb1c-visa'); // Permanent Residency for L1A
+Route::get('/visas/e2-visa', [VisaController::class, 'e2Visa'])->name('e2-visa'); // Treaty Investor Visa
 
-// Student Visas Category
-Route::get('/student-visas', 'VisaController@studentVisas')->name('student-visas');
-Route::get('/visas/f1-visa', 'VisaController@f1Visa')->name('f1-visa');
-Route::get('/visas/m1-visa', 'VisaController@m1Visa')->name('m1-visa');
-Route::get('/visas/j1-visa', 'VisaController@j1Visa')->name('j1-visa');
+// ====================================
+// STUDENT VISAS ROUTES
+// ====================================
+Route::get('/student-visas', [VisaController::class, 'studentVisas'])->name('student-visas');
+Route::get('/visas/f1-visa', [VisaController::class, 'f1Visa'])->name('f1-visa');
+Route::get('/visas/m1-visa', [VisaController::class, 'm1Visa'])->name('m1-visa');
+Route::get('/visas/j1-visa', [VisaController::class, 'j1Visa'])->name('j1-visa');
 
-// Business & Investor Visas Category
-Route::get('/business-investor-visas', 'VisaController@businessInvestorVisas')->name('business-investor-visas');
-Route::get('/visas/e2-visa', 'VisaController@e2Visa')->name('e2-visa');
-Route::get('/visas/e1-visa', 'VisaController@e1Visa')->name('e1-visa');
-Route::get('/visas/eb5-visa', 'VisaController@eb5Visa')->name('eb5-visa');
+// ====================================
+// BUSINESS & INVESTOR VISAS ROUTES
+// ====================================
+Route::get('/business-investor-visas', [VisaController::class, 'businessInvestorVisas'])->name('business-investor-visas');
+Route::get('/visas/e2-visa', [VisaController::class, 'e2Visa'])->name('e2-visa');
+Route::get('/visas/e1-visa', [VisaController::class, 'e1Visa'])->name('e1-visa');
+Route::get('/visas/eb5-visa', [VisaController::class, 'eb5Visa'])->name('eb5-visa');
 
-// Family-Based Visas Category
-Route::get('/family-visas', 'VisaController@familyVisas')->name('family-visas');
-Route::get('/visas/k1-visa', 'VisaController@k1Visa')->name('k1-visa');
-Route::get('/visas/k3-visa', 'VisaController@k3Visa')->name('k3-visa');
-Route::get('/visas/cr1-ir1-visa', 'VisaController@cr1Ir1Visa')->name('cr1-ir1-visa');
-Route::get('/visas/ir5-visa', 'VisaController@ir5Visa')->name('ir5-visa');
+// ====================================
+// FAMILY-BASED VISAS ROUTES
+// ====================================
+Route::get('/family-visas', [VisaController::class, 'familyVisas'])->name('family-visas');
+Route::get('/visas/k1-visa', [VisaController::class, 'k1Visa'])->name('k1-visa');
+Route::get('/visas/k3-visa', [VisaController::class, 'k3Visa'])->name('k3-visa');
+Route::get('/visas/cr1-ir1-visa', [VisaController::class, 'cr1Ir1Visa'])->name('cr1-ir1-visa');
+Route::get('/visas/ir5-visa', [VisaController::class, 'ir5Visa'])->name('ir5-visa');
 
-// Tourist & Visitor Visas Category
-Route::get('/tourist-visitor-visas', 'VisaController@touristVisitorVisas')->name('tourist-visitor-visas');
-Route::get('/visas/b1-b2-visa', 'VisaController@b1B2Visa')->name('b1-b2-visa');
-Route::get('/visas/b1-visa', 'VisaController@b1Visa')->name('b1-visa');
-Route::get('/visas/b2-visa', 'VisaController@b2Visa')->name('b2-visa');
+// ====================================
+// TOURIST & VISITOR VISAS ROUTES
+// ====================================
+Route::get('/tourist-visitor-visas', [VisaController::class, 'touristVisitorVisas'])->name('tourist-visitor-visas');
+Route::get('/visas/b1-b2-visa', [VisaController::class, 'b1B2Visa'])->name('b1-b2-visa');
+Route::get('/visas/b1-visa', [VisaController::class, 'b1Visa'])->name('b1-visa');
+Route::get('/visas/b2-visa', [VisaController::class, 'b2Visa'])->name('b2-visa');
 
-// Special Category Visas
-Route::get('/special-visas', 'VisaController@specialVisas')->name('special-visas');
-Route::get('/visas/p1-visa', 'VisaController@p1Visa')->name('p1-visa');
-Route::get('/visas/r1-visa', 'VisaController@r1Visa')->name('r1-visa');
-Route::get('/visas/i-visa', 'VisaController@iVisa')->name('i-visa');
-Route::get('/visas/u-visa', 'VisaController@uVisa')->name('u-visa');
+// ====================================
+// SPECIAL CATEGORY VISAS ROUTES
+// ====================================
+Route::get('/special-visas', [VisaController::class, 'specialVisas'])->name('special-visas');
+Route::get('/visas/p1-visa', [VisaController::class, 'p1Visa'])->name('p1-visa');
+Route::get('/visas/r1-visa', [VisaController::class, 'r1Visa'])->name('r1-visa');
+Route::get('/visas/i-visa', [VisaController::class, 'iVisa'])->name('i-visa');
+Route::get('/visas/u-visa', [VisaController::class, 'uVisa'])->name('u-visa');

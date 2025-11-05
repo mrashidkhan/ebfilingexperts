@@ -190,7 +190,7 @@
 
                             <li class="contact-widget-list">
                                 <span class="icon bi bi-envelope-paper"></span>
-                                <strong><a href="mailto:contact@eb1fillingexperts.com">contact@eb1fillingexperts.com</a></strong>
+                                <strong><a href="mailto:info@ebfilingexperts.com">info@ebfilingexperts.com</a></strong>
 
                             </li>
                             <li class="contact-widget-list">

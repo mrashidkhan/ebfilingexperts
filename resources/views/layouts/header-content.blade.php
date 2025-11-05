@@ -28,6 +28,76 @@
                         </ul>
                     </li>
 
+                    <!-- New Other Visas Menu -->
+                    <li class="menu-has-sub">
+                        <a href="javascript:void()">Other Visas</a>
+                        <ul class="sub-menu dropdown-menu-submenu">
+                            <!-- Work Visas -->
+                            <li class="menu-has-sub has-sub-child">
+                                <a href="{{ route('work-visas') }}">Work Visas</a>
+                                <ul class="sub-menu dropdown-menu-submenu">
+                                    <li><a href="{{ route('h1b-visa') }}">H1B Visa</a></li>
+                                    <li><a href="{{ route('l1-visa') }}">L1 Visa</a></li>
+                                    <li><a href="{{ route('tn-visa') }}">TN Visa</a></li>
+                                    <li><a href="{{ route('h2b-visa') }}">H2B Visa</a></li>
+                                    <li><a href="{{ route('e3-visa') }}">E3 Visa</a></li>
+                                </ul>
+                            </li>
+
+                            <!-- Student Visas -->
+                            <li class="menu-has-sub has-sub-child">
+                                <a href="{{ route('student-visas') }}">Student Visas</a>
+                                <ul class="sub-menu dropdown-menu-submenu">
+                                    <li><a href="{{ route('f1-visa') }}">F1 Visa</a></li>
+                                    <li><a href="{{ route('m1-visa') }}">M1 Visa</a></li>
+                                    <li><a href="{{ route('j1-visa') }}">J1 Visa</a></li>
+                                </ul>
+                            </li>
+
+                            <!-- Business & Investor Visas -->
+                            <li class="menu-has-sub has-sub-child">
+                                <a href="{{ route('business-investor-visas') }}">Business & Investor</a>
+                                <ul class="sub-menu dropdown-menu-submenu">
+                                    <li><a href="{{ route('e2-visa') }}">E2 Visa (Investor)</a></li>
+                                    <li><a href="{{ route('e1-visa') }}">E1 Visa (Treaty Trader)</a></li>
+                                    <li><a href="{{ route('eb5-visa') }}">EB5 Visa (Immigrant Investor)</a></li>
+                                </ul>
+                            </li>
+
+                            <!-- Family-Based Visas -->
+                            <li class="menu-has-sub has-sub-child">
+                                <a href="{{ route('family-visas') }}">Family-Based Visas</a>
+                                <ul class="sub-menu dropdown-menu-submenu">
+                                    <li><a href="{{ route('k1-visa') }}">K1 Visa (Fiancé)</a></li>
+                                    <li><a href="{{ route('k3-visa') }}">K3 Visa (Spouse)</a></li>
+                                    <li><a href="{{ route('cr1-ir1-visa') }}">CR1/IR1 Visa (Spouse)</a></li>
+                                    <li><a href="{{ route('ir5-visa') }}">IR5 Visa (Parents)</a></li>
+                                </ul>
+                            </li>
+
+                            <!-- Tourist & Visitor Visas -->
+                            <li class="menu-has-sub has-sub-child">
+                                <a href="{{ route('tourist-visitor-visas') }}">Tourist & Visitor</a>
+                                <ul class="sub-menu dropdown-menu-submenu">
+                                    <li><a href="{{ route('b1-b2-visa') }}">B1/B2 Visa</a></li>
+                                    <li><a href="{{ route('b1-visa') }}">B1 Visa (Business)</a></li>
+                                    <li><a href="{{ route('b2-visa') }}">B2 Visa (Tourist)</a></li>
+                                </ul>
+                            </li>
+
+                            <!-- Special Category Visas -->
+                            <li class="menu-has-sub has-sub-child">
+                                <a href="{{ route('special-visas') }}">Special Categories</a>
+                                <ul class="sub-menu dropdown-menu-submenu">
+                                    <li><a href="{{ route('p1-visa') }}">P1 Visa (Athletes/Entertainers)</a></li>
+                                    <li><a href="{{ route('r1-visa') }}">R1 Visa (Religious Workers)</a></li>
+                                    <li><a href="{{ route('i-visa') }}">I Visa (Journalists)</a></li>
+                                    <li><a href="{{ route('u-visa') }}">U Visa (Crime Victims)</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+
                     {{-- <li class="menu-has-sub">
                         <a href="{{ route('who-are-we') }}">About Us</a>
                         <ul class="dropdown-menu-submenu">
